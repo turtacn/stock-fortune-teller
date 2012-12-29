@@ -6,9 +6,8 @@
     
     <bean class="stockfortuneteller.app.Main">
         <property name="tasks">
-            <list>
-                <bean class="stockfortuneteller.data.StockDataBuilder">
-                </bean>                
+            <list>                
+                <ref bean="stockDataBuilder"/>                 
             </list>
         </property>
     </bean>
@@ -17,13 +16,10 @@
         <property name="companies">
             <list>
                 <bean id="company1" class="stockfortuneteller.data.Company">
-                    <property name="name" value="Lotos"/>
-                    <property name="infoURL" value="http://www.money.pl/gielda/spolki_gpw/grupa;lotos;sa,lts,emitent,1.html"/>
+                    <property name="name" value="LOTOS"/>
+                    <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,457,,1.html"/>
                 </bean>
-                <bean id="company2" class="stockfortuneteller.data.Company">
-                    <property name="name" value="test"/>
-                    <property name="infoURL" value="test2"/>
-                </bean>          
+                      
             </list>
         </property>
     </bean>
