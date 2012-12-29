@@ -79,7 +79,7 @@ public class StockDataBuilder implements ExecutableBean {
 
                         for (org.jsoup.nodes.Element tr : trs) {
                             Elements tds = tr.getElementsByTag("td");
-                            if (tds.size() >= 4) {
+                            if (tds.size() >= 5) {
                                 
                                 org.jsoup.nodes.Element tdText = tds.get(2);
                                 org.jsoup.nodes.Element tdChange = tds.get(4);
