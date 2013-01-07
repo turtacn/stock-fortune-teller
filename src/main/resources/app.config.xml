@@ -1,26 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
  http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-2.5.xsd">
     
     <bean class="stockfortuneteller.app.Main">
         <property name="tasks">
             <list>                
-                <ref bean="stockDataBuilder"/>                 
+                <ref bean="stockStemmerCSVBuilder"/>                 
             </list>
         </property>
     </bean>
          
-    <bean id="stockDataBuilder" class="stockfortuneteller.data.StockDataBuilder">
+    <bean id="stockWekaBuilder" class="stockfortuneteller.data.StockWekaBuilder">
+    </bean>
+    
+    <bean id="stockDataXMLBuilder" class="stockfortuneteller.data.StockDataXMLBuilder">
+    </bean>
+
+    <bean id="stockStemmerCSVBuilder" class="stockfortuneteller.data.StockStemmerCSVBuilder">
         <property name="companies">
             <list>
                 <bean id="company1" class="stockfortuneteller.data.Company">
                     <property name="name" value="LOTOS"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,457,,1.html"/>
-                </bean>
-                      
+                </bean>   
+            </list>
+        </property>
+        <property name="forbiddenWords">
+            <list>
+                <value>grupa</value>
+                <value>lotos</value>
             </list>
         </property>
     </bean>
+    
 </beans>
