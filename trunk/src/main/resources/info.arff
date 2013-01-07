@@ -1,0 +1,11 @@
+@relation info
+
+@attribute tekstt {'GRUPA LOTOS SA zawarcie umów o wartoœci znacz¹cej pomiêdzy','GRUPA LOTOS SA zawarcie umów o wartoœci znacz¹cej','GRUPA LOTOS SA ermin i porz¹dek NWZ oraz projekty uchwa³','GRUPA LOTOS SA wybór podmiotu uprawnionego do badania sprawozdañ finansowych Grupy LOTOS S.A.','GRUPA LOTOS SA termin i porz¹dek NWZ oraz projekty uchwa³'}
+@attribute change numeric
+
+@data
+'GRUPA LOTOS SA zawarcie umów o wartoœci znacz¹cej pomiêdzy',1
+'GRUPA LOTOS SA zawarcie umów o wartoœci znacz¹cej',1
+'GRUPA LOTOS SA ermin i porz¹dek NWZ oraz projekty uchwa³',2
+'GRUPA LOTOS SA wybór podmiotu uprawnionego do badania sprawozdañ finansowych Grupy LOTOS S.A.',1
+'GRUPA LOTOS SA termin i porz¹dek NWZ oraz projekty uchwa³',1
