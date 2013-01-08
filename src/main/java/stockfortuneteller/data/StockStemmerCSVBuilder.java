@@ -24,10 +24,11 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
 
     private List<Company> companies;
     private ArrayList<String> forbiddenWords;
+    private String fileName;
 
     public void execute() throws Exception {
 
-        FileWriter writer = new FileWriter("src/main/resources/info.csv");
+        FileWriter writer = new FileWriter(getFileName());
         writer.append("tekst,change");
         writer.append('\n');
 
@@ -66,11 +67,11 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
                                         writer.append(",");
                                         changeValue = Float.parseFloat(tdChange.text().replace(',', '.'));
                                         if (changeValue > 0) {
-                                            changeNumber = "1";
+                                            changeNumber = "-1";
                                         } else if (changeValue < 0) {
-                                            changeNumber = "2";
+                                            changeNumber = "-2";
                                         } else {
-                                            changeNumber = "0";
+                                            changeNumber = "-3";
                                         }
                                         writer.append(changeNumber);
                                         writer.append('\n');
@@ -114,7 +115,7 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
                 stem = sentenceTable[i];
             } finally {
                 if (!getForbiddenWords().contains(stem)) {
-                    stemmedSentence.append(stem);
+                    stemmedSentence.append(DeletePolishSigns(stem));
                     stemmedSentence.append(" ");
                 }
             }
@@ -122,6 +123,11 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
         stemmedSentence.deleteCharAt(stemmedSentence.length() - 1);
 
         return stemmedSentence.toString();
+    }
+
+    private String DeletePolishSigns(String word) {
+        return word.replace('ą', 'a').replace('ę', 'e').replace('ć', 'c').replace('ź', 'z').
+                replace('ż', 'z').replace('ł', 'l').replace('ś', 's').replace('ó', 'o');
     }
 
     /**
@@ -150,5 +156,19 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
      */
     public void setForbiddenWords(ArrayList<String> forbiddenWords) {
         this.forbiddenWords = forbiddenWords;
+    }
+
+    /**
+     * @return the fileName
+     */
+    public String getFileName() {
+        return fileName;
+    }
+
+    /**
+     * @param fileName the fileName to set
+     */
+    public void setFileName(String fileName) {
+        this.fileName = fileName;
     }
 }
