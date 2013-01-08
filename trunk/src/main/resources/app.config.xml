@@ -3,22 +3,29 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:util="http://www.springframework.org/schema/util"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
- http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-2.5.xsd">
+ http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-2.5.xsd" xmlns:aop="http://www.springframework.org/schema/aop">
     
     <bean class="stockfortuneteller.app.Main">
         <property name="tasks">
-            <list>                
-                <ref bean="stockStemmerCSVBuilder"/>                 
+            <list>              
+                 <ref bean="stockStemmerCSVBuilder"/>     
+                    <ref bean="stockWekaARFFBuilder"/>
+                <ref bean="stockWekaBuilder"/>                 
             </list>
         </property>
     </bean>
          
     <bean id="stockWekaBuilder" class="stockfortuneteller.data.StockWekaBuilder">
-    </bean>
-    
-    <bean id="stockDataXMLBuilder" class="stockfortuneteller.data.StockDataXMLBuilder">
+         <property name="arffFileName" value="src/main/resources/info.arff"/>
+         <property name="numberOfClusters" value="50"/>
+         <property name="csvResultFileName" value="src/main/resources/result.csv"/>
     </bean>
 
+    <bean id="stockWekaARFFBuilder" class="stockfortuneteller.data.StockWekaARFFBuilder">
+        <property name="csvFileName" value="src/main/resources/info.csv"/>
+        <property name="arffFileName" value="src/main/resources/info.arff"/>
+    </bean>
+    
     <bean id="stockStemmerCSVBuilder" class="stockfortuneteller.data.StockStemmerCSVBuilder">
         <property name="companies">
             <list>
@@ -34,6 +41,7 @@
                 <value>lotos</value>
             </list>
         </property>
+        <property name="fileName" value="src/main/resources/info.csv"/>
     </bean>
     
 </beans>

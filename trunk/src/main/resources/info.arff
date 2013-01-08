@@ -1,11 +1,665 @@
 @relation info
 
-@attribute tekstt {'GRUPA LOTOS SA zawarcie umów o wartoœci znacz¹cej pomiêdzy','GRUPA LOTOS SA zawarcie umów o wartoœci znacz¹cej','GRUPA LOTOS SA ermin i porz¹dek NWZ oraz projekty uchwa³','GRUPA LOTOS SA wybór podmiotu uprawnionego do badania sprawozdañ finansowych Grupy LOTOS S.A.','GRUPA LOTOS SA termin i porz¹dek NWZ oraz projekty uchwa³'}
+@attribute tekst {'odwolanie i powolanie prokurent','zawarcie umowic o wartosc znaczacy pomiedzy','zawarcie umowic o wartosc znaczacy','zawarcie umowic o wartosc znaczacy pomiedzy a a a a a','zawarcie umowy na dostawa ropa naftowy','zawarcie umowic o wartosc umowy znaczacy','zmiana w statut','tresc uchwala powziac przez przez','akcjonariusz posiadajacy co malo malo glos na na w dzieñ dzieñ','zawarcie umowic o wartosc umowy znaczacy pomiedzy a spolka kapitalowy kapitalowy','i porzadek porzadek oraz projekt uchwala','wybor podmiot uprawniony do badanie sprawozdanie finansowy','termin i porzadek porzadek oraz projekt uchwala','spelnienie warunek zawieszac umowy kredyt na','raport okresowy kwartalny skonsolidowac skonsolidowac skonsolidowac','zawarcie umowic o wartosc umowy znaczacy pomiedzy a a a a a','zawarcie umowy kredytowy na refinansowanie obecny','zawarcie umowic o wartosc znaczacy z kapitalowy biskup','zawarcie umowic o wartosc znaczacy pomiedzy z kapitalowy kapitalowy kapitalowy','zawarcie umowic o wartosc znaczacy z z z z z','zawarcie umowic o wartosc znaczacy z kapitalowy kapitalowy','raport okresowy polroczny za za za','akcjonariusz posiadajacy co malo malo glos na na','powolanie zarzad osma kadencja','projekt uchwala wraz z uzasadnienie na na zwolac na na czerwiec czerwiec czerwiec','termin i porzadek porzadek','wykaz informacja przekazac do publiczny wiadomosci w rok rok','aneks do umowy znaczacy pomiedzy a kolej kolej z z','rekomendacja zarzad w sprawa podzial zysk netto','zawarcie umowic o wartosc umowy znaczacy pomiedzy a kapitalowy kapitalowy','skonsolidowac raport kwartalny kwartalny kwartalny','zawarcie umowic z kapitalowy kapitalowy','zawarcie umowy na dostawa ropa naftowy pomiedzy a a a a','uchwala uchwala podjac podjac podjac','umowy zawrzec pomiedzy a a a a a','powolanie osoba nadzorowac do rad nadzorczy','odwolanie osoba nadzorowac','termin przekazywac raport okresowy w w','rezygnacja czlonek rad nadzorczy','umowy zawrzec pomiedzy a a a a','wdrazac program optymalny ekspansja kapitalowy w w w','umowy zawrzec z podmiot kapitalowy biskup','umowy zawrzec z podmiot kapitalowy kapitalowy','umowy zawrzec z kapitalowy kapitalowy kapitalowy','umowa znaczacy z parafina parafina z z','aneks do umowy znaczacy z z z','zawarcie umowy znaczacy na sprzedaz ciezki olej opalowy','przedluzenie umowy na sprzedaz paliwo plynny przez spolka na rzecz rzecz rzecz rzecz z z','zawarcie umowy na dostawa ropa naftowy pomiedzy spolka a a a a a','szacunek wybrany czynnik maic istotny wplyw na wynik za za kwartal kwartal kwartal','przedluzenie umowy kredytowy na refinansowanie i finansowac zapas spolka','zawarcie umowy na dostawa ropa naftowy pomiedzy a a a a a','akcjonariusz posiadajacy co malo malo glos na na na sierpieñ sierpieñ sierpieñ','tresc uchwala podjac przez przez przez sierpieñ sierpieñ sierpieñ','odstapic przez w zastepstwie od rozpatrzenie jedno z planowac punkt porzadek obrada','projekt uchwala uchwala','akcjonariusz posiadajacy co malo malo glos','tresc uchwala powziac przez przez przez czerwiec czerwiec czerwiec','powolanie rad nadzorczy na na kadencja','powolanie czlonek rad nadzorczy','umowy zawrzec z z z z z','raport okresowy roczny skonsolidowac za za za','raport okresowy roczny za za rok','odstapic as as od prawic do koncesja poszukiwawczy plac plac','zawiadomienie o zmniejszenie udzial w ogolny liczba glos na w zastepstwie','transakcja dokonany na akcja przez prokurent','termin przekazywac raport okresowy w w rok','przyznanie as udzial w koncesja plac plac','rozwiazanie spolka gaz gaz','umowa znaczacy na sprzedaz paliwo plynny do biskup biskup siebie','rejestracja w w w akcja seria co','dopuscic i wprowadzenie do obrot gieldowy akcja seria co','przyjecie akcja seria co do depozyt papier wartosciowy przez przez przez','umowa znaczacy na sprzedaz paliwo z z polski polski z z','do rok rok','umowa znaczacy z mitsubishi mitsubishi mitsubishi','powolanie osoba nadzorowac nadzorowac informacja uzupelniac','akcjonariusz posiadajacy co malo malo glos na na na czerwiec czerwiec rok','powolanie osoba nadzorowac','umowa znaczacy z z z','projekt uchwala wraz z uzasadnienie na na zwolac na dzieñ dzieñ czerwiec czerwiec czerwiec','asymilacja akcja przez przez przez','wprowadzenie do obrot gieldowy akcja seria a','znaczacy umowa z z z','realizacja pakiet pakiet przez kapitalowy','umowa znaczacy z asfalt asfalt z z','uzupelnienie informacja zawrzec w raport kwartalny za za kwartal kwartal kwartal','raport okresowy okresowy','tresc uchwala powziac przez przez przez luty luty luty','znaczny pakiet akcja akcja zmiana stan posiadanie akcja przez skarb pañstwo','termin oraz porzadek nadzwyczajny walny zgromadzenie zgromadzenie korekta','projekt uchwala uchwala uchwala luty luty luty','termin oraz porzadek porzadek','akcja seria co co informacja w oparcie o o regulamin regulamin','umowa znaczacy z biskup polski polski','znaczacy umowa z z polski polski z z','akcjonariusz posiadajacy co malo malo glos na na w dzieñ dzieñ grudzieñ grudzieñ grudzieñ','umowa znaczacy na sprzedaz paliwo','umowa sprzedaz gaz plynny plynny','zawarcie aneks do umowy','przekroczenie przekroczenie ogolny liczba glos w spolka','projekt uchwala uchwala zwolac na na grudzieñ grudzieñ grudzieñ','zmiana koncesja oraz przeszacowac zasoby zloze bar bar','aktualizacja termin publikacja raport okresowy','zakup udzial w norweski koncesja wydobywczy','zawarcie umowy znaczacy pomiedzy paliwo a a a miedz trans','zakup udzial w koncesja poszukiwawczy poszukiwawczy','zawarcie umowy znaczacy z kolej kolej z z','nabycie udzial parafina parafina z z przez spolka','powolanie prokurent','projekt uchwala uchwala zwolac na dzieñ dzieñ dzieñ','zmiana oswiadczenie zarzad dotyczyc zasada lad korporacyjny','rejestracja zmiana w statut','objecie udzial w park technologiczny przez','aktualizacja termin publikacja raport okresowy w w w','zakup udzial w norweski koncesja poszukiwawczy','zawarcie umowy znaczacy z tank tank z z','doplata do kapital spolka zalezny paliwo paliwo z z','zmiana warunki umowy znaczacy','nabycie akcja spolka zalezny przez przez przez','umowa kredytowy z konsorcjum bank','powolanie czlonek zarzad','rozwiazanie umowy znaczacy','zawarcie umowy znaczacy z biopaliwo biopaliwo z z','ocena rad nadzorczy sytuacja spolka po po rok','podpisac umowy kredytowy','koncesja na eksploatacja gazowy zloze zloze','wyplata dywidenda za za rok','podpisac aneks do znaczacy umowy','odwolanie osoba zarzadzajaca','objecie aktyw finansowy o znaczacy wartosc','zasada wyplat dywidenda','objecie akcja nowa emisja','nabycie przez udzial w krakowski gaz','stanowisko zarzad odnosnie rekomendacja rekomendacja','stanowisko zarzad odnosnie wczesnie opublikowac prognoza wynik na na na','termin raport okresowy w w rok','projekt uchwala uchwala spolka zwolac na dzieñ dzieñ dzieñ','objecie udzial park technologiczny technologiczny z z','kontrakty spot pomiedzy z z z z z z','powolanie zarzad szosta kadencja kadencja informacja uzupelniac','zmiana wysokosc kapital zakladowy laba laba z z','przedluzenie koncesja wydac na rzecz rzecz rzecz','informacja o zastosowac zasada lad korporacyjny','zakoñczenie postepowanie likwidacyjny spolka spolka paliwo paliwo z z','zawarcie umowic pomiedzy a a a a','nabycie akcja o wartosc powyzej powyzej euro','rejestracja zmiana wysokosc kapital zakladowy park technologiczny','transakcja pomiedzy podmiot powiazac','zmiana oswiadczenie oswiadczenie zasada lad korporacyjny','rezygnacja osoba nadzorowac nadzorowac uzupelnienie informacja','stanowisko zarzad w sprawa polaczenie z partner partner z z','akcjonariusz akcjonariusz glos na na na czerwiec czerwiec rok','informacja przekazac do publiczny wiadomosci w rok rok','rozszerzyc zakres dwa koncesja','rejestracja podwyzszenie kapital zakladowy','zawarcie umowy znaczacy z z polski polski z z','akcjonariusz akcjonariusz akcjonariusz glos na na po wznowienie obrada','zmiana struktura kapital zakladowy parafina parafina z z','podpisac umowy na zakup stacja paliwo paliwo','skorygowac struktura kapital kapital park technologiczny technologiczny z z','transakcja na akcja spolka w rok rok','termin termin oraz tresc proponowac zmiana postanowienie statut','skonsolidowac raport polroczny','zawarcie trojstronny umowy znaczacy','rejestracja przez sad podwyzszenie kapital zakladowy','wybor podmiot uprawniony do badanie sprawozdanie finansowy spolka','otwarcie postepowanie likwidacyjny wobec wobec paliwo paliwo z z','ustanowic prokurent','zbycie przez jaslo udzial spolka spolka','korekta prognoza wynik finansowy na na rok','rozwiazanie znaczacy umowy','zawarcie umowy znaczacy pomiedzy spolka zalezny','raport roczny','korekta sprawozdanie zarzad z dzialalnosc spolka za rok rok','objecie udzial w park technologiczny technologiczny z z przez','objecie aktyw finansowy o znaczacy wartosc przez jaslo jaslo','rejestracja zmiana struktura kapital zakladowy ochrona ochrona z z','podpisac kontrakt','tresc nowe tekst jednolity statut','powolanie zarzad siodma kadencja','podpisac kontrakt kontrakt na budowa instalacja instalacja','zakoñczenie subskrypcja akcja seria co','zmiana porzadek obrada','termin zwolanie oraz porzadek porzadek','objecie akcja w andante andante andante as','zmiana porzadek obrada obrada zwolac na na kwietni kwietni kwietni','nabycie przez udzial spolka krakowski gaz gaz z z','informacja uzupelniac do prognoza wynik finansowy na na na','wprowadzenie do obrot gieldowy akcja seria a spolka','umowy zawrzec z z polski polski z z','korekta skonsolidowac raport za iii kwartal kwartal rok','projekt uchwala uchwala zwolac na na czerwiec czerwiec czerwiec','tresc uchwala powziac przez przez w dzieñ dzieñ kwietni kwietni kwietni','opinia opinia w sprawa ocena sytuacja spolka w w rok','zmiana kapital andante andante andante andante','zmiana w sklad rad nadzorczy','nabycie spolka andante andante andante andante','nabycie przez udzial spolka krakowski gaz gaz z z z korekta','spelnienie warunki zawieszac umowy znaczacy',informowac,'zmiana profil dzialalnosc rafineria rafineria rafineria','zawarcie umowy znaczacy pomiedzy a asfalt','kontrakt w rama program kompleksowy rozwoj techniczny','zmniejszenie udzial w ogolny liczba glos','termin raport','przyznanie as udzial w cztery koncesja poszukiwawczy','skonsolidowac raport roczny','zawarcie umowy znaczacy','umowa z podmiot powiazac','porzadek porzadek uzupelnienie','rozpoczecie eksploatacja zloze zloze przez spolka spolka spolka','zmiana data publikacja raport okresowy','tresc uchwala powziac przez przez w dzieñ dzieñ maja maja rok','rezygnacja czlonek czlonek kadencja','wplyw wycena zapas metoda metoda na skonsolidowac wynik finansowy','skonsolidowac raport polroczny polroczny sprostowanie','pakiet pakiet dla kapitalowy','projekt uchwala uchwala zwolac na na kwietni kwietni kwietni','tresc uchwala powziac przez przez przez luty luty rok','odwolanie prokurent','projekt uchwala uchwala zwolac na na czerwiec czerwiec czerwiec wraz z uzasadnienie','polaczenie oraz partner partner z z','podpisac kontrakt kontrakt kontrakt','oswiadczenie zarzad zarzad zasada lad korporacyjny w spolka','powolanie czlonek zarzad zarzad informacja uzupelniac','zawarcie umowy znaczacy z biskup polski polski z z','zawarcie trojstronny umowy','termin przekazywac raport okresowy w w w','nabycie znaczny pakiet akcja seria co','umowy zawrzec z z z andante andante andante na laczny wartosc umowy znaczacy','nabycie przez laba laba z z z udzial spolka laboratorium badacz badacz z z','informacja o transakcja dokonany na akcja spolka','nabycie znaczny pakiet akcja','zbycie znaczny pakiet akcja spolka','zasada przyjety odnosnie konwersja akcja imienny na akcja na okaziciel','zarejestrowac spolka zalezny','rezygnacja osoba nadzorowac','zloze zloze zloze koncesja na wydobywac ropa naftowy i gaz ziemny','termin i porzadek obrada obrada uzupelnienie','zawarcie umowy znaczacy pomiedzy z z z z','remont w rafineria w gdañski w w rok','nowa tresc statut','stanowisko zarzad odnosnie sytuacja spolka','przerwa w produkcja w jaslo jaslo','umowa z z z z z','zloze zloze zloze przedluzenie koncesja na poszukiwanie i rozpoznanie zloze ropa i gaz','asymilacja akcja przez przez','tekst jednolity statut','zawarcie umowy znaczacy z biskup polski polski','polaczenie z partner partner z z','akcjonariusz posiadajacy co malo malo glos na na na maja maja maja','tresc uchwala powziac przez przez przez maja maja maja maja korekta','finalizacja zakup udzial w norweski koncesja wydobywczy','rozszerzyc skonsolidowac raport polroczny','tresc uchwala powziac przez przez w dzieñ dzieñ styczeñ styczeñ styczeñ','zestawienie rezerwa ropa naftowy oraz gaz ziemny','podpisac umowic offsetowy','ogloszenie upadlosc obejmowac likwidacja majatek spolka krakowski gaz gaz z z','powolanie zarzad siodma kadencja kadencja uzupelnienie','wniosek o ogloszenie upadlosc spolka krakowski gaz gaz z z','zawarcie umowy znaczacy z z z z z','zawarcie umowy znaczacy z z z z','wybrana szacunkowy skonsolidowac dane za czwarty kwartal kwartal','objecie akcja nowa emisja przez przez przez','sprzedaz znaczacy aktyw finansowy przez spolka zalezny','zawarcie umowy znaczacy z z z z z z','umowy zawrzec z z as','rejestracja podwyzszenie kapital zakladowy jednostki zalezny','rezygnacja czlonek rad nadzorczy nadzorczy kadencja','zaktualizowac strategia do rok rok','zmiana data publikacja raport roczny','umorzyc postepowanie upadlosciowy upadlosciowy upadlosciowy','ogloszenie przerwa w obrada obrada spolka','informacja o stosowac zasada lad korporacyjny','umowy z z z z z z','zawarcie umowy znaczacy pomiedzy biopaliwo a zaklad zaklad zaklad','przedluzenie siedem koncesja koncesja','zmiana prognoza skonsolidowac wynik finansowy na na rok','zawarcie umowy znaczacy pomiedzy biopaliwo biopaliwo z z a a a z z','prognoza skonsolidowac wynik finansowy na na rok rok korekta','prognoza skonsolidowac wynik finansowy','korekta skonsolidowac raport za ii kwartal kwartal kwartal','dzieñ wyplat dywidenda za za rok','realizacja realizacja realizacja podpisac kontrakt kontrakt','projekt uchwala uchwala zwolac na dzieñ dzieñ maja maja maja','nabycie udzial spolka tank tank z z','przekroczenie przekroczenie przekroczenie liczba glos przez przez przez polski polski','rejestracja zmiana struktura kapital zakladowy park technologiczny','zbycie udzial spolka przedsiebiorstwo przedsiebiorstwo przedsiebiorstwo przedsiebiorstwo z z','umowa z z z z z na dostawa ropa naftowy','uzupelnienie informacja skonsolidowac raport polroczny polroczny polroczny','prognoza skonsolidowac wynik finansowy na na na','realizacja strategia kapitalowy kapitalowy wejscie wejscie na nowe zloze zloze i i','realizacja projekt projekt projekt umowy na zakup reaktor','powolanie zarzad szosta kadencja','korekta raport biezacy numer numer','korekta wczesnie opublikowac prognoza wynik na na rok','zawarcie umowy na dostawa wsad','zmiana wysokosc kapital zakladowy park technologiczny','nabycie przez serwis serwis z z udzial spolka','zawarcie umowy przyrzec','znaczacy umowa pomiedzy paliwo paliwo z z a a a z z','nabycie akcja akcja','zawarcie umowy znaczacy pomiedzy a paliwo','jednolity tekst statut spolka','wypowiedzenie umowy przez spolka','tresc uchwala podjac przez przez przez sierpieñ sierpieñ rok','zawarcie umowy pomiedzy paliwo paliwo z z z z z z z','zmiana wysokosc kapital zakladowy','zawarcie umowy znaczacy przez spolka zalezny'}
 @attribute change numeric
 
 @data
-'GRUPA LOTOS SA zawarcie umów o wartoœci znacz¹cej pomiêdzy',1
-'GRUPA LOTOS SA zawarcie umów o wartoœci znacz¹cej',1
-'GRUPA LOTOS SA ermin i porz¹dek NWZ oraz projekty uchwa³',2
-'GRUPA LOTOS SA wybór podmiotu uprawnionego do badania sprawozdañ finansowych Grupy LOTOS S.A.',1
-'GRUPA LOTOS SA termin i porz¹dek NWZ oraz projekty uchwa³',1
+'odwolanie i powolanie prokurent',-1
+'zawarcie umowic o wartosc znaczacy pomiedzy',-1
+'zawarcie umowic o wartosc znaczacy',-1
+'zawarcie umowic o wartosc znaczacy',-1
+'zawarcie umowic o wartosc znaczacy pomiedzy a a a a a',-1
+'zawarcie umowy na dostawa ropa naftowy',-1
+'zawarcie umowic o wartosc umowy znaczacy',-1
+'zmiana w statut',-1
+'tresc uchwala powziac przez przez',-1
+'akcjonariusz posiadajacy co malo malo glos na na w dzieñ dzieñ',-1
+'zawarcie umowic o wartosc umowy znaczacy pomiedzy a spolka kapitalowy kapitalowy',-1
+'i porzadek porzadek oraz projekt uchwala',-2
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy',-1
+'termin i porzadek porzadek oraz projekt uchwala',-1
+'spelnienie warunek zawieszac umowy kredyt na',-1
+'raport okresowy kwartalny skonsolidowac skonsolidowac skonsolidowac',-1
+'zawarcie umowic o wartosc umowy znaczacy pomiedzy a a a a a',-1
+'zawarcie umowic o wartosc znaczacy pomiedzy a a a a a',-2
+'zawarcie umowy kredytowy na refinansowanie obecny',-1
+'zawarcie umowic o wartosc znaczacy z kapitalowy biskup',-1
+'zawarcie umowic o wartosc znaczacy pomiedzy z kapitalowy kapitalowy kapitalowy',-2
+'zawarcie umowic o wartosc znaczacy z z z z z',-2
+'zawarcie umowic o wartosc znaczacy z kapitalowy kapitalowy',-1
+'zawarcie umowic o wartosc znaczacy',-1
+'raport okresowy polroczny za za za',-2
+'zawarcie umowic o wartosc znaczacy z z z z z',-1
+'zawarcie umowic o wartosc znaczacy z z z z z',-1
+'akcjonariusz posiadajacy co malo malo glos na na',-1
+'tresc uchwala powziac przez przez',-1
+'powolanie zarzad osma kadencja',-2
+'projekt uchwala wraz z uzasadnienie na na zwolac na na czerwiec czerwiec czerwiec',-2
+'termin i porzadek porzadek',-2
+'wykaz informacja przekazac do publiczny wiadomosci w rok rok',-2
+'aneks do umowy znaczacy pomiedzy a kolej kolej z z',-2
+'rekomendacja zarzad w sprawa podzial zysk netto',-1
+'zawarcie umowic o wartosc umowy znaczacy pomiedzy a kapitalowy kapitalowy',-1
+'skonsolidowac raport kwartalny kwartalny kwartalny',-2
+'zawarcie umowic z kapitalowy kapitalowy',-2
+'zawarcie umowy na dostawa ropa naftowy',-2
+'zawarcie umowy na dostawa ropa naftowy pomiedzy a a a a',-1
+'akcjonariusz posiadajacy co malo malo glos na na',-2
+'uchwala uchwala podjac podjac podjac',-2
+'umowy zawrzec pomiedzy a a a a a',-2
+'powolanie osoba nadzorowac do rad nadzorczy',-1
+'odwolanie osoba nadzorowac',-1
+'termin przekazywac raport okresowy w w',-2
+'rezygnacja czlonek rad nadzorczy',-2
+'umowy zawrzec pomiedzy a a a a',-1
+'wdrazac program optymalny ekspansja kapitalowy w w w',-2
+'umowy zawrzec z podmiot kapitalowy biskup',-2
+'umowy zawrzec z podmiot kapitalowy kapitalowy',-1
+'zawarcie umowy na dostawa ropa naftowy',-2
+'zawarcie umowy na dostawa ropa naftowy',-2
+'umowy zawrzec z kapitalowy kapitalowy kapitalowy',-1
+'umowa znaczacy z parafina parafina z z',-1
+'aneks do umowy znaczacy z z z',-1
+'zawarcie umowy znaczacy na sprzedaz ciezki olej opalowy',-2
+'przedluzenie umowy na sprzedaz paliwo plynny przez spolka na rzecz rzecz rzecz rzecz z z',-2
+'zawarcie umowy na dostawa ropa naftowy pomiedzy spolka a a a a a',-2
+'rezygnacja czlonek rad nadzorczy',-2
+'raport okresowy kwartalny skonsolidowac skonsolidowac skonsolidowac',-1
+'zawarcie umowy na dostawa ropa naftowy pomiedzy a a a a',-2
+'szacunek wybrany czynnik maic istotny wplyw na wynik za za kwartal kwartal kwartal',-1
+'umowy zawrzec z kapitalowy kapitalowy kapitalowy',-2
+'zmiana w statut',-1
+'raport okresowy polroczny za za za',-2
+'przedluzenie umowy kredytowy na refinansowanie i finansowac zapas spolka',-2
+'zawarcie umowy na dostawa ropa naftowy pomiedzy a a a a a',-2
+'akcjonariusz posiadajacy co malo malo glos na na na sierpieñ sierpieñ sierpieñ',-2
+'tresc uchwala podjac przez przez przez sierpieñ sierpieñ sierpieñ',-2
+'odstapic przez w zastepstwie od rozpatrzenie jedno z planowac punkt porzadek obrada',-2
+'projekt uchwala uchwala',-1
+'termin i porzadek porzadek',-1
+'akcjonariusz posiadajacy co malo malo glos',-1
+'tresc uchwala powziac przez przez przez czerwiec czerwiec czerwiec',-1
+'powolanie rad nadzorczy na na kadencja',-1
+'powolanie czlonek rad nadzorczy',-1
+'umowy zawrzec z z z z z',-2
+'projekt uchwala wraz z uzasadnienie na na zwolac na na czerwiec czerwiec czerwiec',-1
+'termin i porzadek porzadek',-1
+'raport okresowy kwartalny skonsolidowac skonsolidowac skonsolidowac',-2
+'wykaz informacja przekazac do publiczny wiadomosci w rok rok',-2
+'zawarcie umowy na dostawa ropa naftowy',-2
+'raport okresowy roczny skonsolidowac za za za',-1
+'raport okresowy roczny za za rok',-1
+'zawarcie umowy na dostawa ropa naftowy',-1
+'zawarcie umowy na dostawa ropa naftowy',-1
+'odstapic as as od prawic do koncesja poszukiwawczy plac plac',-2
+'raport okresowy kwartalny skonsolidowac skonsolidowac skonsolidowac',-2
+'zawiadomienie o zmniejszenie udzial w ogolny liczba glos na w zastepstwie',-2
+'transakcja dokonany na akcja przez prokurent',-1
+'termin przekazywac raport okresowy w w rok',-2
+'przyznanie as udzial w koncesja plac plac',-2
+'rozwiazanie spolka gaz gaz',-1
+'umowa znaczacy na sprzedaz paliwo plynny do biskup biskup siebie',-1
+'rejestracja w w w akcja seria co',-2
+'dopuscic i wprowadzenie do obrot gieldowy akcja seria co',-2
+'przyjecie akcja seria co do depozyt papier wartosciowy przez przez przez',-2
+'umowa znaczacy na sprzedaz paliwo z z polski polski z z',-2
+'zawarcie umowy na dostawa ropa naftowy',-2
+'do rok rok',-2
+'umowa znaczacy z mitsubishi mitsubishi mitsubishi',-1
+'raport okresowy kwartalny skonsolidowac skonsolidowac skonsolidowac',-1
+'raport okresowy polroczny za za za',-2
+'powolanie osoba nadzorowac nadzorowac informacja uzupelniac',-2
+'akcjonariusz posiadajacy co malo malo glos na na na czerwiec czerwiec rok',-2
+'tresc uchwala powziac przez przez przez czerwiec czerwiec czerwiec',-2
+'powolanie osoba nadzorowac',-2
+'umowa znaczacy z z z',-1
+'projekt uchwala wraz z uzasadnienie na na zwolac na dzieñ dzieñ czerwiec czerwiec czerwiec',-2
+'termin i porzadek porzadek',-1
+'wykaz informacja przekazac do publiczny wiadomosci w rok rok',-2
+'zawarcie umowy na dostawa ropa naftowy',-2
+'raport okresowy kwartalny skonsolidowac skonsolidowac skonsolidowac',-2
+'raport okresowy roczny za za rok',-2
+'raport okresowy roczny skonsolidowac za za za',-2
+'asymilacja akcja przez przez przez',-1
+'wprowadzenie do obrot gieldowy akcja seria a',-1
+'znaczacy umowa z z z',-1
+'rezygnacja czlonek rad nadzorczy',-1
+'realizacja pakiet pakiet przez kapitalowy',-1
+'umowa znaczacy z asfalt asfalt z z',-1
+'uzupelnienie informacja zawrzec w raport kwartalny za za kwartal kwartal kwartal',-2
+'raport okresowy okresowy',-2
+'powolanie osoba nadzorowac nadzorowac informacja uzupelniac',-2
+'akcjonariusz posiadajacy co malo malo glos na na',-1
+'tresc uchwala powziac przez przez przez luty luty luty',-2
+'powolanie osoba nadzorowac',-2
+'odwolanie osoba nadzorowac',-2
+'znaczny pakiet akcja akcja zmiana stan posiadanie akcja przez skarb pañstwo',-1
+'termin przekazywac raport okresowy w w rok',-2
+'przyznanie as udzial w koncesja plac plac',-2
+'asymilacja akcja przez przez przez',-1
+'wprowadzenie do obrot gieldowy akcja seria a',-1
+'termin oraz porzadek nadzwyczajny walny zgromadzenie zgromadzenie korekta',-1
+'projekt uchwala uchwala uchwala luty luty luty',-1
+'termin oraz porzadek porzadek',-1
+'akcja seria co co informacja w oparcie o o regulamin regulamin',-1
+'umowa znaczacy z biskup polski polski',-1
+'znaczacy umowa z z polski polski z z',-1
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy',-1
+'akcjonariusz posiadajacy co malo malo glos na na w dzieñ dzieñ grudzieñ grudzieñ grudzieñ',-2
+'tresc uchwala powziac przez przez',-2
+'zawarcie umowy na dostawa ropa naftowy',-2
+'umowa znaczacy na sprzedaz paliwo',-2
+'umowa sprzedaz gaz plynny plynny',-2
+'zawarcie umowy na dostawa ropa naftowy',-2
+'zawarcie aneks do umowy',-1
+'przekroczenie przekroczenie ogolny liczba glos w spolka',-1
+'projekt uchwala uchwala zwolac na na grudzieñ grudzieñ grudzieñ',-1
+'termin oraz porzadek porzadek',-2
+'raport okresowy okresowy',-1
+'zmiana koncesja oraz przeszacowac zasoby zloze bar bar',-1
+'aktualizacja termin publikacja raport okresowy',-1
+'zakup udzial w norweski koncesja wydobywczy',-2
+'zawarcie umowy znaczacy pomiedzy paliwo a a a miedz trans',-2
+'zakup udzial w koncesja poszukiwawczy poszukiwawczy',-1
+'zawarcie umowy znaczacy z kolej kolej z z',-2
+'nabycie udzial parafina parafina z z przez spolka',-2
+'powolanie prokurent',-1
+'asymilacja akcja przez przez przez',-2
+'projekt uchwala uchwala zwolac na dzieñ dzieñ dzieñ',-2
+'zmiana oswiadczenie zarzad dotyczyc zasada lad korporacyjny',-2
+'rejestracja zmiana w statut',-1
+'termin oraz porzadek porzadek',-2
+'objecie udzial w park technologiczny przez',-1
+'odwolanie osoba nadzorowac',-2
+'aktualizacja termin publikacja raport okresowy w w w',-2
+'zakup udzial w norweski koncesja poszukiwawczy',-2
+'zawarcie umowy znaczacy z tank tank z z',-1
+'doplata do kapital spolka zalezny paliwo paliwo z z',-2
+'zmiana warunki umowy znaczacy',-1
+'nabycie akcja spolka zalezny przez przez przez',-1
+'umowa kredytowy z konsorcjum bank',-1
+'powolanie czlonek zarzad',-1
+'rozwiazanie umowy znaczacy',-1
+'zawarcie umowy znaczacy z biopaliwo biopaliwo z z',-2
+'ocena rad nadzorczy sytuacja spolka po po rok',-1
+'podpisac umowy kredytowy',-1
+'koncesja na eksploatacja gazowy zloze zloze',-2
+'wykaz informacja przekazac do publiczny wiadomosci w rok rok',-1
+'wyplata dywidenda za za rok',-1
+'podpisac aneks do znaczacy umowy',-1
+'odwolanie osoba zarzadzajaca',-2
+'objecie aktyw finansowy o znaczacy wartosc',-2
+'zasada wyplat dywidenda',-1
+'objecie akcja nowa emisja',-2
+'nabycie przez udzial w krakowski gaz',-2
+'stanowisko zarzad odnosnie rekomendacja rekomendacja',-2
+'stanowisko zarzad odnosnie wczesnie opublikowac prognoza wynik na na na',-1
+'termin raport okresowy w w rok',-1
+'projekt uchwala uchwala spolka zwolac na dzieñ dzieñ dzieñ',-2
+'objecie udzial park technologiczny technologiczny z z',-1
+'kontrakty spot pomiedzy z z z z z z',-1
+'projekt uchwala uchwala spolka zwolac na dzieñ dzieñ dzieñ',-1
+'raport okresowy okresowy',-2
+'powolanie zarzad szosta kadencja kadencja informacja uzupelniac',-1
+'zmiana wysokosc kapital zakladowy laba laba z z',-1
+'przedluzenie koncesja wydac na rzecz rzecz rzecz',-2
+'informacja o zastosowac zasada lad korporacyjny',-2
+'zakoñczenie postepowanie likwidacyjny spolka spolka paliwo paliwo z z',-2
+'raport okresowy okresowy',-2
+'zawarcie umowic pomiedzy a a a a',-2
+'nabycie akcja o wartosc powyzej powyzej euro',-1
+'rejestracja zmiana wysokosc kapital zakladowy park technologiczny',-2
+'transakcja pomiedzy podmiot powiazac',-1
+'zmiana oswiadczenie oswiadczenie zasada lad korporacyjny',-2
+'rezygnacja osoba nadzorowac nadzorowac uzupelnienie informacja',-1
+'stanowisko zarzad w sprawa polaczenie z partner partner z z',-2
+'akcjonariusz akcjonariusz glos na na na czerwiec czerwiec rok',-2
+'informacja przekazac do publiczny wiadomosci w rok rok',-1
+'rozszerzyc zakres dwa koncesja',-1
+'rejestracja podwyzszenie kapital zakladowy',-1
+'zawarcie umowy znaczacy z z polski polski z z',-1
+'akcjonariusz akcjonariusz akcjonariusz glos na na po wznowienie obrada',-1
+'stanowisko zarzad w sprawa polaczenie z partner partner z z',-2
+'zmiana struktura kapital zakladowy parafina parafina z z',-2
+'podpisac umowy na zakup stacja paliwo paliwo',-2
+'skorygowac struktura kapital kapital park technologiczny technologiczny z z',-1
+'transakcja na akcja spolka w rok rok',-1
+'raport okresowy okresowy',-2
+'termin termin oraz tresc proponowac zmiana postanowienie statut',-1
+'skonsolidowac raport polroczny',-1
+'zawarcie trojstronny umowy znaczacy',-2
+'rejestracja przez sad podwyzszenie kapital zakladowy',-2
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy spolka',-2
+'otwarcie postepowanie likwidacyjny wobec wobec paliwo paliwo z z',-1
+'termin oraz porzadek porzadek',-1
+'ustanowic prokurent',-1
+'zbycie przez jaslo udzial spolka spolka',-2
+'korekta prognoza wynik finansowy na na rok',-1
+'rozwiazanie znaczacy umowy',-1
+'zawarcie umowy znaczacy pomiedzy spolka zalezny',-1
+'raport roczny',-2
+'korekta sprawozdanie zarzad z dzialalnosc spolka za rok rok',-2
+'zawarcie umowy znaczacy z z polski polski z z',-2
+'objecie udzial w park technologiczny technologiczny z z przez',-2
+'objecie aktyw finansowy o znaczacy wartosc przez jaslo jaslo',-2
+'rejestracja zmiana struktura kapital zakladowy ochrona ochrona z z',-2
+'podpisac kontrakt',-2
+'tresc nowe tekst jednolity statut',-1
+'zawarcie trojstronny umowy znaczacy',-2
+'powolanie zarzad siodma kadencja',-2
+'podpisac kontrakt kontrakt na budowa instalacja instalacja',-1
+'zakoñczenie subskrypcja akcja seria co',-1
+'tresc uchwala powziac przez przez',-1
+'zmiana porzadek obrada',-2
+'termin zwolanie oraz porzadek porzadek',-2
+'objecie akcja w andante andante andante as',-1
+'koncesja na eksploatacja gazowy zloze zloze',-2
+'zmiana porzadek obrada obrada zwolac na na kwietni kwietni kwietni',-1
+'nabycie przez udzial spolka krakowski gaz gaz z z',-1
+'informacja uzupelniac do prognoza wynik finansowy na na na',-2
+'wprowadzenie do obrot gieldowy akcja seria a spolka',-2
+'raport okresowy okresowy',-1
+'umowy zawrzec z z polski polski z z',-2
+'korekta skonsolidowac raport za iii kwartal kwartal rok',-1
+'rejestracja zmiana wysokosc kapital zakladowy park technologiczny',-1
+'projekt uchwala uchwala zwolac na na czerwiec czerwiec czerwiec',-2
+'tresc uchwala powziac przez przez w dzieñ dzieñ kwietni kwietni kwietni',-2
+'powolanie osoba nadzorowac',-2
+'opinia opinia w sprawa ocena sytuacja spolka w w rok',-2
+'zmiana kapital andante andante andante andante',-2
+'zmiana w sklad rad nadzorczy',-2
+'nabycie spolka andante andante andante andante',-2
+'nabycie przez udzial spolka krakowski gaz gaz z z z korekta',-1
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy',-1
+'spelnienie warunki zawieszac umowy znaczacy',-1
+informowac,-1
+'powolanie osoba nadzorowac',-1
+'zmiana profil dzialalnosc rafineria rafineria rafineria',-2
+'zawarcie umowy znaczacy pomiedzy a asfalt',-2
+'raport okresowy okresowy',-2
+'kontrakt w rama program kompleksowy rozwoj techniczny',-2
+'zmniejszenie udzial w ogolny liczba glos',-1
+'termin raport',-2
+'przyznanie as udzial w cztery koncesja poszukiwawczy',-1
+'raport roczny',-1
+'skonsolidowac raport roczny',-1
+'zawarcie umowy znaczacy',-2
+'wyplata dywidenda za za rok',-1
+'ustanowic prokurent',-1
+'wprowadzenie do obrot gieldowy akcja seria a',-1
+'umowa z podmiot powiazac',-1
+'porzadek porzadek uzupelnienie',-2
+'akcjonariusz posiadajacy co malo malo glos na na',-1
+'zawarcie umowy na dostawa ropa naftowy',-2
+'rozpoczecie eksploatacja zloze zloze przez spolka spolka spolka',-1
+'wprowadzenie do obrot gieldowy akcja seria a',-1
+'wykaz informacja przekazac do publiczny wiadomosci w rok rok',-1
+'zmiana data publikacja raport okresowy',-1
+'powolanie osoba nadzorowac',-2
+'odwolanie osoba nadzorowac',-2
+'tresc uchwala powziac przez przez w dzieñ dzieñ maja maja rok',-2
+'skonsolidowac raport polroczny',-2
+'rezygnacja czlonek czlonek kadencja',-1
+'tresc nowe tekst jednolity statut',-1
+'wprowadzenie do obrot gieldowy akcja seria a spolka',-1
+'skonsolidowac raport roczny',-1
+'wplyw wycena zapas metoda metoda na skonsolidowac wynik finansowy',-1
+'skonsolidowac raport polroczny polroczny sprostowanie',-1
+'pakiet pakiet dla kapitalowy',-2
+'projekt uchwala uchwala zwolac na dzieñ dzieñ dzieñ',-2
+'projekt uchwala uchwala zwolac na na kwietni kwietni kwietni',-2
+'tresc uchwala powziac przez przez przez luty luty rok',-1
+'objecie aktyw finansowy o znaczacy wartosc',-2
+'zmiana w statut',-2
+'odwolanie prokurent',-2
+'projekt uchwala uchwala zwolac na na czerwiec czerwiec czerwiec wraz z uzasadnienie',-2
+'tresc nowe tekst jednolity statut',-1
+'polaczenie oraz partner partner z z',-1
+'podpisac kontrakt kontrakt kontrakt',-1
+'oswiadczenie zarzad zarzad zasada lad korporacyjny w spolka',-1
+'powolanie czlonek zarzad zarzad informacja uzupelniac',-2
+'zawarcie umowy znaczacy z biskup polski polski z z',-2
+'zawarcie trojstronny umowy',-1
+'termin przekazywac raport okresowy w w w',-1
+'opinia opinia w sprawa ocena sytuacja spolka w w rok',-2
+'zawarcie umowy znaczacy z kolej kolej z z',-2
+'raport okresowy okresowy',-2
+'nabycie znaczny pakiet akcja seria co',-1
+'umowy zawrzec z z z andante andante andante na laczny wartosc umowy znaczacy',-1
+'nabycie przez laba laba z z z udzial spolka laboratorium badacz badacz z z',-2
+'informacja o transakcja dokonany na akcja spolka',-2
+'nabycie znaczny pakiet akcja',-2
+'zawarcie umowy znaczacy',-1
+'zbycie znaczny pakiet akcja spolka',-1
+'raport okresowy okresowy',-2
+'termin oraz porzadek porzadek',-1
+'zawarcie trojstronny umowy znaczacy',-1
+'zasada przyjety odnosnie konwersja akcja imienny na akcja na okaziciel',-2
+'raport okresowy okresowy',-2
+'rejestracja podwyzszenie kapital zakladowy',-1
+'zmiana w statut',-1
+'zarejestrowac spolka zalezny',-2
+'rezygnacja osoba nadzorowac',-1
+'zloze zloze zloze koncesja na wydobywac ropa naftowy i gaz ziemny',-1
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy',-1
+'termin i porzadek obrada obrada uzupelnienie',-2
+'termin oraz porzadek porzadek',-2
+'raport okresowy okresowy',-2
+'zawarcie umowy znaczacy pomiedzy z z z z',-2
+'remont w rafineria w gdañski w w rok',-1
+'nowa tresc statut',-2
+'stanowisko zarzad odnosnie sytuacja spolka',-1
+'przerwa w produkcja w jaslo jaslo',-2
+'umowa z z z z z',-1
+'raport okresowy okresowy',-2
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy',-2
+'zloze zloze zloze przedluzenie koncesja na poszukiwanie i rozpoznanie zloze ropa i gaz',-2
+'termin oraz porzadek porzadek',-1
+'ustanowic prokurent',-1
+'zawarcie umowic pomiedzy a a a a',-1
+'asymilacja akcja przez przez',-1
+'akcjonariusz posiadajacy co malo malo glos na na',-1
+'tekst jednolity statut',-2
+'zawarcie umowy znaczacy z biskup polski polski',-1
+'polaczenie z partner partner z z',-2
+'akcjonariusz posiadajacy co malo malo glos na na na maja maja maja',-2
+'tresc uchwala powziac przez przez przez maja maja maja maja korekta',-2
+'rejestracja przez sad podwyzszenie kapital zakladowy',-2
+'finalizacja zakup udzial w norweski koncesja wydobywczy',-2
+'rozszerzyc skonsolidowac raport polroczny',-1
+'tresc uchwala powziac przez przez w dzieñ dzieñ styczeñ styczeñ styczeñ',-2
+'zestawienie rezerwa ropa naftowy oraz gaz ziemny',-2
+'tresc uchwala powziac przez przez przez czerwiec czerwiec czerwiec',-2
+'zestawienie rezerwa ropa naftowy oraz gaz ziemny',-2
+'podpisac umowic offsetowy',-2
+'raport okresowy okresowy',-2
+'akcjonariusz posiadajacy co malo malo glos na na',-2
+'ogloszenie upadlosc obejmowac likwidacja majatek spolka krakowski gaz gaz z z',-2
+'skonsolidowac raport polroczny polroczny sprostowanie',-1
+'skonsolidowac raport polroczny',-1
+'zmiana w statut',-1
+'zawarcie umowy znaczacy z kolej kolej z z',-2
+'nabycie znaczny pakiet akcja seria co',-1
+'nabycie znaczny pakiet akcja',-2
+'ogloszenie upadlosc obejmowac likwidacja majatek spolka krakowski gaz gaz z z',-2
+'zakoñczenie subskrypcja akcja seria co',-1
+'zbycie znaczny pakiet akcja spolka',-1
+'nowa tresc statut',-2
+'rejestracja przez sad podwyzszenie kapital zakladowy',-2
+'rejestracja zmiana w statut',-2
+'umowy zawrzec z z z andante andante andante na laczny wartosc umowy znaczacy',-1
+'akcjonariusz posiadajacy co malo malo glos na na',-2
+'tresc uchwala powziac przez przez',-1
+'powolanie zarzad siodma kadencja kadencja uzupelnienie',-2
+'powolanie zarzad siodma kadencja',-2
+'projekt uchwala uchwala zwolac na na czerwiec czerwiec czerwiec',-2
+'termin oraz porzadek porzadek',-1
+'raport okresowy okresowy',-2
+'wykaz informacja przekazac do publiczny wiadomosci w rok rok',-2
+'powolanie osoba nadzorowac nadzorowac informacja uzupelniac',-1
+'wniosek o ogloszenie upadlosc spolka krakowski gaz gaz z z',-1
+'akcjonariusz posiadajacy co malo malo glos na na',-1
+'skonsolidowac raport roczny',-1
+'raport roczny',-1
+'tresc uchwala powziac przez przez w dzieñ dzieñ kwietni kwietni kwietni',-2
+'powolanie osoba nadzorowac',-2
+'projekt uchwala uchwala zwolac na na kwietni kwietni kwietni',-2
+'zmiana porzadek obrada obrada zwolac na na kwietni kwietni kwietni',-1
+'termin oraz porzadek porzadek',-2
+'aktualizacja termin publikacja raport okresowy w w w',-2
+'zawarcie umowy znaczacy z z z z z',-1
+'rezygnacja czlonek czlonek kadencja',-1
+'rejestracja podwyzszenie kapital zakladowy',-1
+'raport okresowy okresowy',-2
+'zawarcie umowy znaczacy z z z z',-2
+'pakiet pakiet dla kapitalowy',-2
+'wybrana szacunkowy skonsolidowac dane za czwarty kwartal kwartal',-1
+'termin raport',-2
+'objecie akcja nowa emisja przez przez przez',-2
+'finalizacja zakup udzial w norweski koncesja wydobywczy',-2
+'sprzedaz znaczacy aktyw finansowy przez spolka zalezny',-2
+'zawarcie umowy znaczacy z biskup polski polski',-1
+'zawarcie umowy znaczacy z z polski polski z z',-2
+'przyznanie as udzial w cztery koncesja poszukiwawczy',-1
+'zawarcie umowy znaczacy z z polski polski z z',-1
+'stanowisko zarzad odnosnie sytuacja spolka',-1
+'stanowisko zarzad odnosnie rekomendacja rekomendacja',-2
+'zawarcie umowy znaczacy z z z z z z',-1
+'raport okresowy okresowy',-2
+'umowy zawrzec z z as',-1
+'zakup udzial w norweski koncesja wydobywczy',-2
+'zawarcie umowy znaczacy z tank tank z z',-1
+'rozszerzyc zakres dwa koncesja',-1
+'zestawienie rezerwa ropa naftowy oraz gaz ziemny',-2
+'rejestracja podwyzszenie kapital zakladowy jednostki zalezny',-2
+'rozszerzyc skonsolidowac raport polroczny',-1
+'rejestracja podwyzszenie kapital zakladowy',-1
+'finalizacja zakup udzial w norweski koncesja wydobywczy',-2
+'objecie akcja w andante andante andante as',-1
+'zakup udzial w norweski koncesja poszukiwawczy',-2
+'rejestracja zmiana w statut',-1
+'tresc nowe tekst jednolity statut',-1
+'raport okresowy okresowy',-2
+'objecie aktyw finansowy o znaczacy wartosc',-2
+'powolanie osoba nadzorowac nadzorowac informacja uzupelniac',-2
+'objecie aktyw finansowy o znaczacy wartosc',-2
+'rezygnacja czlonek rad nadzorczy nadzorczy kadencja',-1
+informowac,-1
+'powolanie osoba nadzorowac',-1
+'akcjonariusz akcjonariusz glos na na na czerwiec czerwiec rok',-2
+'tresc uchwala powziac przez przez',-2
+'zawarcie umowy znaczacy pomiedzy z z z z',-2
+'powolanie osoba nadzorowac',-1
+'podpisac umowy kredytowy',-1
+'nabycie spolka andante andante andante andante',-2
+'przedluzenie koncesja wydac na rzecz rzecz rzecz',-2
+'projekt uchwala uchwala zwolac na na czerwiec czerwiec czerwiec wraz z uzasadnienie',-2
+'zaktualizowac strategia do rok rok',-2
+'nabycie akcja spolka zalezny przez przez przez',-1
+'zmiana kapital andante andante andante andante',-2
+'raport roczny',-2
+'korekta sprawozdanie zarzad z dzialalnosc spolka za rok rok',-2
+'termin oraz porzadek porzadek',-1
+'zakup udzial w norweski koncesja wydobywczy',-2
+'objecie akcja nowa emisja',-2
+'raport okresowy okresowy',-2
+'raport roczny',-2
+'skonsolidowac raport roczny',-2
+'korekta prognoza wynik finansowy na na rok',-1
+'zawarcie umowy znaczacy z biopaliwo biopaliwo z z',-2
+'zmiana data publikacja raport roczny',-1
+'umorzyc postepowanie upadlosciowy upadlosciowy upadlosciowy',-1
+'tresc nowe tekst jednolity statut',-1
+'raport okresowy okresowy',-2
+'akcjonariusz akcjonariusz akcjonariusz glos na na po wznowienie obrada',-1
+'tresc uchwala powziac przez przez przez luty luty rok',-1
+'powolanie prokurent',-2
+'odwolanie prokurent',-2
+'asymilacja akcja przez przez przez',-1
+'wprowadzenie do obrot gieldowy akcja seria a',-1
+'wykaz informacja przekazac do publiczny wiadomosci w rok rok',-1
+'akcjonariusz posiadajacy co malo malo glos na na',-1
+'termin raport okresowy w w rok',-1
+'tresc uchwala powziac przez przez w dzieñ dzieñ styczeñ styczeñ styczeñ',-2
+'ogloszenie przerwa w obrada obrada spolka',-1
+'zawarcie umowy znaczacy z biskup polski polski z z',-2
+'projekt uchwala uchwala zwolac na dzieñ dzieñ dzieñ',-2
+'informacja o zastosowac zasada lad korporacyjny',-2
+'zbycie przez jaslo udzial spolka spolka',-2
+'informacja o stosowac zasada lad korporacyjny',-1
+'umowy z z z z z z',-1
+'umowy zawrzec z z polski polski z z',-2
+'zawarcie umowy znaczacy pomiedzy biopaliwo a zaklad zaklad zaklad',-1
+'umowa kredytowy z konsorcjum bank',-1
+'rozpoczecie eksploatacja zloze zloze przez spolka spolka spolka',-1
+'przedluzenie siedem koncesja koncesja',-2
+'termin i porzadek obrada obrada uzupelnienie',-2
+'termin termin oraz tresc proponowac zmiana postanowienie statut',-1
+'kontrakty spot pomiedzy z z z z z z',-1
+'korekta skonsolidowac raport za iii kwartal kwartal rok',-1
+'powolanie prokurent',-1
+'odwolanie osoba zarzadzajaca',-2
+'raport okresowy okresowy',-1
+'zmiana prognoza skonsolidowac wynik finansowy na na rok',-1
+'zawarcie umowy znaczacy pomiedzy biopaliwo biopaliwo z z a a a z z',-1
+'zmniejszenie udzial w ogolny liczba glos',-1
+'zakoñczenie postepowanie likwidacyjny spolka spolka paliwo paliwo z z',-2
+'zawarcie umowic pomiedzy a a a a',-2
+'prognoza skonsolidowac wynik finansowy na na rok rok korekta',-2
+'prognoza skonsolidowac wynik finansowy',-2
+'zarejestrowac spolka zalezny',-2
+'skonsolidowac raport polroczny',-2
+'korekta skonsolidowac raport za ii kwartal kwartal kwartal',-2
+'raport okresowy okresowy',-2
+'podpisac aneks do znaczacy umowy',-1
+'kontrakt w rama program kompleksowy rozwoj techniczny',-2
+'nabycie przez udzial w krakowski gaz',-2
+'dzieñ wyplat dywidenda za za rok',-2
+'tresc nowe tekst jednolity statut',-1
+'polaczenie oraz partner partner z z',-1
+'podpisac kontrakt kontrakt kontrakt',-1
+'oswiadczenie zarzad zarzad zasada lad korporacyjny w spolka',-1
+'podpisac kontrakt',-2
+'realizacja realizacja realizacja podpisac kontrakt kontrakt',-2
+'powolanie osoba nadzorowac nadzorowac informacja uzupelniac',-2
+'akcjonariusz posiadajacy co malo malo glos na na na maja maja maja',-2
+'tresc uchwala powziac przez przez przez maja maja maja maja korekta',-2
+'powolanie osoba nadzorowac',-2
+'odwolanie osoba nadzorowac',-2
+'tresc uchwala powziac przez przez w dzieñ dzieñ maja maja rok',-2
+'wyplata dywidenda za za rok',-1
+'koncesja na eksploatacja gazowy zloze zloze',-2
+'stanowisko zarzad w sprawa polaczenie z partner partner z z',-2
+'projekt uchwala uchwala zwolac na dzieñ dzieñ maja maja maja',-1
+'raport okresowy okresowy',-2
+'opinia opinia w sprawa ocena sytuacja spolka w w rok',-2
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy',-1
+'wykaz informacja przekazac do publiczny wiadomosci w rok rok',-1
+'porzadek porzadek uzupelnienie',-2
+'raport roczny',-1
+'skonsolidowac raport roczny',-1
+'termin oraz porzadek porzadek',-1
+'ustanowic prokurent',-1
+'nabycie udzial spolka tank tank z z',-2
+'nabycie przez udzial spolka krakowski gaz gaz z z z korekta',-1
+'nabycie przez udzial spolka krakowski gaz gaz z z',-1
+'rejestracja zmiana struktura kapital zakladowy ochrona ochrona z z',-2
+'przekroczenie przekroczenie przekroczenie liczba glos przez przez przez polski polski',-2
+'polaczenie z partner partner z z',-2
+'raport okresowy okresowy',-2
+'rejestracja zmiana struktura kapital zakladowy park technologiczny',-2
+'skorygowac struktura kapital kapital park technologiczny technologiczny z z',-1
+'transakcja na akcja spolka w rok rok',-1
+'zawarcie trojstronny umowy',-1
+'termin przekazywac raport okresowy w w w',-1
+'zbycie udzial spolka przedsiebiorstwo przedsiebiorstwo przedsiebiorstwo przedsiebiorstwo z z',-2
+'rejestracja zmiana wysokosc kapital zakladowy park technologiczny',-1
+'zawarcie umowy znaczacy z kolej kolej z z',-2
+'zawarcie umowy znaczacy pomiedzy a asfalt',-2
+'remont w rafineria w gdañski w w rok',-1
+'otwarcie postepowanie likwidacyjny wobec wobec paliwo paliwo z z',-1
+'objecie aktyw finansowy o znaczacy wartosc przez jaslo jaslo',-2
+'ustanowic prokurent',-1
+'podpisac kontrakt kontrakt na budowa instalacja instalacja',-1
+'raport okresowy okresowy',-2
+'zloze zloze zloze przedluzenie koncesja na poszukiwanie i rozpoznanie zloze ropa i gaz',-2
+'umowa z z z z z na dostawa ropa naftowy',-2
+'zloze zloze zloze koncesja na wydobywac ropa naftowy i gaz ziemny',-1
+'uzupelnienie informacja skonsolidowac raport polroczny polroczny polroczny',-2
+'powolanie czlonek zarzad zarzad informacja uzupelniac',-2
+'powolanie czlonek zarzad',-1
+'rozszerzyc skonsolidowac raport polroczny',-1
+'prognoza skonsolidowac wynik finansowy na na na',-2
+'zawarcie umowy na dostawa ropa naftowy',-2
+'realizacja strategia kapitalowy kapitalowy wejscie wejscie na nowe zloze zloze i i',-2
+'raport okresowy okresowy',-2
+'asymilacja akcja przez przez',-1
+'realizacja projekt projekt projekt umowy na zakup reaktor',-1
+'tresc uchwala powziac przez przez przez czerwiec czerwiec czerwiec',-2
+'powolanie zarzad szosta kadencja',-1
+'rezygnacja osoba nadzorowac nadzorowac uzupelnienie informacja',-1
+'ocena rad nadzorczy sytuacja spolka po po rok',-1
+'projekt uchwala uchwala spolka zwolac na dzieñ dzieñ dzieñ',-2
+'przerwa w produkcja w jaslo jaslo',-2
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy',-2
+'termin oraz porzadek porzadek',-2
+'zmiana oswiadczenie zarzad dotyczyc zasada lad korporacyjny',-2
+'raport okresowy okresowy',-2
+'informacja przekazac do publiczny wiadomosci w rok rok',-1
+'korekta raport biezacy numer numer',-1
+'skonsolidowac raport roczny',-1
+'wplyw wycena zapas metoda metoda na skonsolidowac wynik finansowy',-1
+'raport roczny',-1
+'korekta wczesnie opublikowac prognoza wynik na na rok',-1
+'zmiana data publikacja raport okresowy',-1
+'zawarcie umowy na dostawa wsad',-2
+'asymilacja akcja przez przez przez',-1
+'wprowadzenie do obrot gieldowy akcja seria a spolka',-1
+'rejestracja zmiana wysokosc kapital zakladowy park technologiczny',-2
+'zawarcie trojstronny umowy znaczacy',-2
+'raport okresowy okresowy',-2
+'tekst jednolity statut',-2
+'zmiana struktura kapital zakladowy parafina parafina z z',-2
+'zawarcie trojstronny umowy znaczacy',-1
+'akcjonariusz posiadajacy co malo malo glos na na',-1
+'zawarcie trojstronny umowy',-1
+'zmiana wysokosc kapital zakladowy park technologiczny',-2
+'objecie udzial w park technologiczny technologiczny z z przez',-2
+'informacja o transakcja dokonany na akcja spolka',-2
+'zmiana w sklad rad nadzorczy',-2
+'informacja o transakcja dokonany na akcja spolka',-1
+'projekt uchwala uchwala spolka zwolac na dzieñ dzieñ dzieñ',-1
+'termin raport okresowy w w rok',-1
+'zasada przyjety odnosnie konwersja akcja imienny na akcja na okaziciel',-2
+'nabycie przez serwis serwis z z udzial spolka',-1
+'objecie udzial w park technologiczny przez',-1
+'zawarcie trojstronny umowy znaczacy',-2
+'zmiana warunki umowy znaczacy',-1
+'termin zwolanie oraz porzadek porzadek',-2
+'nabycie udzial parafina parafina z z przez spolka',-2
+'zawarcie umowy przyrzec',-1
+'spelnienie warunki zawieszac umowy znaczacy',-1
+'informacja uzupelniac do prognoza wynik finansowy na na na',-2
+'asymilacja akcja przez przez przez',-2
+'wprowadzenie do obrot gieldowy akcja seria a spolka',-2
+'znaczacy umowa pomiedzy paliwo paliwo z z a a a z z',-1
+'nabycie akcja akcja',-1
+'raport okresowy okresowy',-1
+'stanowisko zarzad odnosnie wczesnie opublikowac prognoza wynik na na na',-1
+'doplata do kapital spolka zalezny paliwo paliwo z z',-2
+'zawarcie umowy znaczacy pomiedzy paliwo a a a miedz trans',-2
+'zawarcie umowy znaczacy pomiedzy a paliwo',-1
+'jednolity tekst statut spolka',-1
+'wypowiedzenie umowy przez spolka',-2
+'nabycie przez laba laba z z z udzial spolka laboratorium badacz badacz z z',-2
+'skonsolidowac raport polroczny',-1
+'podpisac umowy na zakup stacja paliwo paliwo',-2
+'zmiana profil dzialalnosc rafineria rafineria rafineria',-2
+'rozwiazanie znaczacy umowy',-1
+'zawarcie umowy znaczacy pomiedzy spolka zalezny',-1
+'zawarcie umowy znaczacy',-1
+'transakcja pomiedzy podmiot powiazac',-1
+'akcjonariusz posiadajacy co malo malo glos na na',-1
+'tresc uchwala podjac przez przez przez sierpieñ sierpieñ rok',-1
+'zawarcie umowy pomiedzy paliwo paliwo z z z z z z z',-1
+'odwolanie osoba nadzorowac',-2
+'zmiana oswiadczenie oswiadczenie zasada lad korporacyjny',-2
+'nabycie akcja o wartosc powyzej powyzej euro',-1
+'raport okresowy okresowy',-2
+'projekt uchwala uchwala zwolac na dzieñ dzieñ dzieñ',-2
+'rozwiazanie umowy znaczacy',-1
+'zmiana w statut',-2
+'zawarcie umowy znaczacy',-2
+'wypowiedzenie umowy przez spolka',-2
+'zmiana porzadek obrada',-2
+'umowa z z z z z',-1
+'termin oraz porzadek porzadek',-1
+'umowa z podmiot powiazac',-1
+'rejestracja przez sad podwyzszenie kapital zakladowy',-2
+'wybor podmiot uprawniony do badanie sprawozdanie finansowy spolka',-2
+'podpisac umowic offsetowy',-2
+'zmiana wysokosc kapital zakladowy laba laba z z',-1
+'zasada wyplat dywidenda',-1
+'zmiana wysokosc kapital zakladowy',-2
+'zawarcie umowy znaczacy przez spolka zalezny',-2
+'zawarcie umowy znaczacy przez spolka zalezny',-2

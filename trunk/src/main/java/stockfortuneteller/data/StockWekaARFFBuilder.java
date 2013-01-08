@@ -17,20 +17,50 @@ import weka.core.converters.CSVLoader;
 @Service
 public class StockWekaARFFBuilder implements ExecutableBean  {
     
+    private String csvFileName;
+    private String arffFileName;
+    
      public void execute() throws Exception {
          
     // load CSV
     CSVLoader loader = new CSVLoader();
-    loader.setSource(new File("src/main/resources/info.csv"));
+    loader.setSource(new File(getCsvFileName()));
     Instances data = loader.getDataSet();
     
      // save ARFF
     ArffSaver saver = new ArffSaver();
     saver.setInstances(data);
-    saver.setFile(new File("src/main/resources/info.arff"));
-   // saver.setDestination(new File("src/main/resources/info.arff"));
+    saver.setFile(new File(getArffFileName()));
     saver.writeBatch();
     
      }
+
+    /**
+     * @return the csvFileName
+     */
+    public String getCsvFileName() {
+        return csvFileName;
+    }
+
+    /**
+     * @param csvFileName the csvFileName to set
+     */
+    public void setCsvFileName(String csvFileName) {
+        this.csvFileName = csvFileName;
+    }
+
+    /**
+     * @return the arffFileName
+     */
+    public String getArffFileName() {
+        return arffFileName;
+    }
+
+    /**
+     * @param arffFileName the arffFileName to set
+     */
+    public void setArffFileName(String arffFileName) {
+        this.arffFileName = arffFileName;
+    }
      
 }
