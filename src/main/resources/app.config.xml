@@ -8,17 +8,17 @@
     <bean class="stockfortuneteller.app.Main">
         <property name="tasks">
             <list>              
-                 <ref bean="stockStemmerCSVBuilder"/>     
-                    <ref bean="stockWekaARFFBuilder"/>
+                <ref bean="stockStemmerCSVBuilder"/>     
+                <ref bean="stockWekaARFFBuilder"/>
                 <ref bean="stockWekaBuilder"/>                 
             </list>
         </property>
     </bean>
          
     <bean id="stockWekaBuilder" class="stockfortuneteller.data.StockWekaBuilder">
-         <property name="arffFileName" value="src/main/resources/info.arff"/>
-         <property name="numberOfClusters" value="50"/>
-         <property name="csvResultFileName" value="src/main/resources/result.csv"/>
+        <property name="arffFileName" value="src/main/resources/info.arff"/>
+        <property name="numberOfClusters" value="50"/>
+        <property name="csvResultFileName" value="src/main/resources/result.csv"/>
     </bean>
 
     <bean id="stockWekaARFFBuilder" class="stockfortuneteller.data.StockWekaARFFBuilder">
