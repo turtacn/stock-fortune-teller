@@ -21,12 +21,12 @@ import weka.filters.unsupervised.attribute.StringToWordVector;
  *
  * @author Itosu
  */
-public class StockWekaBuilder implements ExecutableBean {
+public class StockWekaSimpleKBuilder implements ExecutableBean {
 
     private String arffFileName;
     private String csvResultFileName;
-    private double acuity;
-    private double cutoff;
+    private int numberOfClusters;
+    private int maxIterations;
     private int seed;
 
     public void execute() throws Exception {
@@ -36,11 +36,13 @@ public class StockWekaBuilder implements ExecutableBean {
         Instances data = new Instances(reader);
         reader.close();
 
-        Cobweb cobweb = new Cobweb();
-        cobweb.setSeed(getSeed());
-        cobweb.setAcuity(getAcuity());
-        cobweb.setCutoff(getCutoff());
-        cobweb.setSaveInstanceData(false);
+        SimpleKMeans kmeans = new SimpleKMeans();
+
+        kmeans.setSeed(10);
+        kmeans.setPreserveInstancesOrder(true);
+        kmeans.setNumClusters(getNumberOfClusters());
+        kmeans.setSeed(getSeed());
+        kmeans.setSeed(getMaxIterations());
 
         Remove removeFilter = new Remove();
         String[] options = new String[2];
@@ -51,26 +53,26 @@ public class StockWekaBuilder implements ExecutableBean {
 
         Instances instNew = Filter.useFilter(data, removeFilter);
 
-         Instances newInsts = new Instances(data);
-         StringToWordVector stringFilter = new StringToWordVector();
-         stringFilter.setInputFormat(newInsts);
-         newInsts = Filter.useFilter(newInsts, stringFilter);
-       
-        cobweb.buildClusterer(newInsts);
-        
+        Instances newInsts = new Instances(data);
+        StringToWordVector stringFilter = new StringToWordVector();
+        stringFilter.setInputFormat(newInsts);
+        newInsts = Filter.useFilter(newInsts, stringFilter);
+
+        kmeans.buildClusterer(newInsts);
+
         NumericToNominal nm = new NumericToNominal();
         nm.setInputFormat(data);
         Instances filteredData = Filter.useFilter(data, nm);
         Integer previousFileId = Integer.parseInt(filteredData.instance(data.numInstances() - 1).stringValue(2));
         Integer currentFileId;
 
-        System.out.println("ILOSC: " + cobweb.numberOfClusters());
         FileWriter writer = new FileWriter(getCsvResultFileName() + String.valueOf(previousFileId) + ".csv");
 
         int id = 0;
+        int i = 0;
+        int[] assignments = kmeans.getAssignments();
 
-
-        for (int i = data.numInstances() - 1; i > -1; i--) {
+        for (int clusterNum : assignments) {
 
             currentFileId = Integer.parseInt(filteredData.instance(i).stringValue(2));
 
@@ -85,20 +87,23 @@ public class StockWekaBuilder implements ExecutableBean {
             writer.append(",");
             id++;
 
-            writer.append(String.valueOf(cobweb.clusterInstance(data.instance(i)) + 2));
+            writer.append(String.valueOf(clusterNum + 2));
             writer.append(",");
-            
+
             //delete 2 lines below to get rid of text
             writer.append(data.instance(i).stringValue(0));
             writer.append(",");
-            
+
             writer.append(filteredData.instance(i).stringValue(1));
             writer.append(";");
             writer.append('\n');
+
+            i++;
         }
 
         writer.flush();
         writer.close();
+
     }
 
     /**
@@ -130,20 +135,6 @@ public class StockWekaBuilder implements ExecutableBean {
     }
 
     /**
-     * @return the cutoff
-     */
-    public double getCutoff() {
-        return cutoff;
-    }
-
-    /**
-     * @param cutoff the cutoff to set
-     */
-    public void setCutoff(double cutoff) {
-        this.cutoff = cutoff;
-    }
-
-    /**
      * @return the seed
      */
     public int getSeed() {
@@ -158,16 +149,30 @@ public class StockWekaBuilder implements ExecutableBean {
     }
 
     /**
-     * @return the acuity
+     * @return the numberOfClusters
      */
-    public double getAcuity() {
-        return acuity;
+    public int getNumberOfClusters() {
+        return numberOfClusters;
     }
 
     /**
-     * @param acuity the acuity to set
+     * @param numberOfClusters the numberOfClusters to set
      */
-    public void setAcuity(double acuity) {
-        this.acuity = acuity;
+    public void setNumberOfClusters(int numberOfClusters) {
+        this.numberOfClusters = numberOfClusters;
+    }
+
+    /**
+     * @return the maxIterations
+     */
+    public int getMaxIterations() {
+        return maxIterations;
+    }
+
+    /**
+     * @param maxIterations the maxIterations to set
+     */
+    public void setMaxIterations(int maxIterations) {
+        this.maxIterations = maxIterations;
     }
 }
