@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Locale;
 import morfologik.stemming.PolishStemmer;
 import morfologik.stemming.WordData;
 import org.jsoup.Jsoup;
@@ -22,6 +23,8 @@ import stockfortuneteller.app.ExecutableBean;
  */
 public class StockStemmerCSVBuilder implements ExecutableBean {
 
+    public static final String INCREASE_MESSAGE = "0";
+    public static final String DECREASE_MESSAGE = "1";
     private List<Company> companies;
     private ArrayList<String> forbiddenWords;
     private String fileName;
@@ -30,11 +33,11 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
     public void execute() throws Exception {
 
         FileWriter writer = new FileWriter(getFileName());
-        writer.append("tekst,change");
+        writer.append("tekst,change,company");
         writer.append('\n');
 
         try {
-
+            int companyId = 0;
             for (Iterator<Company> i = getCompanies().iterator(); i.hasNext();) {
                 Company company = i.next();
 
@@ -64,18 +67,20 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
 
                                     if (tdText.text().contains(company.getName()) && !tdChange.text().isEmpty()) {
 
-                                        writer.append(StemSentence(tdText.text()));
-                                        writer.append(",");
                                         changeValue = Float.parseFloat(tdChange.text().replace(',', '.'));
-                                        if (changeValue > 0) {
-                                            changeNumber = "-1";
-                                        } else if (changeValue < 0) {
-                                            changeNumber = "-2";
-                                        } else {
-                                            changeNumber = "-3";
+
+                                        if (changeValue != 0) {
+                                            writer.append(StemSentence(tdText.text()));
+                                            writer.append(",");
+                                            if (changeValue > 0) {
+                                                writer.append(INCREASE_MESSAGE);
+                                            } else if (changeValue < 0) {
+                                                writer.append(DECREASE_MESSAGE);
+                                            }
+                                            writer.append(",");
+                                            writer.append(String.valueOf(companyId));
+                                            writer.append('\n');
                                         }
-                                        writer.append(changeNumber);
-                                        writer.append('\n');
                                     }
                                 }
                             }
@@ -88,6 +93,7 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
                         e.printStackTrace();
                     }
                 }
+                companyId++;
             }
             writer.flush();
             writer.close();
@@ -111,12 +117,16 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
 
         for (int i = 0; i < sentenceTable.length; i++) {
             try {
-                stem = stemmer.lookup(sentenceTable[i].toLowerCase()).get(0).getStem().toString();
+                if (!stemmer.lookup(sentenceTable[i].toLowerCase()).isEmpty()) {
+                    stem = stemmer.lookup(sentenceTable[i].toLowerCase()).get(0).getStem().toString().toLowerCase();
+                } else {
+                    throw new Exception();
+                }
             } catch (Exception ex) {
-                stem = sentenceTable[i];
+                stem = sentenceTable[i].toLowerCase();
             } finally {
                 if (!getForbiddenWords().contains(stem)) {
-                    stemmedSentence.append(DeletePolishSigns(stem));
+                    stemmedSentence.append(DeletePolishSigns(stem).replace(",", " ").replace("%", " ").replace('-', ' '));
                     stemmedSentence.append(" ");
                 }
             }
@@ -127,7 +137,7 @@ public class StockStemmerCSVBuilder implements ExecutableBean {
     }
 
     private String DeletePolishSigns(String word) {
-        return word.replace('ą', 'a').replace('ę', 'e').replace('ć', 'c').replace('ź', 'z').
+        return word.replace('ą', 'a').replace('ń', 'n').replace('ę', 'e').replace('ć', 'c').replace('ź', 'z').
                 replace('ż', 'z').replace('ł', 'l').replace('ś', 's').replace('ó', 'o');
     }
 

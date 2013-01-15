@@ -8,19 +8,27 @@
     <bean class="stockfortuneteller.app.Main">
         <property name="tasks">
             <list>              
-                <ref bean="stockStemmerCSVBuilder"/>     
-                <ref bean="stockWekaARFFBuilder"/>
-                <ref bean="stockWekaBuilder"/>                 
+                <ref bean="stockWekaSimpleKBuilder"/>                 
             </list>
         </property>
     </bean>
          
     <bean id="stockWekaBuilder" class="stockfortuneteller.data.StockWekaBuilder">
         <property name="arffFileName" value="src/main/resources/info.arff"/>
-        <property name="numberOfClusters" value="50"/>
-        <property name="csvResultFileName" value="src/main/resources/result.csv"/>
+        <property name="csvResultFileName" value="src/main/resources/result"/>
+        <property name="acuity" value="10.0"/>
+        <property name="cutoff" value="0.00186"/>
+        <property name="seed" value="80"/>
     </bean>
 
+    <bean id="stockWekaSimpleKBuilder" class="stockfortuneteller.data.StockWekaSimpleKBuilder">
+        <property name="arffFileName" value="src/main/resources/info.arff"/>
+        <property name="csvResultFileName" value="src/main/resources/result"/>
+        <property name="maxIterations" value="8000"/>
+        <property name="numberOfClusters" value="400"/>
+        <property name="seed" value="10"/>
+    </bean>
+    
     <bean id="stockWekaARFFBuilder" class="stockfortuneteller.data.StockWekaARFFBuilder">
         <property name="csvFileName" value="src/main/resources/info.csv"/>
         <property name="arffFileName" value="src/main/resources/info.arff"/>
@@ -32,13 +40,33 @@
                 <bean id="company1" class="stockfortuneteller.data.Company">
                     <property name="name" value="LOTOS"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,457,,1.html"/>
+                </bean> 
+                 <bean id="company2" class="stockfortuneteller.data.Company">
+                    <property name="name" value="PKN ORLEN SA"/>
+                    <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,264,,1.html"/>
                 </bean>   
+                <bean id="company3" class="stockfortuneteller.data.Company">
+                    <property name="name" value="PETROLINVEST SA"/>
+                    <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,571,,1.html"/>
+                </bean>  
+                <bean id="company4" class="stockfortuneteller.data.Company">
+                    <property name="name" value="MOL Magvar Olaj"/>
+                    <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,441,,1.html"/>
+                </bean>       
             </list>
         </property>
         <property name="forbiddenWords">
             <list>
+                <value>MOL</value>
+                <value>Magvar</value>
+                <value>Olaj</value>
+                <value>petrolinvest</value>
                 <value>grupa</value>
                 <value>lotos</value>
+                <value>pkn</value>
+                <value>orlen</value>
+                <value>sa</value>
+                <value>s.a.</value>
             </list>
         </property>
         <property name="fileName" value="src/main/resources/info.csv"/>
