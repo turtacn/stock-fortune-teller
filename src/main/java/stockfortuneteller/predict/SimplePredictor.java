@@ -26,10 +26,9 @@ public class SimplePredictor implements Predictor<ObservationInteger> {
         
         // get distribution of next increase/decrease message
         Opdf<ObservationInteger> opdf = getModel().getOpdf(mostLikelyState);
-        double gainProbability = opdf.probability(Observations.INCREASE_OBSERVATION);
-        double lossProbability = opdf.probability(Observations.DECREASE_OBSERVATION);
-        
-        return new Prediction(gainProbability, lossProbability);
+        double increaseProbability = opdf.probability(Observations.INCREASE_OBSERVATION);
+        double decreaseProbability = opdf.probability(Observations.DECREASE_OBSERVATION);
+        return new Prediction(increaseProbability, decreaseProbability);
     }
 
     public Hmm<ObservationInteger> getModel() {

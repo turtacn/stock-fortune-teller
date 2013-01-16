@@ -9,12 +9,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Locale;
 import morfologik.stemming.PolishStemmer;
-import morfologik.stemming.WordData;
 import org.jsoup.Jsoup;
 import org.jsoup.select.Elements;
-import org.w3c.dom.Element;
 import stockfortuneteller.app.ExecutableBean;
 
 /**

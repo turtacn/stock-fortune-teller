@@ -9,6 +9,7 @@ import be.ac.ulg.montefiore.run.jahmm.ObservationInteger;
 import be.ac.ulg.montefiore.run.jahmm.OpdfIntegerFactory;
 import be.ac.ulg.montefiore.run.jahmm.draw.GenericHmmDrawerDot;
 import be.ac.ulg.montefiore.run.jahmm.learn.KMeansLearner;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import stockfortuneteller.app.ExecutableBean;
@@ -20,7 +21,7 @@ import stockfortuneteller.app.Utils;
  */
 public class ModelBuilder implements ExecutableBean {
     private int modelStateNumber;
-    private String sequencesInFileName;
+    private String sequencesInDirName;
     private String modelOutFileName;
     private String diagramOutFileName;
     private List<ModelPostprocessor<ObservationInteger>> postprocessors;
@@ -34,10 +35,8 @@ public class ModelBuilder implements ExecutableBean {
         drawer.write(model, getDiagramOutFileName());
     }
 
-    
-
-    private Hmm<ObservationInteger> buildModel() {
-        ArrayList<ArrayList<ObservationInteger>> sequences = Observations.loadSequences(sequencesInFileName);
+    private Hmm<ObservationInteger> buildModel() throws IOException {
+        ArrayList<ArrayList<ObservationInteger>> sequences = Observations.loadSequencesDir(getSequencesInDirName());
         
         // initial model
         KMeansLearner<ObservationInteger> kMeansLearner = new KMeansLearner<>(getModelStateNumber(), new OpdfIntegerFactory(Observations.MAX_OBSERVATION_ID), sequences);
@@ -79,6 +78,14 @@ public class ModelBuilder implements ExecutableBean {
     }
 
     public void setPostprocessors(List<ModelPostprocessor<ObservationInteger>> postprocessors) {
-        this.postprocessors = postprocessors;
+        this.setPostprocessors(postprocessors);
+    }
+
+    public String getSequencesInDirName() {
+        return sequencesInDirName;
+    }
+
+    public void setSequencesInDirName(String sequencesInDirName) {
+        this.sequencesInDirName = sequencesInDirName;
     }
 }

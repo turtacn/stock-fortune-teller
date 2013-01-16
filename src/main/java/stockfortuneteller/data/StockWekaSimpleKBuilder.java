@@ -8,8 +8,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import stockfortuneteller.app.ExecutableBean;
-import weka.classifiers.trees.J48;
-import weka.clusterers.Cobweb;
 import weka.clusterers.SimpleKMeans;
 import weka.core.Instances;
 import weka.filters.Filter;
@@ -29,6 +27,7 @@ public class StockWekaSimpleKBuilder implements ExecutableBean {
     private int maxIterations;
     private int seed;
 
+    @Override
     public void execute() throws Exception {
 
         BufferedReader reader = new BufferedReader(
