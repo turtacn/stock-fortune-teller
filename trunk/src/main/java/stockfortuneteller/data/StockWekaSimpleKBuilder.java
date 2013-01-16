@@ -94,7 +94,6 @@ public class StockWekaSimpleKBuilder implements ExecutableBean {
             writer.append(",");
 
             writer.append(filteredData.instance(i).stringValue(1));
-            writer.append(";");
             writer.append('\n');
 
             i++;

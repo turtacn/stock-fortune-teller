@@ -16,9 +16,14 @@ public class Prediction {
     public Prediction(double increaseChance, double decreaseChance) {
         // normalize those since HMM stores proabilities for all messages
         double totalChance = increaseChance + decreaseChance;
-
-        this.increaseChance = increaseChance / totalChance;
-        this.decreaseChance = decreaseChance / totalChance;
+        
+        if (totalChance > 0) {
+            this.increaseChance = increaseChance / totalChance;
+            this.decreaseChance = decreaseChance / totalChance;
+        } else {
+            this.increaseChance = 0;
+            this.decreaseChance = 0;
+        }
     }
 
     public double getIncreaseChance() {

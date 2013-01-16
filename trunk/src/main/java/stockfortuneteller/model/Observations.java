@@ -27,7 +27,6 @@ public class Observations {
     private static final int GROUP_COLUMN_INDEX = 1;
     private static final int CHANGE_COLUMN_INDEX = 3;
     
-    
     public static ArrayList<ArrayList<ObservationInteger>> loadSequencesDir(String dirname) throws IOException {
         ArrayList<ArrayList<ObservationInteger>> result = new ArrayList<>();
         
