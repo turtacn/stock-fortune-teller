@@ -3,60 +3,77 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:util="http://www.springframework.org/schema/util"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
- http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-2.5.xsd" xmlns:aop="http://www.springframework.org/schema/aop">
+ http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-2.5.xsd" 
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       >
+    
+    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer" lazy-init="false">
+        <property name="properties">
+            <props>
+                <!-- paths -->
+                <prop key="dataDir">data/sequences</prop>
+                <prop key="testDir">data/test</prop>
+                <prop key="trainDir">data/train</prop>
+                <prop key="modelFile">data/model.hmm</prop>
+                <prop key="diagramPath">data/diagram.dot</prop>
+            </props>
+        </property>
+    </bean>
     
     <bean class="stockfortuneteller.app.Main">
-        <property name="tasks" ref="dataSplitTasks" />
+        <property name="tasks">
+            <list>
+                <!--<ref bean="stockStemmerCSVBuilder" />--> 
+                <!--<ref bean="stockWekaARFFBuilder"/>-->
+                <ref bean="stockWekaBuilder"/>
+                <!--<ref bean="stockWekaSimpleKBuilder"/>-->
+                <!--<ref bean="dataSplitter" />-->   
+                <!--<ref bean="modelBuilder" />-->     
+                <!--<ref bean="tester" />-->              
+            </list>
+        </property>
     </bean>
      
     <!-- =======================================================================
     == DATA GATHERING AND PREPROCESSING
     ======================================================================== -->
-    <bean id="dataPreprocessTasks" class="java.util.ArrayList">
-        <constructor-arg>
-            <list>
-                <ref bean="stockWekaSimpleKBuilder"/>          
-            </list>
-        </constructor-arg>
-    </bean>
-    
     <bean id="stockWekaBuilder" class="stockfortuneteller.data.StockWekaBuilder">
-        <property name="arffFileName" value="src/main/resources/info.arff"/>
-        <property name="csvResultFileName" value="src/main/resources/result"/>
+        <property name="arffFileName" value="data/info.arff"/>
+        <property name="csvResultFileName" value="${dataDir}/result"/>
         <property name="acuity" value="10.0"/>
         <property name="cutoff" value="0.00186"/>
         <property name="seed" value="80"/>
     </bean>
 
     <bean id="stockWekaSimpleKBuilder" class="stockfortuneteller.data.StockWekaSimpleKBuilder">
-        <property name="arffFileName" value="src/main/resources/info.arff"/>
-        <property name="csvResultFileName" value="src/main/resources/result"/>
+        <property name="arffFileName" value="data/info.arff"/>
+        <property name="csvResultFileName" value="${dataDir}/result"/>
         <property name="maxIterations" value="8000"/>
         <property name="numberOfClusters" value="400"/>
         <property name="seed" value="10"/>
     </bean>
     
     <bean id="stockWekaARFFBuilder" class="stockfortuneteller.data.StockWekaARFFBuilder">
-        <property name="csvFileName" value="src/main/resources/info.csv"/>
-        <property name="arffFileName" value="src/main/resources/info.arff"/>
+        <property name="csvFileName" value="data/info.csv"/>
+        <property name="arffFileName" value="data/info.arff"/>
     </bean>
     
     <bean id="stockStemmerCSVBuilder" class="stockfortuneteller.data.StockStemmerCSVBuilder">
         <property name="companies">
             <list>
-                <bean id="company1" class="stockfortuneteller.data.Company">
+                <bean class="stockfortuneteller.data.Company">
                     <property name="name" value="LOTOS"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,457,,1.html"/>
                 </bean> 
-                 <bean id="company2" class="stockfortuneteller.data.Company">
+                <bean class="stockfortuneteller.data.Company">
                     <property name="name" value="PKN ORLEN SA"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,264,,1.html"/>
                 </bean>   
-                <bean id="company3" class="stockfortuneteller.data.Company">
+                <bean class="stockfortuneteller.data.Company">
                     <property name="name" value="PETROLINVEST SA"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,571,,1.html"/>
                 </bean>  
-                <bean id="company4" class="stockfortuneteller.data.Company">
+                <bean class="stockfortuneteller.data.Company">
                     <property name="name" value="MOL Magvar Olaj"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,441,,1.html"/>
                 </bean>       
@@ -64,9 +81,9 @@
         </property>
         <property name="forbiddenWords">
             <list>
-                <value>MOL</value>
-                <value>Magvar</value>
-                <value>Olaj</value>
+                <value>mOL</value>
+                <value>magvar</value>
+                <value>olaj</value>
                 <value>petrolinvest</value>
                 <value>grupa</value>
                 <value>lotos</value>
@@ -76,26 +93,50 @@
                 <value>s.a.</value>
             </list>
         </property>
-        <property name="fileName" value="src/main/resources/info.csv"/>
+        <property name="fileName" value="data/info.csv"/>
     </bean>
     
     <!-- =======================================================================
     == DATA SPLIT
     ======================================================================== -->
-    <bean id="dataSplitTasks" class="java.util.ArrayList">
-        <constructor-arg>
-            <list>
-                <ref bean="dataSplitter" />           
-            </list>
-        </constructor-arg>
-    </bean>
-    
     <bean id="dataSplitter" class="stockfortuneteller.evaluate.DataSetSplitter">
-        <property name="dataDirectory" value="data/sequences"/>
-        <property name="testDirectory" value="data/test"/>
-        <property name="trainDirectory" value="data/train"/>
+        <property name="dataDirectory" value="${dataDir}"/>
+        <property name="testDirectory" value="${testDir}"/>
+        <property name="trainDirectory" value="${trainDir}"/>
         <property name="sequencesSize" value="50"/>
         <property name="testRatio" value="0.2"/>
     </bean>
     
+    
+    <!-- =======================================================================
+    == MODEL BUILDING
+    ======================================================================== -->
+    <bean id="modelBuilder" class="stockfortuneteller.model.ModelBuilder">
+        <property name="sequencesInDirName" value="${trainDir}" />
+        <property name="diagramOutFileName" value="${diagramPath}" />
+        <property name="modelOutFileName" value="${modelFile}" />
+        <property name="modelStateNumber" value="6" />
+        <property name="postprocessors">
+            <list>
+                <bean class="stockfortuneteller.model.postprocessor.BwlPostprocessor" />
+                <bean class="stockfortuneteller.model.postprocessor.ResetInitialProbabilitiesPostprocessor" />     
+            </list>
+        </property>
+    </bean>
+    
+    <!-- =======================================================================
+    == PEDICTION EVALUATION
+    ======================================================================== -->
+    <bean id="tester" class="stockfortuneteller.evaluate.PredictorTester" lazy-init="true">
+        <property name="testSequencesDirName" value="${testDir}"/>
+        <property name="evaluator" ref="evaluator"/>
+        <property name="predictor" ref="predictor"/>
+    </bean>
+    
+    <bean id="evaluator" class="stockfortuneteller.evaluate.SimplePredictorEvaluator" lazy-init="true">
+    </bean>
+    
+    <bean id="predictor" class="stockfortuneteller.predict.SimplePredictor" lazy-init="true">
+        <constructor-arg value="${modelFile}"/>
+    </bean>
 </beans>

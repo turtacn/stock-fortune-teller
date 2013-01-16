@@ -78,7 +78,7 @@ public class ModelBuilder implements ExecutableBean {
     }
 
     public void setPostprocessors(List<ModelPostprocessor<ObservationInteger>> postprocessors) {
-        this.setPostprocessors(postprocessors);
+        this.postprocessors = postprocessors;
     }
 
     public String getSequencesInDirName() {

@@ -33,8 +33,8 @@ public class DataSetSplitter implements ExecutableBean {
         File testDir = new File(getTestDirectory());
         
         // recreate directories
-        // FileUtils.deleteDirectory(trainDir);
-        // FileUtils.deleteDirectory(testDir);
+        FileUtils.deleteDirectory(trainDir);
+        FileUtils.deleteDirectory(testDir);
         trainDir.mkdir();
         testDir.mkdir();
         
@@ -73,15 +73,16 @@ public class DataSetSplitter implements ExecutableBean {
             ++fileCounter;
             
             File file = new File(dir, String.valueOf(fileCounter) + ".csv");
-            FileWriter writer = new FileWriter(file);
-            writer.append("unused1,messageId,unused2,increaseId\n");
-            
-            Iterator<ObservationInteger> iterator = sequence.iterator();
-            while(iterator.hasNext()) {
-                ObservationInteger messageId = iterator.next();
-                ObservationInteger increaseId = iterator.next();
+            try (FileWriter writer = new FileWriter(file)) {
+                writer.append("unused1,messageId,unused2,increaseId\n");
                 
-                writer.append("0," + messageId + ",0," + increaseId + "\n");
+                Iterator<ObservationInteger> iterator = sequence.iterator();
+                while(iterator.hasNext()) {
+                    ObservationInteger messageId = iterator.next();
+                    ObservationInteger increaseId = iterator.next();
+                    
+                    writer.append("0," + messageId + ",0," + increaseId + "\n");
+                }
             }
         }
     }

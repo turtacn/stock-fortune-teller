@@ -12,7 +12,7 @@ import stockfortuneteller.predict.Prediction;
  */
 public class Evaluation {
     private int totalPredictions = 0;
-    private Integer[][] confusionMatrix = new Integer[2][2];
+    private int[][] confusionMatrix = new int[2][2];
 
     @Override
     public String toString() {
@@ -27,7 +27,7 @@ public class Evaluation {
             .append("\n")
             .append("ACCURACY - ").append(getAccuracy());   
         
-        return super.toString();
+        return sb.toString();
     }
 
     public void addPrediction(Prediction prediction, boolean willIncrease) {

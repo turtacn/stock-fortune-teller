@@ -20,14 +20,14 @@ public class PredictorTester implements ExecutableBean {
 
     private PredictorEvaluator<ObservationInteger> evaluator;
     private Predictor<ObservationInteger> predictor;
-    
+ 
     private String testSequencesDirName;
     
     @Override
     public void execute() throws Exception {
-        List<TestSequence<ObservationInteger>> testSequences = loadTestSequences(testSequencesDirName);
-        Evaluation evaluation = evaluator.evaluate(predictor, testSequences);
-        System.out.print(evaluation);
+        List<TestSequence<ObservationInteger>> testSequences = loadTestSequences(getTestSequencesDirName());
+        Evaluation evaluation = getEvaluator().evaluate(getPredictor(), testSequences);
+        System.out.print(evaluation.toString());
     }
 
     private List<TestSequence<ObservationInteger>> loadTestSequences(String testSequencesDirName) throws IOException {
@@ -40,6 +40,48 @@ public class PredictorTester implements ExecutableBean {
         }
         
         return result;
+    }
+
+    /**
+     * @return the evaluator
+     */
+    public PredictorEvaluator<ObservationInteger> getEvaluator() {
+        return evaluator;
+    }
+
+    /**
+     * @param evaluator the evaluator to set
+     */
+    public void setEvaluator(PredictorEvaluator<ObservationInteger> evaluator) {
+        this.evaluator = evaluator;
+    }
+
+    /**
+     * @return the predictor
+     */
+    public Predictor<ObservationInteger> getPredictor() {
+        return predictor;
+    }
+
+    /**
+     * @param predictor the predictor to set
+     */
+    public void setPredictor(Predictor<ObservationInteger> predictor) {
+        this.predictor = predictor;
+    }
+
+    /**
+     * @return the testSequencesDirName
+     */
+    public String getTestSequencesDirName() {
+        return testSequencesDirName;
+    }
+
+    /**
+     * @param testSequencesDirName the testSequencesDirName to set
+     */
+    public void setTestSequencesDirName(String testSequencesDirName) {
+        this.testSequencesDirName = testSequencesDirName;
     }
 
 }
