@@ -6,13 +6,20 @@
  http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-2.5.xsd" xmlns:aop="http://www.springframework.org/schema/aop">
     
     <bean class="stockfortuneteller.app.Main">
-        <property name="tasks">
-            <list>              
-                <ref bean="stockWekaSimpleKBuilder"/>                 
-            </list>
-        </property>
+        <property name="tasks" ref="dataSplitTasks" />
     </bean>
-         
+     
+    <!-- =======================================================================
+    == DATA GATHERING AND PREPROCESSING
+    ======================================================================== -->
+    <bean id="dataPreprocessTasks" class="java.util.ArrayList">
+        <constructor-arg>
+            <list>
+                <ref bean="stockWekaSimpleKBuilder"/>          
+            </list>
+        </constructor-arg>
+    </bean>
+    
     <bean id="stockWekaBuilder" class="stockfortuneteller.data.StockWekaBuilder">
         <property name="arffFileName" value="src/main/resources/info.arff"/>
         <property name="csvResultFileName" value="src/main/resources/result"/>
@@ -70,6 +77,25 @@
             </list>
         </property>
         <property name="fileName" value="src/main/resources/info.csv"/>
+    </bean>
+    
+    <!-- =======================================================================
+    == DATA SPLIT
+    ======================================================================== -->
+    <bean id="dataSplitTasks" class="java.util.ArrayList">
+        <constructor-arg>
+            <list>
+                <ref bean="dataSplitter" />           
+            </list>
+        </constructor-arg>
+    </bean>
+    
+    <bean id="dataSplitter" class="stockfortuneteller.evaluate.DataSetSplitter">
+        <property name="dataDirectory" value="data/sequences"/>
+        <property name="testDirectory" value="data/test"/>
+        <property name="trainDirectory" value="data/train"/>
+        <property name="sequencesSize" value="50"/>
+        <property name="testRatio" value="0.2"/>
     </bean>
     
 </beans>
