@@ -25,7 +25,8 @@
             <list>
                 <!--<ref bean="stockStemmerCSVBuilder" />--> 
                 <!--<ref bean="stockWekaARFFBuilder"/>-->
-                <ref bean="stockWekaBuilder"/>
+                <!--<ref bean="stockWekaBuilder"/>-->
+                <ref bean="stockWekaHierarchicalClusterBuilder"/>
                 <!--<ref bean="stockWekaSimpleKBuilder"/>-->
                 <!--<ref bean="dataSplitter" />-->   
                 <!--<ref bean="modelBuilder" />-->     
@@ -51,6 +52,12 @@
         <property name="maxIterations" value="8000"/>
         <property name="numberOfClusters" value="400"/>
         <property name="seed" value="10"/>
+    </bean>
+    
+    <bean id="stockWekaHierarchicalClusterBuilder" class="stockfortuneteller.data.StockWekaHierarchicalClusterBuilder">
+        <property name="arffFileName" value="src/main/resources/info.arff"/>
+        <property name="csvResultFileName" value="src/main/resources/result"/>
+        <property name="numberOfClusters" value="60"/>
     </bean>
     
     <bean id="stockWekaARFFBuilder" class="stockfortuneteller.data.StockWekaARFFBuilder">
