@@ -660,6 +660,7 @@ zmiana wysokosc kapital zakladowy oil,1,0
 zawarcie umowy znaczacy przez spolka zalezny,1,0
 zawarcie umowy znaczacy przez spolka zalezny,1,0
 transakcja na akcja spolka dokonany przez osoba blisko zwiazac z czlonek rn,1,1
+transakcja na akcja spolka dokonany przez osoba blisko zwiazac z czlonek rn,1,1
 transakcja na akcja spolka dokonany przez osoba blisko zwiazac z czlonek rn,0,1
 ship service nabyc obligacja wyemitowac przez,1,1
   transakcja na akcja spolka,1,1
@@ -2309,7 +2310,7 @@ uchwala kdpw o przyjecie do kdpw akcja seria d,0,1
 rejestracja podwyzszenie kapital zakladowy,0,1
 wstepna oferta w sprawa snp petrom,0,1
 spolka i pgnig podpisac list intencyjny,1,1
-zawarcie porozumienie z mol,1,1
+zawarcie porozumienie z,1,1
 podpisac umowy z agrofert holding a.s.,1,1
 zgloszenie do udzial w przetarg na unipetrol as,1,1
 zgloszenie do przetarg,1,1
@@ -2521,7 +2522,7 @@ korekta raport biezacy numer 75/2001,0,1
 dane przekazac do gus za iii kwartal 2001,0,1
 zarejestrowac spolka zawitac swinoujscie sp. z o.o.,0,1
 przedluzenie remont olefina ii,0,1
-przystapienie do negocjacja z mol   3 etap prywatyzacja,0,1
+przystapienie do negocjacja z   3 etap prywatyzacja,0,1
 pozyczka dla polkomtel,0,1
 ogloszenie upadlosc bht dromech,0,1
 oswiadczenie o objecie 6 020 udzial w petrogaz sp. z o.o.,0,1
@@ -2651,7 +2652,6 @@ uchwala podjac na zwza,1,1
 skonsolidowac sprawozdanie finansowy msr,1,1
 projekt uchwala na zwza,1,1
 raport kwartalny,1,1
-wprowadzenie akcja do obrot na gpw,0,2
 nabycie udzial w silurian sp. z o.o,1,2
 spelnienie warunek umowy zobowiazywac do sprzedaz udzial w spolka too emba juga nieft,1,2
 zawarcie porozumienie,1,2
@@ -3159,842 +3159,1872 @@ zawiadomienie o transakcja osoba zobowiazana,0,2
 wykaz akcjonariusz posiadajacy co malo 5  na nwz,1,2
 zakonczenie oferta akcja seria nad,1,2
 wprowadzenie akcja do obrot na gpw,1,2
-mol new gas andante condensate discovery in pakistan,0,3
-mol mol andante cez modified the conditions of the option structure regarding mol shares,0,3
-mol share sala of mol manager,1,3
-mol number of voting rights at mol plc,1,3
-mol olaj: share sala of mol manager,0,3
-mol share sala of mol manager,0,3
-mol share sala of mol manager,0,3
-mol share sala of mol manager,1,3
-mol share sala of mol manager,0,3
-mol treasury shares transaction,0,3
-mol treasury shares transaction,0,3
-mol mol zlozyc wiazacy oferta na 96 9  udzial w spolka oao udmurtneft,0,3
-mol   es gazipari nyilvanosan mukodo reszvenvtarsasag raport roczny,1,3
-mol ilosc prawic glos,1,3
-mol podpisac umowa zakup zwiekszac do 100  udzial w mol austria handels gmbh,1,3
-mol zakup akcja wlasny,0,3
-mol miec nowe partner w spolka zmb,0,3
-mol udzial spolka w ina wzrosc do 47 15 ,1,3
-mol   sprzedaz akcja przez ceo mol,1,3
-mol powiadomienie oman oil budapest limited dotyczyc zmiana w ilosci prawic glos,1,3
-mol   zakup akcja wlasny,1,3
-mol projekt umowy z exxonmobil,0,3
-mol wstepne wynik mol za iii kwartal 2007 rok,1,3
-mol zakup akcja wlasny,0,3
-mol wstepne wynik mol za iii kwartal 2008 r.,0,3
-mol sprzedaz akcja przez menadzer mol,1,3
-mol zmiana wplyw na spolka,1,3
-mol zmiana w ilosci prawic glos,1,3
-mol ilosc prawic glos,0,3
-mol   es gazipari rszvenvtarsasag zmiana organizacyjny,0,3
-mol zmiana wplyw na spolka,1,3
-mol nabycie akcja przez czlonek rn,1,3
-mol uchwala walny zgromadzenie akcjonariusz z 23 kwietni 2008 r.,0,3
-mol dokument na walny zebranie akcjonariusz   wersja polski,0,3
-mol zakup akcja wlasny,1,3
-mol   zakup obligacja kapitalowy przez menadzer mol,1,3
-mol zmiana wplyw na spolka,0,3
-mol zmiana wspolczynnik w adr ach,1,3
-mol wstepne wynik mol za i kwartal 2005 rok,1,3
-mol powiadomienie bhv aga dotyczyc zmiana w ilosci prawic glos,1,3
-mol zakonczyc zakup ngosso permit w kamerunie,0,3
-mol skrocic harmonogram wza spolka,1,3
-mol harmonogram wza spolka wersja angielski,1,3
-mol   ilosc prawic glos w spolka mol,1,3
-mol   es gazipari rszvenvtarsasag sprzedaz akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol strategiczny sojusz pomiedzy cez a mol,0,3
-mol zbycie akcja przez menedzer spolka,1,3
-mol zbycie akcja przez menedzer spolka,1,3
-mol dokument na walny zgromadzenie akcjonariusz,0,3
-mol podpisac umowy opcja z ing bank n.v.,1,3
-mol wynik przetarg na wybudowac strategiczny magazyn gaz,1,3
-mol utworzyc spolka joint venture mol i cez,0,3
-mol odkrycie nowy zloze ropa naftowy w rosji efekt dzialanie poszukiwawczy spolka,0,3
-mol organizowac dzien dla analityk oraz inwestor,1,3
-mol oswiadczenie w sprawa powiadomienie dotyczyc fuzja,0,3
-mol   es gazipari rszvenvtarsasag zakup akcja wlasny,1,3
-mol   zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol miejsce publikacja wstepny wynik za iv kw. i 2006 r.,1,3
-mol swiatlo dla spolka joint venture mol i cez,1,3
-mol zakup akcja wlasny,1,3
-mol informacja o zmiana wplyw na spolka mol,0,3
-mol raport podsumowywac mol za rok finansowy 2007,0,3
-mol raport roczny 2007,0,3
-mol zakup akcja wlasny,0,3
-mol nabycie akcja wlasny,0,3
-mol realizacja transakcja,1,3
-mol   zakup akcja wlasny,0,3
-mol zamiana akcja wlasny,0,3
-mol  raport roczny mol za 2006 rok   uzupelnic wersja polskojezyczny,1,3
-mol podpisac porozumienie z indyjski spolka ongc,1,3
-mol nabycie akcja wlasny,0,3
-mol sad rejestrowy zarejestrowac podwyzszenie kapital akcyjny spolka,0,3
-mol ilosc prawic glos przypisac do akcja,1,3
-mol rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2006,0,3
-mol zakup akcja wlasny,1,3
-mol potwierdzenie obsada stanowisko dyrektor zarzadzajacy siec sprzedaz,1,3
-mol zakup akcja wlasny,0,3
-mol stanowisko firma mol odnosnie oswiadczenie omv,0,3
-mol zmiana wplyw na spolka mol,0,3
-mol umowa na zakup 100  udzial w italiana energia e servizi,0,3
-mol sprzedaz akcja przez menadzer   korekta komunikat,0,3
-mol wstepne wynik mol za ii kwartal 2006 r.,1,3
-mol dotyczyc zmiana w ilosci prawic glos,0,3
-mol odkrycie nowy zloze gaz i kondensat w pakistanie,0,3
-mol sprzedaz akcja spolka mol przez menadzer,1,3
-mol   es gnmr mol powolac spolka obrot gaz ziemny,1,3
-mol uchwala roczny zgromadzenie akcjonariusz,1,3
-mol sprzedaz akcja spolka przez menadzer,0,3
-mol nabycie akcja wlasny,1,3
-mol wezwanie do zakup akcja skarbowy,0,3
-mol wstepne wynik mol za iii kwartal oraz 9 miesiac 2005 r.,1,3
-mol wstepne wynik mol za i kwartal 2007 rok,0,3
-mol otrzymac kolejny pozew omv oraz decyzja sad metropolitalny,0,3
-mol olaj: mfb invest zrt. notification on change of voting rights,0,3
-mol olaj: obrot akcja mi spolka,0,3
-mol zmiana wplyw na spolka mol,0,3
-mol zakup akcja wlasny,1,3
-mol zmiana wplyw na spolka,1,3
-mol wstepne wynik mol za i kwartal 2006 r.,1,3
-mol powiadomienie omv dotyczyc zmiana w ilosci prawic glos,1,3
-mol interim management report,0,3
-mol sprzedaz akcja przez menadzer,1,3
-mol zmiana w posiadanie akcja przez menadzer wysoki szczebel,1,3
-mol mfb invest zrt. notification on change of voting rights,1,3
-mol komunikat o zmiana wplyw na spolka,1,3
-mol   es gazipari rszvenvtarsasag sprzedaz akcja wlasny,0,3
-mol spolka otrzymac koncesja na obrot gaz,1,3
-mol umowa na kredyt odnawialny o wartosc 825 milion euro,0,3
-mol change in mol treasury shares,0,3
-mol podpisac porozumienie,0,3
-mol podpisac porozumienie,0,3
-mol raport roczny za 2004 rok,0,3
-mol zbywac dzialalnosc detaliczny w polsce,1,3
-mol wiazacy oferta przetargowy na przejecie energopetrolu,0,3
-mol zakup akcja wlasny,0,3
-mol projekt umowy z exxonmobil,0,3
-mol odkrycie nowy zloze ropa naftowy i gaz w kazachstanie,1,3
-mol zmiana personalna w spolka mol,1,3
-mol surgutneftegas notification on change of voting rights,0,3
-mol to pursue stated independent strategy,0,3
-mol   es ggazipari rszvenvtarsasag sprzedaz akcja skarbowy,0,3
-mol obecny stan praca wydobywczy w blok fedorowski,0,3
-mol umowa kupna sprzedazy z rosyjski firma nwog,0,3
-mol olaj: wstepne wynik za iv kwartal oraz za rok 2007,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zmiana wplyw na spolka,0,3
-mol   zmiana wplyw na spolka mol,0,3
-mol zmiana personalna w mol,0,3
-mol memorandum of understanding w zakres sojusz strategiczny,1,3
-mol nabycie akcja wlasny,1,3
-mol zakup akcja skarbowy,0,3
-mol zmiana wplyw na spolka,1,3
-mol ilosc prawic glos w spolka mol,1,3
-mol wybrana dane finansowy z raport roczny 2004,1,3
-mol informowac,1,3
-mol wiazacy oferta na 51  udzial w tüpras,1,3
-mol wstepne wynik mol za iv kwartal oraz caly 2005 rok,0,3
-mol the agm resolutions wy registered by the court of register,0,3
-mol zmiana w nazwa spolka,0,3
-mol porozumienie w sprawa transakcja dotyczyc branza gazowniczy   wersja polski,1,3
-mol dokument na walny zgromadzenie akcjonariusz (wersja polska),0,3
-mol informowac,0,3
-mol sprzedaz akcja przez menadzer spolka mol,0,3
-mol zbycie akcja spolka przez menedzer,1,3
-mol mol has received surgutneftegas's action,1,3
-mol informowac,1,3
-mol zmiana data identyfikacja akcjonariusz przed wza,0,3
-mol zmiana w udzial akcja wysoki kadry zarzadzajaca,1,3
-mol zakup akcja wlasny,1,3
-mol bnp paribas notification on change of voting rights,0,3
-mol zakup akcja wlasny,1,3
-mol transakcja na akcja,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol rosyjski urzad antymonopolowy wyrazic zgoda na nabycie 100  udzial nwog mol,1,3
-mol sad rejestrowy zatwierdzic podwyzszenie kapital spolka,0,3
-mol zawierac dlugoterminowy umowa z lukoil na dostawa ropa naftowy,0,3
-mol powiadomienie omv dotyczyc zmiana w ilosci prawic glos,0,3
-mol zmiana wplyw na mol,0,3
-mol nowe odkrycie ropa i gaz w pakistanie,0,3
-mol zamkniecie transakcja zakup akcja pomiedzy mol i cez,0,3
-mol powiadomienie omv dotyczyc zmiana w ilosci prawic glos   pelny polskojezyczny wersja,1,3
-mol nowa inicjatywa,0,3
-mol informowac,0,3
-mol wstepne wynik mol za ii kwartal 2006 rok,0,3
-mol wstepne wynik mol za iii kwartal 2005 r.,1,3
-mol   es gazipari rszvenvtarsasag mol emitowac euroobligacja,1,3
-mol rada dyrektor oglaszac wyplata dywidenda za rok 2006 (poprawka),0,3
-mol zakup akcja wlasny,1,3
-mol raport roczny mol za 2006 rok,0,3
-mol nabycie akcja wlasny,1,3
-mol uchwala walny zgromadzenie akcjonariusz,1,3
-mol zakup akcja wlasny,1,3
-mol zmiana w akcja wlasny,1,3
-mol zakup akcja skarbowy,0,3
-mol zakup akcja wlasny,0,3
-mol udany wspolpraca z spolka ina   uzupelnienie,0,3
-mol porozumienie w sprawa zakup 40  udzial w nowy przybrzezny blok w kamerunie,0,3
-mol zakup akcja wlasny,0,3
-mol zmiana wplyw na spolka mol,0,3
-mol stanowisko odnosnie warunkowy deklaracja intencja omv,0,3
-mol zmiana personalna w slovnafcie,1,3
-mol treasury share transaction,1,3
-mol nabycie akcja wlasny,0,3
-mol zakup akcja i&c energia a.s.,0,3
-mol wyplata dywidenda za rok obrotowy 2007,0,3
-mol wapiwsp zamierzac sprzedac 1 73  akcja spolka,1,3
-mol   zasada lad korporacyjny,0,3
-mol ilosc prawic glos w spolka mol,0,3
-mol uchwala walny zgromadzenie akcjonariusz mol w wersja polski,0,3
-mol zmiana harmonogram wza na wniosek omv w wersja polski,0,3
-mol zakup akcja skarbowy,0,3
-mol   es gazipari rszvenvtarsasag dywidenda za 2005 r.,0,3
-mol zakup akcja wlasny,0,3
-mol nabycie ponad 5  wplyw na spolka mol,1,3
-mol zakup obligacja kapitalowy przez menadzer mol,0,3
-mol zakup obligacja kapitalowy przez menadzer mol,0,3
-mol otrzymac pozew omv oraz termin wyznaczyc przez sad metropolitalny,1,3
-mol zakup akcja wlasny,0,3
-mol zmiana wplyw na spolka mol,1,3
-mol olaj: financing of the 2009 work program of pearl project with treasury shares,1,3
-mol zakup akcja wlasny,1,3
-mol harmonogram walny zgromadzenie akcjonariusz mol,1,3
-mol emitent i rossi beteiligungs ltd. wybudowac fabryka komponent biodiesla,0,3
-mol ilosc prawic glos w spolka,0,3
-mol wstepne wynik mol za ii kwartal 2006 r.,0,3
-mol   personnel andante organizational changes in mol plc.,1,3
-mol dokument na wza,1,3
-mol zmiana wplyw na spolka,1,3
-mol sprzedaz akcja spolka przez menedzer,0,3
-mol nabycie mszksz zrt.,1,3
-mol zakup akcja wlasny,0,3
-mol i exxonmobil gotowe do rozpoczecie program poszukiwawczy,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol zmiana wplyw na spolka,1,3
-mol   mol number of voting rights,1,3
-mol umowa kupna sprzedazy z rosyjski firma nwog,0,3
-mol sprzedaz akcja przez menedzer mol,1,3
-mol sprzedaz akcja przez menadzer mol,0,3
-mol wstepne wynik mol za i kwartal 2007 r.,1,3
-mol sprzedaz akcja spolka przez menadzer,1,3
-mol spolka kupowac chorwacki siec tifon,0,3
-mol mol plc. andante the government of croatia signed the,0,3
-mol zmiana w ilosci prawic glos,1,3
-mol share sala of mol manager,1,3
-mol konsorcjum mol ina podpisac umowa z rzad bosni i hercegowiny,0,3
-mol zmiana wplyw na spolka,1,3
-mol nowe cel strategiczny i finansowy mol na latac 2006 2010,0,3
-mol sfinalizowac transakcja gazowy mol e.on ruhrgas international,0,3
-mol omv notification on change of voting rights,0,3
-mol wstepne wynik mol za ii kwartal 2008r. w wersja polski,1,3
-mol kontynuacja wdrazac wlasny strategia,0,3
-mol zakup obligacja bezterminowy przez menadzer mol,0,3
-mol stanowisko w sprawa uchwala wegierski komisja nadzor finansowy   poprawka,1,3
-mol stanowisko w sprawa uchwala wegierski komisja nadzor finansowy,1,3
-mol nabycie akcja wlasny,1,3
-mol wstepne wynik mol za iv kwartal oraz caly 2007 rok,0,3
-mol podpisac umowa na opcja na akcja wlasne z apv rt.,1,3
-mol zakup akcja wlasny,1,3
-mol   es gazipari rszvenvtarsasag zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zmiana w ilosci prawic glos,1,3
-mol memorandum of understanding z quatar petroleum international,1,3
-mol share sala of mol manager,1,3
-mol zakup akcja wlasny,1,3
-mol sprzedaz akcja przez menadzer spolka,0,3
-mol zakup akcja wlasny,0,3
-mol nabycie akcja wlasny,0,3
-mol wstepne wynik za i kwartal 2005 rok,0,3
-mol zakup obligacja kapitalowy przez menadzer mol,1,3
-mol the extension of 3 board members' mandate is registered,1,3
-mol powiadomienie omv dotyczyc zmiana w ilosci prawic glos,0,3
-mol zamkniecie transakcja zakup spolka tifon,1,3
-mol documents for the annual general meeting,0,3
-mol   zmiana ilosci prawic glos,0,3
-mol number of voting rights at mol plc,1,3
-mol zakup akcja wlasny,1,3
-mol zmiana wplyw na spolka mol,1,3
-mol rada dyrektor oglaszac wyplata dywidenda za rok 2006 (poprawka),0,3
-mol zmiana w ilosci prawic glos,0,3
-mol program optymalizacja struktura kapitalowy spolka,0,3
-mol kontynuacja program optymalizacja kapital,0,3
-mol wstepne wynik mol za i kwartal 2007 r.,1,3
-mol number of voting rights at mol plc,1,3
-mol nowy posrednik transakcja,1,3
-mol zakup akcja wlasny,1,3
-mol wstepne wynik mol za ii kwartal 2007 rok,1,3
-mol wykonanie opcja call na akcja wlasne z ápv rt.,1,3
-mol umowa koncesyjny z republika pakistanu na prace badawczy na dwa obszar roponosny,1,3
-mol powiadomienie spolki dot. zmiana w ilosci prawic glos,0,3
-mol zmiana wplyw na spolka,1,3
-mol proponowac transakcja akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol harmonogram zwza oraz warunki udzial oraz wykonanie prawa do glos,1,3
-mol zakup akcja wlasny,0,3
-mol dokument na walny zgromadzenie akcjonariusz (wersja angielska),0,3
-mol informowac,0,3
-mol bhv aga notification on change of voting rights,0,3
-mol zakonczyc operacja zakup 100  udzial w italiana energia e servizi,0,3
-mol raport roczny mol w wersja polski,0,3
-mol raport podsumowywac za rok finansowy 2007 w wersja polski,0,3
-mol wstepne wynik mol za i kwartal 2008 r.,0,3
-mol zmiana harmonogram wza na wniosek omv,0,3
-mol dokument na wza,0,3
-mol przyjecie budzet na nowy rok,0,3
-mol przetransferowac godziwy wynagrodzenie za akcja ina,1,3
-mol sad rejestrowy zarejestrowac podwyzszenie kapital spolka,1,3
-mol zmiana organizacyjny i personalna w spolka,1,3
-mol powiadomienie akcjonariusz,0,3
-mol sprzedaz akcja wlasny,0,3
-mol umowa na kredyt odnawialny o wartosc 700 milion euro,0,3
-mol umowa dot. euroobligacja o wartosc 750 milion euro,0,3
-mol sad metropolitalny uchylic uchwala wknf,1,3
-mol sprzedaz akcja spolka przez menadzer,0,3
-mol sprzedaz akcja przez menadzer spolka,1,3
-mol zmiana wplyw mol w tvk,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol program poszukiwawczy z exxonmobil,1,3
-mol zarejestrowac podniesienie kapital,1,3
-mol powiadomienie bayerische hypo   und vereinsbank aga dotyczyc prawic glos,1,3
-mol podpisnie umowy z ongc,1,3
-mol informowac,1,3
-mol omv notification on change of voting rights,1,3
-mol program rozbudowa rafineria duna,1,3
-mol wybrana dane finansowy mol za rok 2005,0,3
-mol zakup akcja wlasny,0,3
-mol   es gazipari nyilvanosan mukodo reszvenvtarsasag raport roczny,1,3
-mol zakup akcja wlasny,1,3
-mol zmiana wplyw na spolka mol,0,3
-mol zbycie akcja mol przez dyrektor spolka,0,3
-mol sprzedaz akcja przez menadzer spolka mol,0,3
-mol zakup akcja wlasny,0,3
-mol sprzedaz akcja przez menadzer mol,1,3
-mol zmiana data identyfikacja akcjonariusz przed wza,0,3
-mol sprzedaz akcja przez menadzer mol,1,3
-mol wstepne wynik mol za iii kwartal 2006 r.,1,3
-mol czynnik obiektywny wplywac na zysk mol,0,3
-mol zakup akcja wlasny,0,3
-mol wstepne wynik mol za iv kwartal oraz za caly rok 2005,1,3
-mol wstepne wynik mol za i kwartal 2007 r.,1,3
-mol   es gazipari nyilvanosan mukodo reszvenvtarsasag share sala of mol manager,0,3
-mol zakup akcja wlasny,1,3
-mol ray leonard dolaczyc do zespol firma mol,1,3
-mol zmiana wplyw na spolka mol,0,3
-mol ilosc prawic glos w spolka,1,3
-mol rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2004,1,3
-mol odnotowac decyzja omv,1,3
-mol podzial akcja dla zarzad i pracownik mol,0,3
-mol treasury shares transaction,0,3
-mol share sala of mol manager,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol dokument na wza,1,3
-mol nowy partner w spolka zmb,0,3
-mol   rozwiazanie umowy zakup aktyw i akcja,1,3
-mol rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2006,0,3
-mol rozszerzyc prawic opcja na akcja posiadac przez bnp paribas,0,3
-mol zakup akcja wlasny,0,3
-mol informowac,0,3
-mol dodatkowy roszczenie omv,0,3
-mol komisja europejski nalozyc kara na spolka mol,1,3
-mol omv notification on change of voting rights,0,3
-mol oferta w wysokosc 2.800 hrk za akcja ina zostac zaakceptowac,1,3
-mol wiazacy oferta na 100  udzial w rosyjski aktywa naftowy,1,3
-mol pozywac omv z tytul nieprawdziwy zarzut i znieslawienie,0,3
-mol zmiana w stan posiadanie akcja przez menadzer wysoki szczebel,0,3
-mol sprzedaz akcja spolka przez menadzer,0,3
-mol mol signed a new option agreement with ing bank n.v.,1,3
-mol zakup akcja wlasny,0,3
-mol   ilosc prawic glos w spolka mol,1,3
-mol mianowac bank of new york jako nastepca bank depozytariusz,0,3
-mol zakup akcja dawac ponad piecioprocentowy wplyw na mol,1,3
-mol   odkrycie trzeci zrodlo gaz ziemny w region trans tisza,1,3
-mol zbycie akcja mol przez menedzer mol,0,3
-mol wstepne wynik mol za i kwartal 2006 rok,1,3
-mol zakup akcja wlasny,0,3
-mol wstepne wynik mol za ii kwartal 2008 r.,1,3
-mol wstepne wynik mol za iv kwartal oraz caly 2008 rok,0,3
-mol nabycie akcja mol przez menedzer mol,0,3
-mol share sala of mol manager,1,3
-mol porozumienie w sprawa transakcja dotyczyc branza gazowniczy   wersja angielski,1,3
-mol zakup akcja wlasny,0,3
-mol nowe cel strategiczny i finansowy mol na latac 2006 2010,1,3
-mol program rozbudowa rafineria duna,1,3
-mol wstepne wynik mol za ii kwartal oraz i polrocze 2005 r.,0,3
-mol zakup akcja wlasny,0,3
-mol wstepne wynik mol za iv kwartal oraz caly 2005 rok,0,3
-mol signs an 8 year eur 200 million loan agreement with ebrd,0,3
-mol olaj: share sala of mol manager,1,3
-mol treasury shares transaction,0,3
-mol olaj: financing of the 2009 work program of pearl project with treasury shares,1,3
-mol number of voting rights at mol plc,1,3
-mol olaj: share sala of mol manager,1,3
-mol   es gazipari nyilvanosan mukodo reszvenvtarsasag 2009 halfa year report of mol group,1,3
-mol share sala of mol manager,1,3
-mol share sala of mol manager,0,3
-mol number of voting rights at mol plc.,0,3
-mol transakcja na akcja,1,3
-mol share sala of mol manager,1,3
-mol bnp paribas notification on change of voting rights,0,3
-mol exercise of call options on mol shares held by bnp paribas,0,3
-mol signs an 8 year eur 200 million loan agreement with ebrd,0,3
-mol signs an 8 year eur 200 million loan agreement with ebrd,0,3
-mol mol has received surgutneftegas's action,1,3
-mol informowac,1,3
-mol   personnel andante organizational changes in mol plc.,1,3
-mol informowac,0,3
-mol   mol number of voting rights,1,3
-mol transakcja na akcja,1,3
-mol share sala of mol manager,1,3
-mol share sala of mol manager,1,3
-mol interim management report,0,3
-mol green light to mol from the european commission to ina's transaction,0,3
-mol przyjecie budzet na nowy rok,0,3
-mol olaj: mfb invest zrt. notification on change of voting rights,0,3
-mol olaj: obrot akcja mi spolka,0,3
-mol the agm resolutions wy registered by the court of register,0,3
-mol   es gazipari nyilvanosan mukodo reszvenvtarsasag share sala of mol manager,0,3
-mol share sala of mol manager,0,3
-mol informowac,0,3
-mol mfb invest zrt. notification on change of voting rights,1,3
-mol treasury share transaction,1,3
-mol informowac,1,3
-mol omv notification on change of voting rights,1,3
-mol change in mol treasury shares,0,3
-mol documents for the annual general meeting,0,3
-mol omv notification on change of voting rights,0,3
-mol bhv aga notification on change of voting rights,0,3
-mol number of voting rights at mol plc,1,3
-mol surgutneftegas notification on change of voting rights,0,3
-mol to pursue stated independent strategy,0,3
-mol omv notification on change of voting rights,0,3
-mol informowac,0,3
-mol informowac,1,3
-mol bhv aga notification on change of voting rights,0,3
-mol closing of the share purchase andante option agreement with ing bank n.v.,0,3
-mol informowac,0,3
-mol informowac,0,3
-mol informowac,1,3
-mol mol signed a new option agreement with ing bank n.v.,1,3
-mol the extension of 3 board members' mandate is registered,1,3
-mol powiadomienie spolki dot. zmiana w ilosci prawic glos,0,3
-mol informowac,0,3
-mol informowac,0,3
-mol wstepne wynik mol za iv kwartal oraz caly 2008 rok,0,3
-mol   zmiana ilosci prawic glos,0,3
-mol zmiana w ilosci prawic glos,0,3
-mol number of voting rights,0,3
-mol mol plc. andante the government of croatia signed the,0,3
-mol informowac,0,3
-mol powiadomienie omv dotyczyc zmiana w ilosci prawic glos,0,3
-mol zmiana w ilosci prawic glos,1,3
-mol powiadomienie bhv aga dotyczyc zmiana w ilosci prawic glos,1,3
-mol   liczba prawic glos w spolka mol,0,3
-mol zmiana w akcja wlasny,1,3
-mol   powiadomienie oman oil budapest limited dotyczyc zmiana w ilosci prawic glos,1,3
-mol   rozwiazanie umowy zakup aktyw i akcja,1,3
-mol powiadomienie omv dotyczyc zmiana w ilosci prawic glos   pelny polskojezyczny wersja,1,3
-mol powiadomienie oman oil budapest limited dotyczyc zmiana w ilosci prawic glos,1,3
-mol powiadomienie bhv aga dotyczyc zmiana w ilosci prawic glos,0,3
-mol powiadomienie omv dotyczyc zmiana w ilosci prawic glos,1,3
-mol zmiana w ilosci prawic glos,1,3
-mol powiadomienie omv dotyczyc zmiana w ilosci prawic glos,0,3
-mol wstepne wynik mol za iii kwartal 2008 r.,0,3
-mol ilosc prawic glos,1,3
-mol modyfikacja dlugookresowwego rating kredytowy dla spolka,1,3
-mol wstepne wynik mol za iii kwartal 2008 r.,1,3
-mol sad metropolitalny uchylic uchwala wknf,1,3
-mol sprzedaz akcja przez menadzer,1,3
-mol zmiana w udzial akcja wysoki kadry zarzadzajaca,1,3
-mol dodatkowy roszczenie omv,0,3
-mol powiadomienie bayerische hypo   und vereinsbank aga dotyczyc prawic glos,1,3
-mol rozliczenie transakcja zakup akcja ina zostac zakonczony,1,3
-mol zmiana w ilosci prawic glos,1,3
-mol przetransferowac godziwy wynagrodzenie za akcja ina,1,3
-mol sad rejestrowy zarejestrowac podwyzszenie kapital spolka,1,3
-mol sad rejestrowy zarejestrowac obnizenie kapital mol o 5 ,1,3
-mol udzial spolka w ina wzrosc do 47 15 ,1,3
-mol sprzedaz akcja przez menadzer,1,3
-mol komisja europejski nalozyc kara na spolka mol,1,3
-mol ilosc prawic glos w spolka,0,3
-mol sprzedaz akcja przez menadzer mol,1,3
-mol powiadomienie dotyczyc zmiana w ilosci prawic glos,1,3
-mol dotyczyc zmiana w ilosci prawic glos,0,3
-mol oferta na akcja ina   pelny polskojezyczny wersja komunikat,1,3
-mol sprzedaz akcja przez menadzer mol,1,3
-mol otrzymac kolejny pozew omv oraz decyzja sad metropolitalny,0,3
-mol wstepne wynik mol za ii kwartal 2008r. w wersja polski,1,3
-mol   ilosc prawic glos w spolka mol,1,3
-mol oferta w wysokosc 2.800 hrk za akcja ina zostac zaakceptowac,1,3
-mol zmiana w akcja wlasny,1,3
-mol wstepne wynik mol za ii kwartal 2008 r.,1,3
-mol odnotowac decyzja omv,1,3
-mol ilosc prawic glos przypisac do akcja,1,3
-mol utworzyc spolka joint venture mol i cez,0,3
-mol pozywac omv z tytul nieprawdziwy zarzut i znieslawienie,0,3
-mol otrzymac pozew omv oraz termin wyznaczyc przez sad metropolitalny,1,3
-mol zmiana wplyw na spolka,1,3
-mol zamiar ogloszenie oferta publiczny na akcja ina,1,3
-mol transakcja na akcja,1,3
-mol   sprzedaz akcja przez menadzer mol,1,3
-mol sprzedaz akcja przez menadzer   korekta komunikat,0,3
-mol sprzedaz akcja przez menadzer mol,0,3
-mol sprzedaz akcja przez menedzer,1,3
-mol oswiadczenie w zakres przestrzegac zasada lad korporacyjny,1,3
-mol zmiana wplyw na spolka mol,0,3
-mol zakonczyc zakup ngosso permit w kamerunie,0,3
-mol oczekiwany zmiana w akcja wlasny mol,0,3
-mol plan polaczenie wegierski i rumunski system przesyl gaz,0,3
-mol zakup akcja i&c energia a.s.,0,3
-mol wyplata dywidenda za rok obrotowy 2007,0,3
-mol ilosc prawic glos w spolka,1,3
-mol zakup obligacja kapitalowy przez menadzer mol,0,3
-mol zakup obligacja kapitalowy przez menadzer mol,0,3
-mol   zakup obligacja kapitalowy przez menadzer mol,1,3
-mol zakup obligacja kapitalowy przez menadzer mol,1,3
-mol odkrycie nowy zloze ropa naftowy i gaz w kazachstanie,1,3
-mol swiatlo dla spolka joint venture mol i cez,1,3
-mol zmiana personalna i organizacyjny,1,3
-mol sprzedaz akcja przez menadzer mol,1,3
-mol wstepne wynik mol za i kwartal 2008r.,0,3
-mol   sprzedaz akcja przez ceo mol,1,3
-mol ilosc prawic glos,1,3
-mol odkrycie nowy zloze ropa naftowy w rosji efekt dzialanie poszukiwawczy spolka,0,3
-mol raport roczny mol w wersja polski,0,3
-mol raport podsumowywac za rok finansowy 2007 w wersja polski,0,3
-mol wstepne wynik mol za i kwartal 2008 r.,0,3
-mol podpisnie umowy z ongc,1,3
-mol ilosc prawic glos w spolka mol,0,3
-mol uchwala walny zgromadzenie akcjonariusz mol w wersja polski,0,3
-mol zmiana harmonogram wza na wniosek omv w wersja polski,0,3
-mol raport podsumowywac mol za rok finansowy 2007,0,3
-mol raport roczny 2007,0,3
-mol uchwala walny zgromadzenie akcjonariusz z 23 kwietni 2008 r.,0,3
-mol dokument na walny zebranie akcjonariusz   wersja polski,0,3
-mol i exxonmobil gotowe do rozpoczecie program poszukiwawczy,1,3
-mol program poszukiwawczy z exxonmobil,1,3
-mol powiadomienie akcjonariusz,0,3
-mol powiadomienie akcjonariusz,1,3
-mol zmiana harmonogram wza na wniosek omv,0,3
-mol dokument na wza,0,3
-mol ilosc prawic glos w spolka mol,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol harmonogram walny zgromadzenie akcjonariusz mol,1,3
-mol   zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol odkrycie nowy zloze gaz i kondensat w pakistanie,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zmiana wplyw na spolka,1,3
-mol podpisac umowy opcja z ing bank n.v.,1,3
-mol zamkniecie transakcja zakup akcja,0,3
-mol zmiana wplyw na spolka,1,3
-mol wstepne wynik mol za iv kwartal oraz caly 2007 rok,0,3
-mol ilosc prawic glos w spolka mol,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol oswiadczenie w sprawa powiadomienie dotyczyc fuzja,0,3
-mol zakup akcja wlasny,0,3
-mol ilosc prawic glos w spolka,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zmiana wplyw na spolka,0,3
-mol   zmiana wplyw na spolka mol,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zamkniecie transakcja zakup akcja pomiedzy mol i cez,0,3
-mol zakup akcja wlasny,0,3
-mol kontynuacja program optymalizacja kapital,0,3
-mol podpisac porozumienie z indyjski spolka ongc,1,3
-mol   ilosc prawic glos w spolka mol,1,3
-mol strategiczny sojusz pomiedzy cez a mol,0,3
-mol zmiana wplyw na spolka,1,3
-mol zmiana wspolczynnik w adr ach,1,3
-mol mol i libijski urzad inwestycyjny (lia) podpisywac memorandum of understanding,1,3
-mol zmiana wplyw na spolka,1,3
-mol rozszerzyc prawic opcja na akcja posiadac przez bnp paribas,0,3
-mol stanowisko w sprawa uchwala wegierski komisja nadzor finansowy   poprawka,1,3
-mol stanowisko w sprawa uchwala wegierski komisja nadzor finansowy,1,3
-mol wstepne wynik mol za iii kwartal 2007 rok,1,3
-mol nowa inicjatywa,0,3
-mol stanowisko firma mol odnosnie oswiadczenie omv,0,3
-mol zmiana wplyw na spolka mol,0,3
-mol zmiana wplyw na spolka,1,3
-mol zakonczyc operacja zakup 100  udzial w italiana energia e servizi,0,3
-mol wstepne wynik mol za iii kwartal 2007 rok,0,3
-mol podpisac porozumienie,0,3
-mol podpisac porozumienie,0,3
-mol porozumienie w sprawa zakup 40  udzial w nowy przybrzezny blok w kamerunie,0,3
-mol zamkniecie transakcja zakup spolka tifon,1,3
-mol memorandum of understanding z quatar petroleum international,1,3
-mol podpisywac umowa na kredyt odnawialny o wartosc 2 1 miliard euro,1,3
-mol stanowisko odnosnie warunkowy deklaracja intencja omv,0,3
-mol zmiana w posiadanie akcja przez menadzer wysoki szczebel,1,3
-mol zmiana w oplata nie powinny istotnie wplynac na zyskownosc spolka,1,3
-mol zmiana wplyw na spolka,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol nowy transgraniczny projekt badawczy mol ina,1,3
-mol zakup akcja wlasny,1,3
-mol memorandum of understanding w zakres sojusz strategiczny,1,3
-mol zakup akcja wlasny,0,3
-mol wstepne wynik mol za ii kwartal 2007 rok,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol   zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol wstepne wynik mol za ii kwartal 2006 r.,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol spolka kupowac chorwacki siec tifon,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol umowa na zakup 100  udzial w italiana energia e servizi,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol   zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol udany wspolpraca z spolka ina   uzupelnienie,0,3
-mol odkrycie nowe pole gaz ziemny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol odrzucenie warunkowe uklad z omv,0,3
-mol mozliwosci wzrost organiczny i generowac srodki finansowy,0,3
-mol zakup akcja wlasny,0,3
-mol zmiana w akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol spolka otrzymac koncesja na obrot gaz,1,3
-mol zakup akcja wlasny,1,3
-mol zamiana akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zamiana akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol nowy posrednik transakcja,1,3
-mol zakup akcja wlasny,1,3
-mol zmiana wplyw na spolka mol,0,3
-mol sprzedaz akcja przez menadzer spolka,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol zmiana wplyw na spolka mol,0,3
-mol kontynuacja wdrazac wlasny strategia,0,3
-mol program optymalizacja struktura kapitalowy spolka,0,3
-mol zmiana wplyw na mol,0,3
-mol zakup akcja dawac ponad piecioprocentowy wplyw na mol,1,3
-mol   odkrycie trzeci zrodlo gaz ziemny w region trans tisza,1,3
-mol wstepne wynik mol za i kwartal 2007 rok,0,3
-mol zmiana wplyw na spolka,1,3
-mol nabycie ponad 5  wplyw na spolka mol,1,3
-mol sprzedaz akcja przez menadzer spolka,1,3
-mol program rozbudowa rafineria duna,1,3
-mol   zasada lad korporacyjny,0,3
-mol  raport roczny mol za 2006 rok   uzupelnic wersja polskojezyczny,1,3
-mol   es gazipari nyilvanosan mukodo reszvenvtarsasag raport roczny,1,3
-mol projekt umowy z exxonmobil,0,3
-mol wstepne wynik mol za i kwartal 2007 r.,1,3
-mol wstepne wynik mol za i kwartal 2007 r.,1,3
-mol rada dyrektor oglaszac wyplata dywidenda za rok 2006 (poprawka),0,3
-mol rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2006,0,3
-mol sprzedaz akcja przez menadzer spolka mol,0,3
-mol uchwala roczny zgromadzenie akcjonariusz z 26 kwietni 2007 r.,1,3
-mol raport roczny mol za 2006 rok,0,3
-mol   es gnmr mol powolac spolka obrot gaz ziemny,1,3
-mol nabycie 100  udzial w spolka matjushkinskaya vertikal llc,1,3
-mol dokument na wza,1,3
-mol dokument na wza,1,3
-mol zmiana data identyfikacja akcjonariusz przed wza,0,3
-mol harmonogram wza,0,3
-mol wstepne wynik za iv kwartal oraz caly 2006 rok,1,3
-mol zmiana wplyw mol w tvk,1,3
-mol zmiana wplyw mol w tvk,1,3
-mol wstepne wynik mol za iv kwartal oraz za caly rok 2006,1,3
-mol miejsce publikacja wstepny wynik za iv kw. i 2006 r.,1,3
-mol nowa dzialalnosc wpisac do statut spolka,1,3
-mol dostawa ropa naftowy do rafineria mol zostac wznowic,0,3
-mol   negocjacje w cel zabezpieczenie dostawa ropa naftowy,1,3
-mol nabycie mszksz zrt.,1,3
-mol spolka mol nabyc 100  udzial w baitex llc,0,3
-mol rozszerzyc prawic opcja na akcja,1,3
-mol wiazacy oferta na 100  udzial w rosyjski aktywa naftowy,1,3
-mol wstepne wynik mol za iii kwartal 2006 r.,1,3
-mol wynik przetarg na wybudowac strategiczny magazyn gaz,1,3
-mol wapiwsp zamierzac sprzedac 1 73  akcja spolka,1,3
-mol wstepne wynik mol za iii kwartal 2006 r.,0,3
-mol umowa koncesyjny z republika pakistanu na prace badawczy na dwa obszar roponosny,1,3
-mol podpisac statut spolka,1,3
-mol rosyjski urzad antymonopolowy wyrazic zgoda na nabycie 100  udzial nwog mol,1,3
-mol sprzedaz akcja spolka przez menadzer,0,3
-mol umowa kupna sprzedazy z rosyjski firma nwog,0,3
-mol zmiana w stan posiadanie akcja przez menadzer wysoki szczebel,0,3
-mol zarejestrowac podniesienie kapital,1,3
-mol konsorcjum mol ina podpisac umowa z rzad bosni i hercegowiny,0,3
-mol   decyzja rad dyrektor o podwyzszenie kapital akcyjny,0,3
-mol sprzedaz akcja spolka przez menadzer,0,3
-mol podpisac pierwsza umowa eksploracyjny na teren wegier,0,3
-mol wstepne wynik mol za ii kwartal 2006 r.,0,3
-mol sprzedaz akcja spolka mol przez menadzer,1,3
-mol sprzedaz akcja spolka przez menadzer,0,3
-mol sprzedaz akcja spolka przez menadzer,1,3
-mol sprzedaz akcja spolka mol przez menadzer,1,3
-mol wstepne wynik mol za ii kwartal 2006 rok,0,3
-mol zakup akcja spolka mol przez menadzer,1,3
-mol emitent i rossi beteiligungs ltd. wybudowac fabryka komponent biodiesla,0,3
-mol umowa na kredyt odnawialny o wartosc 825 milion euro,0,3
-mol zakup obligacja bezterminowy przez menadzer mol,0,3
-mol informacja o zmiana wplyw na spolka mol,0,3
-mol wstepne wynik mol za i kwartal 2006 r.,1,3
-mol zmiana wplyw na spolka mol,1,3
-mol realizacja transakcja,1,3
-mol podzial akcja dla zarzad i pracownik mol (poprawiona wersja),0,3
-mol podzial akcja dla zarzad i pracownik mol,0,3
-mol   es gazipari rszvenvtarsasag zasada lad korporacyjny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zlecenie zakup akcja wlasny,1,3
-mol sprzedaz akcja przez menedzer mol,1,3
-mol wstepne wynik mol za i kwartal 2006 rok,1,3
-mol wykonanie opcja call na akcja wlasne z ápv rt.,1,3
-mol   es gazipari rszvenvtarsasag dywidenda za 2005 r.,0,3
-mol mol zlozyc wiazacy oferta na 96 9  udzial w spolka oao udmurtneft,0,3
-mol uchwala roczny zgromadzenie akcjonariusz,1,3
-mol zmiana wplyw na spolka,1,3
-mol zmiana wplyw na spolka,1,3
-mol   es gazipari rszvenvtarsasag sprzedaz akcja wlasny,0,3
-mol wybrana dane finansowy mol za rok 2005,0,3
-mol   es gazipari rszvenvtarsasag sprzedaz akcja wlasny,0,3
-mol zmiana organizacyjny w mol,0,3
-mol optymalizacja portfel detaliczny w rumunii,0,3
-mol dokument na walny zgromadzenie akcjonariusz (wersja polska),0,3
-mol sfinalizowac transakcja gazowy mol e.on ruhrgas international,0,3
-mol dokument na walny zgromadzenie akcjonariusz (wersja angielska),0,3
-mol harmonogram zwza oraz warunki udzial oraz wykonanie prawa do glos,1,3
-mol skrocic harmonogram wza spolka,1,3
-mol harmonogram wza spolka wersja angielski,1,3
-mol sprzedaz akcja wlasny,0,3
-mol sprzedaz akcja wlasny,1,3
-mol udany odwiert ropy/gazu w pakistanie,1,3
-mol proponowac transakcja akcja wlasny,1,3
-mol wstepne wynik mol za iv kwartal oraz caly 2005 rok,0,3
-mol zmiana personalna w mol,0,3
-mol wstepne wynik mol za iv kwartal oraz za caly rok 2005,1,3
-mol zmiana wplyw na spolka mol,0,3
-mol porozumienie w sprawa transakcja dotyczyc branza gazowniczy   wersja polski,1,3
-mol porozumienie w sprawa transakcja dotyczyc branza gazowniczy   wersja angielski,1,3
-mol zmiana wplyw na spolka mol,1,3
-mol mianowac bank of new york jako nastepca bank depozytariusz,0,3
-mol komunikat o zmiana wplyw na spolka,1,3
-mol umowa prawa opcja do akcja wlasny,0,3
-mol oferta publiczny na akcja seria `c`,0,3
-mol porozumienie w sprawa rozszerzyc licencja produkcyjny,0,3
-mol   umowa z wegierski ministerstwo gospodarka i transport,0,3
-mol wstepne wynik mol za iii kwartal oraz 9 miesiac 2005 r.,1,3
-mol podpisac umowa na opcja na akcja wlasne z apv rt.,1,3
-mol nowe cel strategiczny i finansowy mol na latac 2006 2010,1,3
-mol nowe cel strategiczny i finansowy mol na latac 2006 2010,0,3
-mol wstepne wynik mol za iii kwartal 2005 r.,1,3
-mol sprzedaz akcja spolka przez menadzer,0,3
-mol umowa dot. euroobligacja o wartosc 750 milion euro,0,3
-mol potwierdzenie obsada stanowisko dyrektor zarzadzajacy siec sprzedaz,1,3
-mol zbywac dzialalnosc detaliczny w polsce,1,3
-mol   es gazipari rszvenvtarsasag mol emitowac euroobligacja,1,3
-mol slovnaft ukarac przez slowacki minister finanse,0,3
-mol zmiana w stan posiadanie akcja przez menadzer wysoki szczebel,0,3
-mol publikacja ocena wiarygodnosc kredytowy,1,3
-mol sad rejestrowy zatwierdzic podwyzszenie kapital spolka,0,3
-mol miec nowe partner w spolka zmb,0,3
-mol wiazacy oferta na 51  udzial w tüpras,1,3
-mol decyzja rad dyrektor spolkio podwyzszenie kapital akcyjny,0,3
-mol obecny stan praca wydobywczy w blok fedorowski,0,3
-mol zbycie akcja mol przez menedzer mol,0,3
-mol kanal komunikowac spolka,0,3
-mol wstepne wynik mol za ii kwartal oraz i polrocze 2005 r.,0,3
-mol nabycie akcja wlasny,0,3
-mol zbycie akcja przez menedzer spolka,1,3
-mol zbycie akcja przez menedzer spolka,1,3
-mol nabycie akcja wlasny,1,3
-mol akceptacja czesciowy sprzedaz dzialalnosc gazowniczy spolka,1,3
-mol nabycie akcja mol przez menedzer mol,0,3
-mol zbycie akcja spolka przez menedzer,1,3
-mol sprzedaz akcja spolka przez menedzer,0,3
-mol rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2004,1,3
-mol nabycie akcja wlasny,0,3
-mol rozdzial akcja wsrod zarzad,0,3
-mol umowa na kredyt odnawialny o wartosc 700 milion euro,0,3
-mol raport biezacy (wersja angielska),0,3
-mol nabycie akcja wlasny,0,3
-mol wstepne wynik za i kwartal 2005 rok,0,3
-mol nabycie akcja przez czlonek rn,1,3
-mol zbycie akcja mol przez dyrektor spolka,0,3
-mol raport roczny za 2004 rok,0,3
-mol nabycie akcja wlasny,0,3
-mol decyzja rad dyrektor o termin wyplat dywidenda,0,3
-mol wstepne wynik mol za i kwartal 2005 rok,1,3
-mol nabycie akcja wlasny,1,3
-mol nabycie akcja wlasny,1,3
-mol nabycie akcja wlasny,1,3
-mol nabycie akcja wlasny,1,3
-mol nabycie akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol nowy partner w spolka zmb,0,3
-mol   es gazipari rszvenvtarsasag zakup akcja wlasny,1,3
-mol zmiana personalna w slovnafcie,1,3
-mol uchwala walny zgromadzenie akcjonariusz,1,3
-mol raport roczny mol za 2004 rok,1,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol   es gazipari rszvenvtarsasag zakup akcja wlasny,0,3
-mol dokument na walny zgromadzenie akcjonariusz,0,3
-mol wiazacy oferta przetargowy na przejecie energopetrolu,0,3
-mol wybrana dane finansowy z raport roczny 2004,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,1,3
-mol zakup akcja wlasny,0,3
-mol wykup kwit mol 2005/a w termin platnosc,0,3
-mol zakonczyc przejecie spolka shell romania,0,3
-mol zakup akcja wlasny,0,3
-mol zakup akcja wlasny,1,3
-mol korekta do raport biezacy numer 18/2005,0,3
-mol rada dyrektor spolka zwolywac zwza,0,3
-mol zakup akcja skarbowy,0,3
-mol zakup akcja skarbowy,0,3
-mol zakup akcja skarbowy,0,3
-mol wezwanie do zakup akcja skarbowy,0,3
-mol   es gazipari rszvenvtarsasag zmiana organizacyjny,0,3
-mol zakup akcja skarbowy,0,3
-mol   es ggazipari rszvenvtarsasag sprzedaz akcja skarbowy,0,3
-mol wynik za iv kwartal 2004 rok oraz wstepne wynik za 2004 rok,1,3
-mol wynik mol za iv kwartal 2004 rok oraz wstepne wynik,1,3
+new gas andante condensate discovery in pakistan,0,3
+andante cez modified the conditions of the option structure regarding shares,0,3
+share sala of manager,1,3
+number of voting rights at plc,1,3
+olaj: share sala of manager,0,3
+share sala of manager,0,3
+share sala of manager,0,3
+share sala of manager,1,3
+share sala of manager,0,3
+treasury shares transaction,0,3
+treasury shares transaction,0,3
+zlozyc wiazacy oferta na 96 9  udzial w spolka oao udmurtneft,0,3
+  es gazipari nyilvanosan mukodo reszvenvtarsasag raport roczny,1,3
+ilosc prawic glos,1,3
+podpisac umowa zakup zwiekszac do 100  udzial w austria handels gmbh,1,3
+zakup akcja wlasny,0,3
+miec nowe partner w spolka zmb,0,3
+udzial spolka w ina wzrosc do 47 15 ,1,3
+  sprzedaz akcja przez ceo,1,3
+powiadomienie oman oil budapest limited dotyczyc zmiana w ilosci prawic glos,1,3
+  zakup akcja wlasny,1,3
+projekt umowy z exxonmobil,0,3
+wstepne wynik za iii kwartal 2007 rok,1,3
+zakup akcja wlasny,0,3
+wstepne wynik za iii kwartal 2008 r.,0,3
+sprzedaz akcja przez menadzer,1,3
+zmiana wplyw na spolka,1,3
+zmiana w ilosci prawic glos,1,3
+ilosc prawic glos,0,3
+  es gazipari rszvenvtarsasag zmiana organizacyjny,0,3
+zmiana wplyw na spolka,1,3
+nabycie akcja przez czlonek rn,1,3
+uchwala walny zgromadzenie akcjonariusz z 23 kwietni 2008 r.,0,3
+dokument na walny zebranie akcjonariusz   wersja polski,0,3
+zakup akcja wlasny,1,3
+  zakup obligacja kapitalowy przez menadzer,1,3
+zmiana wplyw na spolka,0,3
+zmiana wspolczynnik w adr ach,1,3
+wstepne wynik za i kwartal 2005 rok,1,3
+powiadomienie bhv aga dotyczyc zmiana w ilosci prawic glos,1,3
+zakonczyc zakup ngosso permit w kamerunie,0,3
+skrocic harmonogram wza spolka,1,3
+harmonogram wza spolka wersja angielski,1,3
+  ilosc prawic glos w spolka,1,3
+  es gazipari rszvenvtarsasag sprzedaz akcja wlasny,0,3
+zakup akcja wlasny,1,3
+strategiczny sojusz pomiedzy cez a,0,3
+zbycie akcja przez menedzer spolka,1,3
+zbycie akcja przez menedzer spolka,1,3
+dokument na walny zgromadzenie akcjonariusz,0,3
+podpisac umowy opcja z ing bank n.v.,1,3
+wynik przetarg na wybudowac strategiczny magazyn gaz,1,3
+utworzyc spolka joint venture i cez,0,3
+odkrycie nowy zloze ropa naftowy w rosji efekt dzialanie poszukiwawczy spolka,0,3
+organizowac dzien dla analityk oraz inwestor,1,3
+oswiadczenie w sprawa powiadomienie dotyczyc fuzja,0,3
+  es gazipari rszvenvtarsasag zakup akcja wlasny,1,3
+  zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+miejsce publikacja wstepny wynik za iv kw. i 2006 r.,1,3
+swiatlo dla spolka joint venture i cez,1,3
+zakup akcja wlasny,1,3
+informacja o zmiana wplyw na spolka,0,3
+raport podsumowywac za rok finansowy 2007,0,3
+raport roczny 2007,0,3
+zakup akcja wlasny,0,3
+nabycie akcja wlasny,0,3
+realizacja transakcja,1,3
+  zakup akcja wlasny,0,3
+zamiana akcja wlasny,0,3
+ raport roczny za 2006 rok   uzupelnic wersja polskojezyczny,1,3
+podpisac porozumienie z indyjski spolka ongc,1,3
+nabycie akcja wlasny,0,3
+sad rejestrowy zarejestrowac podwyzszenie kapital akcyjny spolka,0,3
+ilosc prawic glos przypisac do akcja,1,3
+rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2006,0,3
+zakup akcja wlasny,1,3
+potwierdzenie obsada stanowisko dyrektor zarzadzajacy siec sprzedaz,1,3
+zakup akcja wlasny,0,3
+stanowisko firma odnosnie oswiadczenie omv,0,3
+zmiana wplyw na spolka,0,3
+umowa na zakup 100  udzial w italiana energia e servizi,0,3
+sprzedaz akcja przez menadzer   korekta komunikat,0,3
+wstepne wynik za ii kwartal 2006 r.,1,3
+dotyczyc zmiana w ilosci prawic glos,0,3
+odkrycie nowy zloze gaz i kondensat w pakistanie,0,3
+sprzedaz akcja spolka przez menadzer,1,3
+  es gnmr powolac spolka obrot gaz ziemny,1,3
+uchwala roczny zgromadzenie akcjonariusz,1,3
+sprzedaz akcja spolka przez menadzer,0,3
+nabycie akcja wlasny,1,3
+wezwanie do zakup akcja skarbowy,0,3
+wstepne wynik za iii kwartal oraz 9 miesiac 2005 r.,1,3
+wstepne wynik za i kwartal 2007 rok,0,3
+otrzymac kolejny pozew omv oraz decyzja sad metropolitalny,0,3
+olaj: mfb invest zrt. notification on change of voting rights,0,3
+olaj: obrot akcja mi spolka,0,3
+zmiana wplyw na spolka,0,3
+zakup akcja wlasny,1,3
+zmiana wplyw na spolka,1,3
+wstepne wynik za i kwartal 2006 r.,1,3
+powiadomienie omv dotyczyc zmiana w ilosci prawic glos,1,3
+interim management report,0,3
+sprzedaz akcja przez menadzer,1,3
+zmiana w posiadanie akcja przez menadzer wysoki szczebel,1,3
+mfb invest zrt. notification on change of voting rights,1,3
+komunikat o zmiana wplyw na spolka,1,3
+  es gazipari rszvenvtarsasag sprzedaz akcja wlasny,0,3
+spolka otrzymac koncesja na obrot gaz,1,3
+umowa na kredyt odnawialny o wartosc 825 milion euro,0,3
+change in treasury shares,0,3
+podpisac porozumienie,0,3
+podpisac porozumienie,0,3
+raport roczny za 2004 rok,0,3
+zbywac dzialalnosc detaliczny w polsce,1,3
+wiazacy oferta przetargowy na przejecie energopetrolu,0,3
+zakup akcja wlasny,0,3
+projekt umowy z exxonmobil,0,3
+odkrycie nowy zloze ropa naftowy i gaz w kazachstanie,1,3
+zmiana personalna w spolka,1,3
+surgutneftegas notification on change of voting rights,0,3
+to pursue stated independent strategy,0,3
+  es ggazipari rszvenvtarsasag sprzedaz akcja skarbowy,0,3
+obecny stan praca wydobywczy w blok fedorowski,0,3
+umowa kupna sprzedazy z rosyjski firma nwog,0,3
+olaj: wstepne wynik za iv kwartal oraz za rok 2007,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zmiana wplyw na spolka,0,3
+  zmiana wplyw na spolka,0,3
+zmiana personalna w,0,3
+memorandum of understanding w zakres sojusz strategiczny,1,3
+nabycie akcja wlasny,1,3
+zakup akcja skarbowy,0,3
+zmiana wplyw na spolka,1,3
+ilosc prawic glos w spolka,1,3
+wybrana dane finansowy z raport roczny 2004,1,3
+informowac,1,3
+wiazacy oferta na 51  udzial w tüpras,1,3
+wstepne wynik za iv kwartal oraz caly 2005 rok,0,3
+the agm resolutions wy registered by the court of register,0,3
+zmiana w nazwa spolka,0,3
+porozumienie w sprawa transakcja dotyczyc branza gazowniczy   wersja polski,1,3
+dokument na walny zgromadzenie akcjonariusz (wersja polska),0,3
+informowac,0,3
+sprzedaz akcja przez menadzer spolka,0,3
+zbycie akcja spolka przez menedzer,1,3
+has received surgutneftegas's action,1,3
+informowac,1,3
+zmiana data identyfikacja akcjonariusz przed wza,0,3
+zmiana w udzial akcja wysoki kadry zarzadzajaca,1,3
+zakup akcja wlasny,1,3
+bnp paribas notification on change of voting rights,0,3
+zakup akcja wlasny,1,3
+transakcja na akcja,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+rosyjski urzad antymonopolowy wyrazic zgoda na nabycie 100  udzial nwog mol,1,3
+sad rejestrowy zatwierdzic podwyzszenie kapital spolka,0,3
+zawierac dlugoterminowy umowa z lukoil na dostawa ropa naftowy,0,3
+powiadomienie omv dotyczyc zmiana w ilosci prawic glos,0,3
+zmiana wplyw na,0,3
+nowe odkrycie ropa i gaz w pakistanie,0,3
+zamkniecie transakcja zakup akcja pomiedzy i cez,0,3
+powiadomienie omv dotyczyc zmiana w ilosci prawic glos   pelny polskojezyczny wersja,1,3
+nowa inicjatywa,0,3
+informowac,0,3
+wstepne wynik za ii kwartal 2006 rok,0,3
+wstepne wynik za iii kwartal 2005 r.,1,3
+  es gazipari rszvenvtarsasag emitowac euroobligacja,1,3
+rada dyrektor oglaszac wyplata dywidenda za rok 2006 (poprawka),0,3
+zakup akcja wlasny,1,3
+raport roczny za 2006 rok,0,3
+nabycie akcja wlasny,1,3
+uchwala walny zgromadzenie akcjonariusz,1,3
+zakup akcja wlasny,1,3
+zmiana w akcja wlasny,1,3
+zakup akcja skarbowy,0,3
+zakup akcja wlasny,0,3
+udany wspolpraca z spolka ina   uzupelnienie,0,3
+porozumienie w sprawa zakup 40  udzial w nowy przybrzezny blok w kamerunie,0,3
+zakup akcja wlasny,0,3
+zmiana wplyw na spolka,0,3
+stanowisko odnosnie warunkowy deklaracja intencja omv,0,3
+zmiana personalna w slovnafcie,1,3
+treasury share transaction,1,3
+nabycie akcja wlasny,0,3
+zakup akcja i&c energia a.s.,0,3
+wyplata dywidenda za rok obrotowy 2007,0,3
+wapiwsp zamierzac sprzedac 1 73  akcja spolka,1,3
+  zasada lad korporacyjny,0,3
+ilosc prawic glos w spolka,0,3
+uchwala walny zgromadzenie akcjonariusz w wersja polski,0,3
+zmiana harmonogram wza na wniosek omv w wersja polski,0,3
+zakup akcja skarbowy,0,3
+  es gazipari rszvenvtarsasag dywidenda za 2005 r.,0,3
+zakup akcja wlasny,0,3
+nabycie ponad 5  wplyw na spolka,1,3
+zakup obligacja kapitalowy przez menadzer,0,3
+zakup obligacja kapitalowy przez menadzer,0,3
+otrzymac pozew omv oraz termin wyznaczyc przez sad metropolitalny,1,3
+zakup akcja wlasny,0,3
+zmiana wplyw na spolka,1,3
+olaj: financing of the 2009 work program of pearl project with treasury shares,1,3
+zakup akcja wlasny,1,3
+harmonogram walny zgromadzenie akcjonariusz,1,3
+emitent i rossi beteiligungs ltd. wybudowac fabryka komponent biodiesla,0,3
+ilosc prawic glos w spolka,0,3
+wstepne wynik za ii kwartal 2006 r.,0,3
+  personnel andante organizational changes in plc.,1,3
+dokument na wza,1,3
+zmiana wplyw na spolka,1,3
+sprzedaz akcja spolka przez menedzer,0,3
+nabycie mszksz zrt.,1,3
+zakup akcja wlasny,0,3
+i exxonmobil gotowe do rozpoczecie program poszukiwawczy,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+zmiana wplyw na spolka,1,3
+  number of voting rights,1,3
+umowa kupna sprzedazy z rosyjski firma nwog,0,3
+sprzedaz akcja przez menedzer,1,3
+sprzedaz akcja przez menadzer,0,3
+wstepne wynik za i kwartal 2007 r.,1,3
+sprzedaz akcja spolka przez menadzer,1,3
+spolka kupowac chorwacki siec tifon,0,3
+plc. andante the government of croatia signed the,0,3
+zmiana w ilosci prawic glos,1,3
+share sala of manager,1,3
+konsorcjum mol ina podpisac umowa z rzad bosni i hercegowiny,0,3
+zmiana wplyw na spolka,1,3
+nowe cel strategiczny i finansowy na latac 2006 2010,0,3
+sfinalizowac transakcja gazowy mol e.on ruhrgas international,0,3
+omv notification on change of voting rights,0,3
+wstepne wynik za ii kwartal 2008r. w wersja polski,1,3
+kontynuacja wdrazac wlasny strategia,0,3
+zakup obligacja bezterminowy przez menadzer,0,3
+stanowisko w sprawa uchwala wegierski komisja nadzor finansowy   poprawka,1,3
+stanowisko w sprawa uchwala wegierski komisja nadzor finansowy,1,3
+nabycie akcja wlasny,1,3
+wstepne wynik za iv kwartal oraz caly 2007 rok,0,3
+podpisac umowa na opcja na akcja wlasne z apv rt.,1,3
+zakup akcja wlasny,1,3
+  es gazipari rszvenvtarsasag zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zmiana w ilosci prawic glos,1,3
+memorandum of understanding z quatar petroleum international,1,3
+share sala of manager,1,3
+zakup akcja wlasny,1,3
+sprzedaz akcja przez menadzer spolka,0,3
+zakup akcja wlasny,0,3
+nabycie akcja wlasny,0,3
+wstepne wynik za i kwartal 2005 rok,0,3
+zakup obligacja kapitalowy przez menadzer,1,3
+the extension of 3 board members' mandate is registered,1,3
+powiadomienie omv dotyczyc zmiana w ilosci prawic glos,0,3
+zamkniecie transakcja zakup spolka tifon,1,3
+documents for the annual general meeting,0,3
+  zmiana ilosci prawic glos,0,3
+number of voting rights at plc,1,3
+zakup akcja wlasny,1,3
+zmiana wplyw na spolka,1,3
+rada dyrektor oglaszac wyplata dywidenda za rok 2006 (poprawka),0,3
+zmiana w ilosci prawic glos,0,3
+program optymalizacja struktura kapitalowy spolka,0,3
+kontynuacja program optymalizacja kapital,0,3
+wstepne wynik za i kwartal 2007 r.,1,3
+number of voting rights at plc,1,3
+nowy posrednik transakcja,1,3
+zakup akcja wlasny,1,3
+wstepne wynik za ii kwartal 2007 rok,1,3
+wykonanie opcja call na akcja wlasne z ápv rt.,1,3
+umowa koncesyjny z republika pakistanu na prace badawczy na dwa obszar roponosny,1,3
+powiadomienie spolki dot. zmiana w ilosci prawic glos,0,3
+zmiana wplyw na spolka,1,3
+proponowac transakcja akcja wlasny,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+harmonogram zwza oraz warunki udzial oraz wykonanie prawa do glos,1,3
+zakup akcja wlasny,0,3
+dokument na walny zgromadzenie akcjonariusz (wersja angielska),0,3
+informowac,0,3
+bhv aga notification on change of voting rights,0,3
+zakonczyc operacja zakup 100  udzial w italiana energia e servizi,0,3
+raport roczny w wersja polski,0,3
+raport podsumowywac za rok finansowy 2007 w wersja polski,0,3
+wstepne wynik za i kwartal 2008 r.,0,3
+zmiana harmonogram wza na wniosek omv,0,3
+dokument na wza,0,3
+przyjecie budzet na nowy rok,0,3
+przetransferowac godziwy wynagrodzenie za akcja ina,1,3
+sad rejestrowy zarejestrowac podwyzszenie kapital spolka,1,3
+zmiana organizacyjny i personalna w spolka,1,3
+powiadomienie akcjonariusz,0,3
+sprzedaz akcja wlasny,0,3
+umowa na kredyt odnawialny o wartosc 700 milion euro,0,3
+umowa dot. euroobligacja o wartosc 750 milion euro,0,3
+sad metropolitalny uchylic uchwala wknf,1,3
+sprzedaz akcja spolka przez menadzer,0,3
+sprzedaz akcja przez menadzer spolka,1,3
+zmiana wplyw w tvk,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+program poszukiwawczy z exxonmobil,1,3
+zarejestrowac podniesienie kapital,1,3
+powiadomienie bayerische hypo   und vereinsbank aga dotyczyc prawic glos,1,3
+podpisnie umowy z ongc,1,3
+informowac,1,3
+omv notification on change of voting rights,1,3
+program rozbudowa rafineria duna,1,3
+wybrana dane finansowy za rok 2005,0,3
+zakup akcja wlasny,0,3
+  es gazipari nyilvanosan mukodo reszvenvtarsasag raport roczny,1,3
+zakup akcja wlasny,1,3
+zmiana wplyw na spolka,0,3
+zbycie akcja przez dyrektor spolka,0,3
+sprzedaz akcja przez menadzer spolka,0,3
+zakup akcja wlasny,0,3
+sprzedaz akcja przez menadzer,1,3
+zmiana data identyfikacja akcjonariusz przed wza,0,3
+sprzedaz akcja przez menadzer,1,3
+wstepne wynik za iii kwartal 2006 r.,1,3
+czynnik obiektywny wplywac na zysk,0,3
+zakup akcja wlasny,0,3
+wstepne wynik za iv kwartal oraz za caly rok 2005,1,3
+wstepne wynik za i kwartal 2007 r.,1,3
+  es gazipari nyilvanosan mukodo reszvenvtarsasag share sala of manager,0,3
+zakup akcja wlasny,1,3
+ray leonard dolaczyc do zespol firma,1,3
+zmiana wplyw na spolka,0,3
+ilosc prawic glos w spolka,1,3
+rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2004,1,3
+odnotowac decyzja omv,1,3
+podzial akcja dla zarzad i pracownik,0,3
+treasury shares transaction,0,3
+share sala of manager,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+dokument na wza,1,3
+nowy partner w spolka zmb,0,3
+  rozwiazanie umowy zakup aktyw i akcja,1,3
+rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2006,0,3
+rozszerzyc prawic opcja na akcja posiadac przez bnp paribas,0,3
+zakup akcja wlasny,0,3
+informowac,0,3
+dodatkowy roszczenie omv,0,3
+komisja europejski nalozyc kara na spolka,1,3
+omv notification on change of voting rights,0,3
+oferta w wysokosc 2.800 hrk za akcja ina zostac zaakceptowac,1,3
+wiazacy oferta na 100  udzial w rosyjski aktywa naftowy,1,3
+pozywac omv z tytul nieprawdziwy zarzut i znieslawienie,0,3
+zmiana w stan posiadanie akcja przez menadzer wysoki szczebel,0,3
+sprzedaz akcja spolka przez menadzer,0,3
+signed a new option agreement with ing bank n.v.,1,3
+zakup akcja wlasny,0,3
+  ilosc prawic glos w spolka,1,3
+mianowac bank of new york jako nastepca bank depozytariusz,0,3
+zakup akcja dawac ponad piecioprocentowy wplyw na,1,3
+  odkrycie trzeci zrodlo gaz ziemny w region trans tisza,1,3
+zbycie akcja przez menedzer,0,3
+wstepne wynik za i kwartal 2006 rok,1,3
+zakup akcja wlasny,0,3
+wstepne wynik za ii kwartal 2008 r.,1,3
+wstepne wynik za iv kwartal oraz caly 2008 rok,0,3
+nabycie akcja przez menedzer,0,3
+share sala of manager,1,3
+porozumienie w sprawa transakcja dotyczyc branza gazowniczy   wersja angielski,1,3
+zakup akcja wlasny,0,3
+nowe cel strategiczny i finansowy na latac 2006 2010,1,3
+program rozbudowa rafineria duna,1,3
+wstepne wynik za ii kwartal oraz i polrocze 2005 r.,0,3
+zakup akcja wlasny,0,3
+wstepne wynik za iv kwartal oraz caly 2005 rok,0,3
+signs an 8 year eur 200 million loan agreement with ebrd,0,3
+olaj: share sala of manager,1,3
+treasury shares transaction,0,3
+olaj: financing of the 2009 work program of pearl project with treasury shares,1,3
+number of voting rights at plc,1,3
+olaj: share sala of manager,1,3
+  es gazipari nyilvanosan mukodo reszvenvtarsasag 2009 halfa year report of group,1,3
+share sala of manager,1,3
+share sala of manager,0,3
+number of voting rights at plc.,0,3
+transakcja na akcja,1,3
+share sala of manager,1,3
+bnp paribas notification on change of voting rights,0,3
+exercise of call options on shares held by bnp paribas,0,3
+signs an 8 year eur 200 million loan agreement with ebrd,0,3
+signs an 8 year eur 200 million loan agreement with ebrd,0,3
+has received surgutneftegas's action,1,3
+informowac,1,3
+  personnel andante organizational changes in plc.,1,3
+informowac,0,3
+  number of voting rights,1,3
+transakcja na akcja,1,3
+share sala of manager,1,3
+share sala of manager,1,3
+interim management report,0,3
+green light to from the european commission to ina's transaction,0,3
+przyjecie budzet na nowy rok,0,3
+olaj: mfb invest zrt. notification on change of voting rights,0,3
+olaj: obrot akcja mi spolka,0,3
+the agm resolutions wy registered by the court of register,0,3
+  es gazipari nyilvanosan mukodo reszvenvtarsasag share sala of manager,0,3
+share sala of manager,0,3
+informowac,0,3
+mfb invest zrt. notification on change of voting rights,1,3
+treasury share transaction,1,3
+informowac,1,3
+omv notification on change of voting rights,1,3
+change in treasury shares,0,3
+documents for the annual general meeting,0,3
+omv notification on change of voting rights,0,3
+bhv aga notification on change of voting rights,0,3
+number of voting rights at plc,1,3
+surgutneftegas notification on change of voting rights,0,3
+to pursue stated independent strategy,0,3
+omv notification on change of voting rights,0,3
+informowac,0,3
+informowac,1,3
+bhv aga notification on change of voting rights,0,3
+closing of the share purchase andante option agreement with ing bank n.v.,0,3
+informowac,0,3
+informowac,0,3
+informowac,1,3
+signed a new option agreement with ing bank n.v.,1,3
+the extension of 3 board members' mandate is registered,1,3
+powiadomienie spolki dot. zmiana w ilosci prawic glos,0,3
+informowac,0,3
+informowac,0,3
+wstepne wynik za iv kwartal oraz caly 2008 rok,0,3
+  zmiana ilosci prawic glos,0,3
+zmiana w ilosci prawic glos,0,3
+number of voting rights,0,3
+plc. andante the government of croatia signed the,0,3
+informowac,0,3
+powiadomienie omv dotyczyc zmiana w ilosci prawic glos,0,3
+zmiana w ilosci prawic glos,1,3
+powiadomienie bhv aga dotyczyc zmiana w ilosci prawic glos,1,3
+  liczba prawic glos w spolka,0,3
+zmiana w akcja wlasny,1,3
+  powiadomienie oman oil budapest limited dotyczyc zmiana w ilosci prawic glos,1,3
+  rozwiazanie umowy zakup aktyw i akcja,1,3
+powiadomienie omv dotyczyc zmiana w ilosci prawic glos   pelny polskojezyczny wersja,1,3
+powiadomienie oman oil budapest limited dotyczyc zmiana w ilosci prawic glos,1,3
+powiadomienie bhv aga dotyczyc zmiana w ilosci prawic glos,0,3
+powiadomienie omv dotyczyc zmiana w ilosci prawic glos,1,3
+zmiana w ilosci prawic glos,1,3
+powiadomienie omv dotyczyc zmiana w ilosci prawic glos,0,3
+wstepne wynik za iii kwartal 2008 r.,0,3
+ilosc prawic glos,1,3
+modyfikacja dlugookresowwego rating kredytowy dla spolka,1,3
+wstepne wynik za iii kwartal 2008 r.,1,3
+sad metropolitalny uchylic uchwala wknf,1,3
+sprzedaz akcja przez menadzer,1,3
+zmiana w udzial akcja wysoki kadry zarzadzajaca,1,3
+dodatkowy roszczenie omv,0,3
+powiadomienie bayerische hypo   und vereinsbank aga dotyczyc prawic glos,1,3
+rozliczenie transakcja zakup akcja ina zostac zakonczony,1,3
+zmiana w ilosci prawic glos,1,3
+przetransferowac godziwy wynagrodzenie za akcja ina,1,3
+sad rejestrowy zarejestrowac podwyzszenie kapital spolka,1,3
+sad rejestrowy zarejestrowac obnizenie kapital o 5 ,1,3
+udzial spolka w ina wzrosc do 47 15 ,1,3
+sprzedaz akcja przez menadzer,1,3
+komisja europejski nalozyc kara na spolka,1,3
+ilosc prawic glos w spolka,0,3
+sprzedaz akcja przez menadzer,1,3
+powiadomienie dotyczyc zmiana w ilosci prawic glos,1,3
+dotyczyc zmiana w ilosci prawic glos,0,3
+oferta na akcja ina   pelny polskojezyczny wersja komunikat,1,3
+sprzedaz akcja przez menadzer,1,3
+otrzymac kolejny pozew omv oraz decyzja sad metropolitalny,0,3
+wstepne wynik za ii kwartal 2008r. w wersja polski,1,3
+  ilosc prawic glos w spolka,1,3
+oferta w wysokosc 2.800 hrk za akcja ina zostac zaakceptowac,1,3
+zmiana w akcja wlasny,1,3
+wstepne wynik za ii kwartal 2008 r.,1,3
+odnotowac decyzja omv,1,3
+ilosc prawic glos przypisac do akcja,1,3
+utworzyc spolka joint venture i cez,0,3
+pozywac omv z tytul nieprawdziwy zarzut i znieslawienie,0,3
+otrzymac pozew omv oraz termin wyznaczyc przez sad metropolitalny,1,3
+zmiana wplyw na spolka,1,3
+zamiar ogloszenie oferta publiczny na akcja ina,1,3
+transakcja na akcja,1,3
+  sprzedaz akcja przez menadzer,1,3
+sprzedaz akcja przez menadzer   korekta komunikat,0,3
+sprzedaz akcja przez menadzer,0,3
+sprzedaz akcja przez menedzer,1,3
+oswiadczenie w zakres przestrzegac zasada lad korporacyjny,1,3
+zmiana wplyw na spolka,0,3
+zakonczyc zakup ngosso permit w kamerunie,0,3
+oczekiwany zmiana w akcja wlasny,0,3
+plan polaczenie wegierski i rumunski system przesyl gaz,0,3
+zakup akcja i&c energia a.s.,0,3
+wyplata dywidenda za rok obrotowy 2007,0,3
+ilosc prawic glos w spolka,1,3
+zakup obligacja kapitalowy przez menadzer,0,3
+zakup obligacja kapitalowy przez menadzer,0,3
+  zakup obligacja kapitalowy przez menadzer,1,3
+zakup obligacja kapitalowy przez menadzer,1,3
+odkrycie nowy zloze ropa naftowy i gaz w kazachstanie,1,3
+swiatlo dla spolka joint venture i cez,1,3
+zmiana personalna i organizacyjny,1,3
+sprzedaz akcja przez menadzer,1,3
+wstepne wynik za i kwartal 2008r.,0,3
+  sprzedaz akcja przez ceo,1,3
+ilosc prawic glos,1,3
+odkrycie nowy zloze ropa naftowy w rosji efekt dzialanie poszukiwawczy spolka,0,3
+raport roczny w wersja polski,0,3
+raport podsumowywac za rok finansowy 2007 w wersja polski,0,3
+wstepne wynik za i kwartal 2008 r.,0,3
+podpisnie umowy z ongc,1,3
+ilosc prawic glos w spolka,0,3
+uchwala walny zgromadzenie akcjonariusz w wersja polski,0,3
+zmiana harmonogram wza na wniosek omv w wersja polski,0,3
+raport podsumowywac za rok finansowy 2007,0,3
+raport roczny 2007,0,3
+uchwala walny zgromadzenie akcjonariusz z 23 kwietni 2008 r.,0,3
+dokument na walny zebranie akcjonariusz   wersja polski,0,3
+i exxonmobil gotowe do rozpoczecie program poszukiwawczy,1,3
+program poszukiwawczy z exxonmobil,1,3
+powiadomienie akcjonariusz,0,3
+powiadomienie akcjonariusz,1,3
+zmiana harmonogram wza na wniosek omv,0,3
+dokument na wza,0,3
+ilosc prawic glos w spolka,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+harmonogram walny zgromadzenie akcjonariusz,1,3
+  zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+odkrycie nowy zloze gaz i kondensat w pakistanie,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zmiana wplyw na spolka,1,3
+podpisac umowy opcja z ing bank n.v.,1,3
+zamkniecie transakcja zakup akcja,0,3
+zmiana wplyw na spolka,1,3
+wstepne wynik za iv kwartal oraz caly 2007 rok,0,3
+ilosc prawic glos w spolka,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+oswiadczenie w sprawa powiadomienie dotyczyc fuzja,0,3
+zakup akcja wlasny,0,3
+ilosc prawic glos w spolka,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zmiana wplyw na spolka,0,3
+  zmiana wplyw na spolka,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zamkniecie transakcja zakup akcja pomiedzy i cez,0,3
+zakup akcja wlasny,0,3
+kontynuacja program optymalizacja kapital,0,3
+podpisac porozumienie z indyjski spolka ongc,1,3
+  ilosc prawic glos w spolka,1,3
+strategiczny sojusz pomiedzy cez a,0,3
+zmiana wplyw na spolka,1,3
+zmiana wspolczynnik w adr ach,1,3
+i libijski urzad inwestycyjny (lia) podpisywac memorandum of understanding,1,3
+zmiana wplyw na spolka,1,3
+rozszerzyc prawic opcja na akcja posiadac przez bnp paribas,0,3
+stanowisko w sprawa uchwala wegierski komisja nadzor finansowy   poprawka,1,3
+stanowisko w sprawa uchwala wegierski komisja nadzor finansowy,1,3
+wstepne wynik za iii kwartal 2007 rok,1,3
+nowa inicjatywa,0,3
+stanowisko firma odnosnie oswiadczenie omv,0,3
+zmiana wplyw na spolka,0,3
+zmiana wplyw na spolka,1,3
+zakonczyc operacja zakup 100  udzial w italiana energia e servizi,0,3
+wstepne wynik za iii kwartal 2007 rok,0,3
+podpisac porozumienie,0,3
+podpisac porozumienie,0,3
+porozumienie w sprawa zakup 40  udzial w nowy przybrzezny blok w kamerunie,0,3
+zamkniecie transakcja zakup spolka tifon,1,3
+memorandum of understanding z quatar petroleum international,1,3
+podpisywac umowa na kredyt odnawialny o wartosc 2 1 miliard euro,1,3
+stanowisko odnosnie warunkowy deklaracja intencja omv,0,3
+zmiana w posiadanie akcja przez menadzer wysoki szczebel,1,3
+zmiana w oplata nie powinny istotnie wplynac na zyskownosc spolka,1,3
+zmiana wplyw na spolka,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+nowy transgraniczny projekt badawczy mol ina,1,3
+zakup akcja wlasny,1,3
+memorandum of understanding w zakres sojusz strategiczny,1,3
+zakup akcja wlasny,0,3
+wstepne wynik za ii kwartal 2007 rok,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+  zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+wstepne wynik za ii kwartal 2006 r.,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+spolka kupowac chorwacki siec tifon,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+umowa na zakup 100  udzial w italiana energia e servizi,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+  zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+udany wspolpraca z spolka ina   uzupelnienie,0,3
+odkrycie nowe pole gaz ziemny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+odrzucenie warunkowe uklad z omv,0,3
+mozliwosci wzrost organiczny i generowac srodki finansowy,0,3
+zakup akcja wlasny,0,3
+zmiana w akcja wlasny,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+spolka otrzymac koncesja na obrot gaz,1,3
+zakup akcja wlasny,1,3
+zamiana akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zamiana akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+nowy posrednik transakcja,1,3
+zakup akcja wlasny,1,3
+zmiana wplyw na spolka,0,3
+sprzedaz akcja przez menadzer spolka,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+zmiana wplyw na spolka,0,3
+kontynuacja wdrazac wlasny strategia,0,3
+program optymalizacja struktura kapitalowy spolka,0,3
+zmiana wplyw na,0,3
+zakup akcja dawac ponad piecioprocentowy wplyw na,1,3
+  odkrycie trzeci zrodlo gaz ziemny w region trans tisza,1,3
+wstepne wynik za i kwartal 2007 rok,0,3
+zmiana wplyw na spolka,1,3
+nabycie ponad 5  wplyw na spolka,1,3
+sprzedaz akcja przez menadzer spolka,1,3
+program rozbudowa rafineria duna,1,3
+  zasada lad korporacyjny,0,3
+ raport roczny za 2006 rok   uzupelnic wersja polskojezyczny,1,3
+  es gazipari nyilvanosan mukodo reszvenvtarsasag raport roczny,1,3
+projekt umowy z exxonmobil,0,3
+wstepne wynik za i kwartal 2007 r.,1,3
+wstepne wynik za i kwartal 2007 r.,1,3
+rada dyrektor oglaszac wyplata dywidenda za rok 2006 (poprawka),0,3
+rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2006,0,3
+sprzedaz akcja przez menadzer spolka,0,3
+uchwala roczny zgromadzenie akcjonariusz z 26 kwietni 2007 r.,1,3
+raport roczny za 2006 rok,0,3
+  es gnmr powolac spolka obrot gaz ziemny,1,3
+nabycie 100  udzial w spolka matjushkinskaya vertikal llc,1,3
+dokument na wza,1,3
+dokument na wza,1,3
+zmiana data identyfikacja akcjonariusz przed wza,0,3
+harmonogram wza,0,3
+wstepne wynik za iv kwartal oraz caly 2006 rok,1,3
+zmiana wplyw w tvk,1,3
+zmiana wplyw w tvk,1,3
+wstepne wynik za iv kwartal oraz za caly rok 2006,1,3
+miejsce publikacja wstepny wynik za iv kw. i 2006 r.,1,3
+nowa dzialalnosc wpisac do statut spolka,1,3
+dostawa ropa naftowy do rafineria zostac wznowic,0,3
+  negocjacje w cel zabezpieczenie dostawa ropa naftowy,1,3
+nabycie mszksz zrt.,1,3
+spolka nabyc 100  udzial w baitex llc,0,3
+rozszerzyc prawic opcja na akcja,1,3
+wiazacy oferta na 100  udzial w rosyjski aktywa naftowy,1,3
+wstepne wynik za iii kwartal 2006 r.,1,3
+wynik przetarg na wybudowac strategiczny magazyn gaz,1,3
+wapiwsp zamierzac sprzedac 1 73  akcja spolka,1,3
+wstepne wynik za iii kwartal 2006 r.,0,3
+umowa koncesyjny z republika pakistanu na prace badawczy na dwa obszar roponosny,1,3
+podpisac statut spolka,1,3
+rosyjski urzad antymonopolowy wyrazic zgoda na nabycie 100  udzial nwog mol,1,3
+sprzedaz akcja spolka przez menadzer,0,3
+umowa kupna sprzedazy z rosyjski firma nwog,0,3
+zmiana w stan posiadanie akcja przez menadzer wysoki szczebel,0,3
+zarejestrowac podniesienie kapital,1,3
+konsorcjum mol ina podpisac umowa z rzad bosni i hercegowiny,0,3
+  decyzja rad dyrektor o podwyzszenie kapital akcyjny,0,3
+sprzedaz akcja spolka przez menadzer,0,3
+podpisac pierwsza umowa eksploracyjny na teren wegier,0,3
+wstepne wynik za ii kwartal 2006 r.,0,3
+sprzedaz akcja spolka przez menadzer,1,3
+sprzedaz akcja spolka przez menadzer,0,3
+sprzedaz akcja spolka przez menadzer,1,3
+sprzedaz akcja spolka przez menadzer,1,3
+wstepne wynik za ii kwartal 2006 rok,0,3
+zakup akcja spolka przez menadzer,1,3
+emitent i rossi beteiligungs ltd. wybudowac fabryka komponent biodiesla,0,3
+umowa na kredyt odnawialny o wartosc 825 milion euro,0,3
+zakup obligacja bezterminowy przez menadzer,0,3
+informacja o zmiana wplyw na spolka,0,3
+wstepne wynik za i kwartal 2006 r.,1,3
+zmiana wplyw na spolka,1,3
+realizacja transakcja,1,3
+podzial akcja dla zarzad i pracownik (poprawiona wersja),0,3
+podzial akcja dla zarzad i pracownik,0,3
+  es gazipari rszvenvtarsasag zasada lad korporacyjny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zlecenie zakup akcja wlasny,1,3
+sprzedaz akcja przez menedzer,1,3
+wstepne wynik za i kwartal 2006 rok,1,3
+wykonanie opcja call na akcja wlasne z ápv rt.,1,3
+  es gazipari rszvenvtarsasag dywidenda za 2005 r.,0,3
+zlozyc wiazacy oferta na 96 9  udzial w spolka oao udmurtneft,0,3
+uchwala roczny zgromadzenie akcjonariusz,1,3
+zmiana wplyw na spolka,1,3
+zmiana wplyw na spolka,1,3
+  es gazipari rszvenvtarsasag sprzedaz akcja wlasny,0,3
+wybrana dane finansowy za rok 2005,0,3
+  es gazipari rszvenvtarsasag sprzedaz akcja wlasny,0,3
+zmiana organizacyjny w,0,3
+optymalizacja portfel detaliczny w rumunii,0,3
+dokument na walny zgromadzenie akcjonariusz (wersja polska),0,3
+sfinalizowac transakcja gazowy mol e.on ruhrgas international,0,3
+dokument na walny zgromadzenie akcjonariusz (wersja angielska),0,3
+harmonogram zwza oraz warunki udzial oraz wykonanie prawa do glos,1,3
+skrocic harmonogram wza spolka,1,3
+harmonogram wza spolka wersja angielski,1,3
+sprzedaz akcja wlasny,0,3
+sprzedaz akcja wlasny,1,3
+udany odwiert ropy/gazu w pakistanie,1,3
+proponowac transakcja akcja wlasny,1,3
+wstepne wynik za iv kwartal oraz caly 2005 rok,0,3
+zmiana personalna w,0,3
+wstepne wynik za iv kwartal oraz za caly rok 2005,1,3
+zmiana wplyw na spolka,0,3
+porozumienie w sprawa transakcja dotyczyc branza gazowniczy   wersja polski,1,3
+porozumienie w sprawa transakcja dotyczyc branza gazowniczy   wersja angielski,1,3
+zmiana wplyw na spolka,1,3
+mianowac bank of new york jako nastepca bank depozytariusz,0,3
+komunikat o zmiana wplyw na spolka,1,3
+umowa prawa opcja do akcja wlasny,0,3
+oferta publiczny na akcja seria `c`,0,3
+porozumienie w sprawa rozszerzyc licencja produkcyjny,0,3
+  umowa z wegierski ministerstwo gospodarka i transport,0,3
+wstepne wynik za iii kwartal oraz 9 miesiac 2005 r.,1,3
+podpisac umowa na opcja na akcja wlasne z apv rt.,1,3
+nowe cel strategiczny i finansowy na latac 2006 2010,1,3
+nowe cel strategiczny i finansowy na latac 2006 2010,0,3
+wstepne wynik za iii kwartal 2005 r.,1,3
+sprzedaz akcja spolka przez menadzer,0,3
+umowa dot. euroobligacja o wartosc 750 milion euro,0,3
+potwierdzenie obsada stanowisko dyrektor zarzadzajacy siec sprzedaz,1,3
+zbywac dzialalnosc detaliczny w polsce,1,3
+  es gazipari rszvenvtarsasag emitowac euroobligacja,1,3
+slovnaft ukarac przez slowacki minister finanse,0,3
+zmiana w stan posiadanie akcja przez menadzer wysoki szczebel,0,3
+publikacja ocena wiarygodnosc kredytowy,1,3
+sad rejestrowy zatwierdzic podwyzszenie kapital spolka,0,3
+miec nowe partner w spolka zmb,0,3
+wiazacy oferta na 51  udzial w tüpras,1,3
+decyzja rad dyrektor spolkio podwyzszenie kapital akcyjny,0,3
+obecny stan praca wydobywczy w blok fedorowski,0,3
+zbycie akcja przez menedzer,0,3
+kanal komunikowac spolka,0,3
+wstepne wynik za ii kwartal oraz i polrocze 2005 r.,0,3
+nabycie akcja wlasny,0,3
+zbycie akcja przez menedzer spolka,1,3
+zbycie akcja przez menedzer spolka,1,3
+nabycie akcja wlasny,1,3
+akceptacja czesciowy sprzedaz dzialalnosc gazowniczy spolka,1,3
+nabycie akcja przez menedzer,0,3
+zbycie akcja spolka przez menedzer,1,3
+sprzedaz akcja spolka przez menedzer,0,3
+rada dyrektor oglaszac wyplata dywidenda za rok obrotowy 2004,1,3
+nabycie akcja wlasny,0,3
+rozdzial akcja wsrod zarzad,0,3
+umowa na kredyt odnawialny o wartosc 700 milion euro,0,3
+raport biezacy (wersja angielska),0,3
+nabycie akcja wlasny,0,3
+wstepne wynik za i kwartal 2005 rok,0,3
+nabycie akcja przez czlonek rn,1,3
+zbycie akcja przez dyrektor spolka,0,3
+raport roczny za 2004 rok,0,3
+nabycie akcja wlasny,0,3
+decyzja rad dyrektor o termin wyplat dywidenda,0,3
+wstepne wynik za i kwartal 2005 rok,1,3
+nabycie akcja wlasny,1,3
+nabycie akcja wlasny,1,3
+nabycie akcja wlasny,1,3
+nabycie akcja wlasny,1,3
+nabycie akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+nowy partner w spolka zmb,0,3
+  es gazipari rszvenvtarsasag zakup akcja wlasny,1,3
+zmiana personalna w slovnafcie,1,3
+uchwala walny zgromadzenie akcjonariusz,1,3
+raport roczny za 2004 rok,1,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+  es gazipari rszvenvtarsasag zakup akcja wlasny,0,3
+dokument na walny zgromadzenie akcjonariusz,0,3
+wiazacy oferta przetargowy na przejecie energopetrolu,0,3
+wybrana dane finansowy z raport roczny 2004,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,1,3
+zakup akcja wlasny,0,3
+wykup kwit 2005/a w termin platnosc,0,3
+zakonczyc przejecie spolka shell romania,0,3
+zakup akcja wlasny,0,3
+zakup akcja wlasny,1,3
+korekta do raport biezacy numer 18/2005,0,3
+rada dyrektor spolka zwolywac zwza,0,3
+zakup akcja skarbowy,0,3
+zakup akcja skarbowy,0,3
+zakup akcja skarbowy,0,3
+wezwanie do zakup akcja skarbowy,0,3
+  es gazipari rszvenvtarsasag zmiana organizacyjny,0,3
+zakup akcja skarbowy,0,3
+  es ggazipari rszvenvtarsasag sprzedaz akcja skarbowy,0,3
+wynik za iv kwartal 2004 rok oraz wstepne wynik za 2004 rok,1,3
+wynik za iv kwartal 2004 rok oraz wstepne wynik,1,3
+odpis aktualizacyjne w,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos na wza,0,4
+zmniejszenie posiadac udzial w ogolny liczba glos ponizej 10  ogolny liczba glos na wza,1,4
+informacja o przekroczenie prog 10  ogolny liczba glos na wza,0,4
+termin publikacja raport okresowy,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+rezygnacja czlonek zarzad z ubiegac siebie o wybor w nastepna kadencja,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+raport okresowy kwartalny skonsolidowac 3/2012 qsr,0,4
+  zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+informacja o przekroczenie prog 10  ogolny liczba glos na wza,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+zmniejszenie zatrudnienie,0,4
+nabycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad spolka,1,4
+raport okresowy polroczny za 2012 psr,1,4
+  rozpoczecie konsultacja w sprawa zmniejszenie zatrudnienie w spolka,1,4
+raport okresowy kwartalny skonsolidowac 2/2012 qsr,1,4
+  korekta do raport biezacy numer 22/2012,0,4
+akcjonariusz posiadajacy co malo 5  glos na zwz,0,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos ponizej 5 ,1,4
+korekta do raport biezacy numer 19/2012  ,0,4
+aneks numer 13 do umowy kredytowy z pekao,1,4
+projekt uchwala na zwz w dzien 22 czerwiec 2012 r.,1,4
+zwolanie zwz,1,4
+raport okresowy kwartalny skonsolidowac 1/2012 qsr,1,4
+rekomendacja zarzad w sprawa wyplat dwukrotnie wysoki dywidenda,0,4
+wykaz informacja przekazac do wiadomosci publiczny w 2011 roku.,0,4
+raport okresowy roczny skonsolidowac za 2011 rs,1,4
+raport okresowy roczny za 2011 rok,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos ponizej 5 ,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos ponizej 5 ,1,4
+wprowadzenie akcja do obrot na gpw,0,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos ponizej 10 ,0,4
+raport okresowy kwartalny skonsolidowac 4/2011 qsr,1,4
+odpis aktualizacyjne w,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+powolanie nowy czlonek zarzad,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos ponizej 10 ,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos ponizej 10 ,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos ponizej 15 ,1,4
+  realizacja plan motywacyjny,1,4
+zbycie akcja,0,4
+nabycie udzial spolka goldenline sp. z o.o.,0,4
+rezygnacja tomasza jozefackiego z uczestnictwo w zarzad,0,4
+termin publikacja raport okresowy,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos ponizej 15 ,0,4
+spelnienie warunki dla udzielic spolka dostepny transza kredyt,0,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+informacja o zejscie ponizej prog 20  ogolny liczba glos na w zastepstwie,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+  nabycie akcja przez czlonek zarzad,1,4
+raport okresowy polroczny za 2011 psr,1,4
+raport okresowy kwartalny skonsolidowac 2/2011 qsr,0,4
+rejestracja zmiana w statut spolka i ustalenie tekst jednolity statut,0,4
+  uzupelnienie informacja do aneks,1,4
+akcjonariuszej 5  glos na zwz 22 czerwiec 2011 rok,0,4
+uchwala o wyplat dywidenda podjac przez zwz,0,4
+uchwala podjac przez zwz 22 czerwiec 2011 r.,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad spolka,1,4
+zawiadomienie w tryb ustawa o obrot instrument finansowy,1,4
+projekt uchwala zwz,0,4
+ogloszenie o zwolanie zwz,0,4
+aneks numer 12 do umowy kredytowy z pekao,1,4
+raport okresowy kwartalny skonsolidowac 1/2011 qsr,1,4
+  wykaz informacja przekazac w 2010 roku.,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo byc czlonek zarzad spolka,0,4
+raport okresowy roczny za 2010 rok,1,4
+raport okresowy roczny skonsolidowac za 2010 rs,1,4
+wybor podmiot uprawniony do badanie sprawozdanie finansowy,1,4
+raport okresowy kwartalny skonsolidowac 4/2010 qsr,0,4
+zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+asymilacja akcja przez kdpw,0,4
+  zejscie ponizej 15 proc. glos,0,4
+zbycie akcja przez osoba z kierownictwo byc czlonek zarzad,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos,0,4
+informacja o przekroczenie prog 15  ogolny liczba glos na wza,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+termin publikacja raport okresowy,1,4
+raport okresowy kwartalny skonsolidowac 3/2010 qsr,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+informacja o zejscie ponizej prog 25  ogolny liczba glos na wza,1,4
+informacja o zmniejszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,0,4
+aneks numer 11 do umowy kredytowy z pekao,0,4
+podpisac ostateczny umowy dotyczyc nabycie akcja centrum filmowy helios,0,4
+raport okresowy polroczny za 2010 psr,1,4
+raport okresowy kwartalny skonsolidowac 2/2010 qsr,0,4
+uzupelnienie rb numer 34/2010 z dzien 23 lipiec 2010 r.,0,4
+powolanie sklad rad nadzorczy,0,4
+rejestracja zmiana w statut spolka i ustalenie tekst jednolity statut,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+wprowadzenie akcja do obrot na gpw,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+akcjonariusz   5  glos na zwza,1,4
+uchwala powziac przez zwza,1,4
+projekt uchwala dot. sprawa wprowadzic do porzadek obrada zwz,0,4
+zbycie akcja przez osoba z kierownictwo,1,4
+zbycie akcja przez osoba z kierownictwo,1,4
+projekt uchwala zwz,0,4
+ogloszenie o zwolanie zwz,0,4
+informacja o zawarcie umowy,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+raport okresowy kwartalny skonsolidowac 1/2010 qsr,0,4
+rekomendacja zarzad w sprawa wyplat dywidenda,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo,0,4
+zbycie akcja przez czlonek rad nadzorczy,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+raport okresowy roczny skonsolidowac za 2009 rs,1,4
+raport okresowy roczny za 2009 rok,1,4
+informacja dodatkowy do komunikat biezacy numer 6/2010,0,4
+aneks numer 10 do umowy kredytowy,0,4
+raport okresowy qsr,1,4
+asymilacja akcja przez kdpw,0,4
+zbycie akcja przez osoba z kierownictwo byc czlonek zarzad spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad spolka,0,4
+realizacja plan motywacyjny,0,4
+zwiekszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,0,4
+rejestracja zmiana w statut spolka,0,4
+umorzyc akcja wlasny i obnizenie kapital zakladowy,0,4
+termin publikacja raport okresowy,1,4
+raport okresowy qsr,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+wypowiedzenie umowy depozytowy i zamiar zakonczenie program gdr ow,1,4
+informacja o przekroczenie prog 25  w ogolny liczba glos,1,4
+zbycie akcja przez osoba z kierownictwo byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo byc czlonek zarzad,0,4
+zbycie akcja spolka,0,4
+zwiekszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,1,4
+realizacja program wykup akcja wlasny,1,4
+realizacja program wykup akcja wlasny,1,4
+skonsolidowac raport polroczny,1,4
+oswiadczenie spolka o przestrzegac zasada lad korporacyjny,1,4
+raport okresowy sa rs,1,4
+raport okresowy sa r,1,4
+realizacja program wykup akcja wlasny,1,4
+program kwit depozytowy,1,4
+zwiekszenie posiadac udzial ponad 10  ogolny liczba glos,1,4
+wprowadzenie akcja do obrot na gpw,1,4
+wprowadzenie akcja do obrot na gpw,1,4
+raport okresowy qsr,1,4
+program wykup akcja wlasny,1,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+korekta polski wersja jezykowy komentarz zarzad do raport za rok 2004,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,1,4
+informacja o przekroczenie prog 20  ogolny liczba glos na wza,0,4
+raport okresowy qsr,0,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,0,4
+wprowadzenie akcja do obrot na gpw,0,4
+realizacja program wykup akcja wlasny,0,4
+zbycie akcja przez osoba z kierownictwo,0,4
+termin publikacja raport okresowy,0,4
+informacja o przekroczenie prog 5  ogolny liczba glos na wza,0,4
+wykaz informacja przekazac do wiadomosci publiczny w 2006 r.,1,4
+oswiadczenie w sprawa przestrzegac w spolka zasada lad korporacyjny,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+realizacja program wykup akcja wlasny w okres od 20 marzec do 26 marzec 2009 r.,0,4
+informacja o przekroczenie prog 5  ogolny liczba glos na wza,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+utworzyc spolka a2 multimedia sp. z o.o.,1,4
+powolanie przewodniczacy rad nadzorczy,1,4
+akcjonariusz posiadajacy powyzej 5  glos na wza,1,4
+od piatku  14 kwietni gazeta wyborczy w caly kraj byc kosztowac 1 5 zl.,1,4
+projekt uchwala na wza w dzien 22 czerwiec 2005 rok,1,4
+przekroczenie prog 10  ogolny liczba glos na wza,0,4
+zwiekszenie posiadac udzial,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+realizacja program wykup akcja wlasny w okres od 14 lipiec do 17 lipiec 2008 r.,0,4
+przekroczenie prog 5  ogolny liczba glos na w zastepstwie,0,4
+rejestracja spolka zalezny,1,4
+realizacja program wykup akcja wlasny w okres od 5 do 11 wrzesnia 2008 r.,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,0,4
+zakonczenie realizacja program nabywac akcja wlasny,0,4
+informacja o zwiekszenie posiadac udzial,0,4
+osoba odpowiedzialna za kontakt z knf,0,4
+korekta raport biezacy 9/2007,0,4
+informacja o przekroczenie prog 20  ogolny liczba glos na wza,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+uchwala nwza z 12 luty 2009 r.,1,4
+akcjonariusz posiadajacy powyzej 5  glos na nwza,1,4
+zmiana liczba akcja posiadac przez   holding sp. z o.o,1,4
+sprzedaz akcja przez czlonek zarzad,0,4
+skonsolidowac raport kwartalny sa qsr 4/2004,0,4
+nabycie akcja w wynik realizacja warunkowe prawa do akcja,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo byc czlonek zarzad,0,4
+daleki ciag porzadkowac struktura w radiowy,0,4
+realizacja program wykup akcja wlasny w okres od 16 do 22.09.2005,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+rekomendacja zarzad w sprawa przeznaczenie zysk za 2008 rok,1,4
+uchwala rad nadzorczy w sprawa ocena sytuacja spolka w rok 2008,1,4
+zbycie akcja przez osoba nie byc czlonek zarzad spolka,0,4
+raport okresowy qsr,0,4
+uchwala rad nadzorczy w sprawa zwiezly ocena sytuacja spolka w 2007 rok,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+akcjonariusz posiadajacy powyzej 5  glos na nwza,0,4
+zwolanie wza,0,4
+ciag daleki porzadkowac struktura w radiowy,0,4
+realizacja program wykup akcja wlasny,0,4
+realizacja program wykup akcja wlasny,0,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,1,4
+raport okresowy qsr,0,4
+zbycie akcja przez osoba z kierownictwo,0,4
+zwolanie wza,0,4
+kandydat do zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zwolanie walny zgromadzenie akcjonariusz,1,4
+realizacja program wykup akcja wlasny od 27 luty do 5 marzec 2009,0,4
+aneks numer 5 do umowy kredytowy z pekao,1,4
+ciag daleki porzadkowac struktura w radiowy,0,4
+planowy sprzedaz akcja przez czlonek zarzad,1,4
+zmiana w plan motywacyjny,0,4
+realizacja program wykup akcja wlasny w okres od 9 do 15 wrzesnia 2005 r.,0,4
+raport okresowy qsr,1,4
+wybor podmiot uprawniony do badanie sprawozdanie finansowy,1,4
+realizacja program wykup akcja wlasny,1,4
+zmiana wysokosc kapital zakladowy spolka zalezny,1,4
+uchwala nwza z 30 sierpien 2007 r.,0,4
+zmiana w sklad zarzad,0,4
+raport okresowy qsr,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+zwiekszenie posiadac udzial ogolny liczba glos o duzo niz 2 ,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+realizacja program wykup akcja wlasny,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+przekroczenie prog 5  ogolny liczba glos na wza,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+aneks numer 7 do umowy kredytowy z pekao,1,4
+zwolanie nwza spolka,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+informowac,1,4
+zmiana umowy znaczacy,0,4
+projekt uchwala na wza 23 czerwiec 2009 r.,1,4
+kandydat do rad nadzorczy,0,4
+przekroczenie prog 10  ogolny liczba glos na wza,0,4
+realizacja program wykup akcja wlasny od 20 do 26 luty 2009 r.,0,4
+zwolanie zwyczajny walny zgromadzenie,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+zmiana w sklad zarzad,1,4
+rezygnacja z funkcja prezes zarzad,1,4
+aneks numer 3 do umowy kredytowy z pekao,0,4
+zbycie udzial w spolka idm serwis sp. z o.o. przez spolka zalezny,0,4
+rezygnacja z uczestnictwo w zarzad oraz z funkcja wiceprezes zarzad,1,4
+nowy dzien   zalozenie wydawniczy i finansowy,0,4
+informacja o zejscie ponizej prog 20  ogolny liczba glos na wza,1,4
+informacja o przekroczenie prog 20  ogolny liczba glos na wza   korekta,1,4
+porzadkowac struktura w radiowy,0,4
+konsolidacja 12 spolka radiowy z radiowy,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+raport okresowy qsr,0,4
+realizacja program wykup akcja wlasny,1,4
+wyjasnienie do raport roczny,0,4
+raport okresowy qsr,1,4
+sprzedaz akcja przez czlonek zarzad,0,4
+powolanie do sklad rad nadzorczy,1,4
+rezygnacja czlonek rad nadzorczy,1,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,0,4
+wykaz informacja przekazac przez spolka do publiczny wiadomosci w 2005 r.,0,4
+raport roczny,0,4
+skonsolidowac raport roczny,0,4
+tresc uchwala podjac przez walny zgromadzenie akcjonariusz,1,4
+uchwala rad nadzorczy w sprawa zwiezly ocena sytuacja spolka w rok 2006,0,4
+rekomendacja zarzad w sprawa wyplat dywidenda,0,4
+kandydat do rn,0,4
+projekt uchwala na zwza w dzien 29 czerwiec 2007r.,0,4
+rezygnacja czlonek rad nadzorczy,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+ciag daleki porzadkowac struktura w radiowy,0,4
+aneks numer 6 do umowy kredytowy z pekao,1,4
+uchwala wza z 23 czerwiec 2009 r.,0,4
+informacja o powolanie czlonek rad nadzorczy,0,4
+wprowadzenie akcja do obrot na gpw,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+wykup akcja wlasny w okres od 2 do 8 wrzesnia,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+raport okresowy qsr,1,4
+wprowadzenie akcja seria co do obrot na gpw,1,4
+zmiana osoba odpowiedzialna za kontakt z kpwig,1,4
+realizacja program wykup akcja wlasny w okres od 7 do 13 pazdziernik 2005 r.,0,4
+warunkowy sprzedaz udzial w radio lokalny zielony gora sp. z o.o.,0,4
+aneks numer 8 do umowy kredytowy z pekao,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+debiut nowe dziennik   14 listopad 2005 r.,0,4
+uchwala rad nadzorczy w sprawa zwiezly ocena sytuacja spolka w rok 2006,0,4
+rekomendacja zarzad w sprawa wyplat dywidenda,0,4
+kandydat do rn,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo,0,4
+zmiana w zarzad,0,4
+przekroczenie prog 5  ogolny liczba glos na wza,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+raport okresowy qsr,1,4
+kandydat do rad nadzorczy,1,4
+uchwala w sprawa zwiezly ocena sytuacja spolka w rok 2005,1,4
+rekomendacja zarzad w sprawa podzial zysk za rok obrotowy 2005,1,4
+projekt uchwala na zwza 26 czerwiec 2006 rok,1,4
+oswiadczenie w sprawa przestrzegac w spolka zasada lad korporacyjny,0,4
+powolanie czlonek zarzad na nowa piecioletni kadencja,0,4
+uchwala wza z 20 czerwiec 2008 r.,0,4
+akcjonariusz posiadajacy powyzej 5  glos na zwza,0,4
+rejestracja spolka zalezny,0,4
+informacja o zwiekszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,0,4
+wykaz informacja przekazac do waidomosci publiczny w 2008 r.,0,4
+informacja przekazac do publiczny wiadomosci w 2007 rok,1,4
+stosowac zasada lad korporacyjny w 2007 rok,1,4
+rekomendacja zarzad w sprawa wyplat dywidenda,1,4
+skonsolidowac raport roczny,1,4
+raport roczny,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+akcjonariusz posiadajacy powyzej 5  glos na wza,1,4
+informacja o powolanie czlonek rad nadzorczy,1,4
+uchwala wza z 29 czerwiec 2007 r.,1,4
+skonsolidowac raport roczny,1,4
+raport roczny,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+raport okresowy qsr,1,4
+zwolanie nwza spolka,1,4
+raport okresowy qsr,1,4
+realizacja program wykup akcja wlasny w okres od 21 do 27 pazdziernik 2005 r.,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+rejestracja spolka zalezny,0,4
+przekroczenie prog 5  ogolny liczba glos na wza,1,4
+realizacja program wykup akcja wlasny w okres od 25 lipiec do 31 lipiec 2008 r.,1,4
+korekta raport biezacy numer 47/2006 z dzien 23 pazdziernik 2006 roku.,1,4
+zmiana w harmonogram zwolnienie grupowy,1,4
+zmiana liczba akcja posiadac przez   holding sp. z o.o,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,0,4
+realizacja program wykup akcja wlasny,1,4
+raport okresowy qsr,1,4
+aneks numer 5 do umowy kredytowy z pekao,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+zmiana umowy znaczacy,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+realizacja program wykup akcja wlasny od 29 sierpien do 4 wrzesnia 2008 r.,0,4
+realizacja program wykup akcja wlasny w okres od 18 do 24 listopad 2005 r.,0,4
+informacja o zejscie ponizej prog 5   ogolny liczba glos na w zastepstwie,0,4
+realizacja program wykup akcja wlasny w okres od 14 do 17 listopad,0,4
+wprowadzenie akcja do obrot na gpw,1,4
+program wykup akcja wlasny,0,4
+zamkniecie transakcja nabycie udzial w trader.com (polska),0,4
+akcjonariusz posiadajacy powyzej 5  glos na wza,0,4
+informacja o powolanie czlonek rad nadzorczy,0,4
+uchwala walny zgromadzenie akcjonariusz z dzien 26 czerwiec 2006r.,0,4
+realizacja program wykup akcja wlasny w okres od 23 do 29 wrzesnia 2005 r.,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+realizacja program wykup akcja wlasny,0,4
+realizacja program wykup akcja wlasny,0,4
+ciag daleki porzadkowac struktura w radiowy,1,4
+zbycie akcja przez osoba z kierownictwo,0,4
+realizacja program wykup akcja wlasny,0,4
+realizacja program wykup akcja wlasny od 6 do 12 marzec 2009 rok,1,4
+zejscie ponizej prog 5   ogolny liczba glos na w zastepstwie spolka,0,4
+zejscie ponizej prog 5   ogolny liczba glos na w zastepstwie spolka,0,4
+  uzupelnienie raport za iv kwartal 2008 rok,0,4
+zmiana termin publikacja raport okresowy,0,4
+aneks numer 9 do umowy kredytowy z pekao,0,4
+realizacja program wykup akcja wlasny,1,4
+zbycie akcja przez osoba nie byc czlonek zarzad spolka,1,4
+`nowy dzien` przestac siebie ukazywac,1,4
+osoba odpowiedzialna za kontakt z knf,0,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,0,4
+raport okresowy qsr,0,4
+uzupelnienie porzadek obrada zwza,1,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,1,4
+informacja o zwolanie wza,1,4
+raport okresowy qsr,1,4
+korekta raport biezacy numer 11/2005 z dzien 7 marzec 2005,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+zbycie akcja przez czlonek zarzad,1,4
+ciag daleki porzadkowac struktura w radiowy,1,4
+projekt uchwala na nwza 19 grudzien 2005 rok,0,4
+ciag daleki porzadkowac struktura w radiowy,0,4
+sprzedaz akcja przez czlonek zarzadu,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czesc lonka zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+zmiana w plan poprawa efektywnosc operacyjny w,1,4
+zgloszenie kandydat do rad nadzorczy,1,4
+zmiana termin publikacja raport okresowy,1,4
+skonsolidowac raport polroczny,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+skonsolidowac raport polroczny,1,4
+raport okresowy qsr,0,4
+zmiana termin publikacja raport okresowy,1,4
+wybor prezes zarzad,0,4
+uchwala wza z 23 czerwiec 2009 r.,0,4
+informacja o powolanie czlonek rad nadzorczy,0,4
+akcjonariusz posiadajacy powyzej 5  glos na wza,0,4
+informowac,1,4
+zgloszenie kandydat do rad nadzorczy,1,4
+rezygnacja czlonek rad nadzorczy,0,4
+informacja o zejscie ponizej prog 5   ogolny liczba glos na w zastepstwie,0,4
+projekt uchwala na wza 23 czerwiec 2009 r.,1,4
+rekomendacja zarzad w sprawa przeznaczenie zysk za 2008 rok,1,4
+uchwala rad nadzorczy w sprawa ocena sytuacja spolka w rok 2008,1,4
+zwolanie zwyczajny walny zgromadzenie,1,4
+raport okresowy qsr,1,4
+zmiana w plan poprawa efektywnosc operacyjny w,1,4
+zmiana umowy znaczacy,0,4
+zbycie akcja przez osoba z kierownictwo,1,4
+informacja o zwiekszenie posiadac udzial w ogolny liczba glos o duzo niz 2 ,0,4
+wykaz informacja przekazac do waidomosci publiczny w 2008 r.,0,4
+skonsolidowac raport roczny,0,4
+raport roczny,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+przekroczenie prog 5  ogolny liczba glos na w zastepstwie,0,4
+realizacja program wykup akcja wlasny,0,4
+zejscie ponizej prog 5   ogolny liczba glos na w zastepstwie spolka,0,4
+zejscie ponizej prog 5   ogolny liczba glos na w zastepstwie spolka,0,4
+  uzupelnienie raport za iv kwartal 2008 rok,0,4
+zmiana termin publikacja raport okresowy,0,4
+aneks numer 9 do umowy kredytowy z pekao,0,4
+realizacja program wykup akcja wlasny w okres od 20 marzec do 26 marzec 2009 r.,0,4
+realizacja program wykup akcja wlasny,0,4
+realizacja program wykup akcja wlasny od 6 do 12 marzec 2009 rok,1,4
+realizacja program wykup akcja wlasny od 27 luty do 5 marzec 2009,0,4
+realizacja program wykup akcja wlasny od 20 do 26 luty 2009 r.,0,4
+realizacja program wykup akcja wlasny,1,4
+raport okresowy qsr,1,4
+program wykup akcja wlasny,0,4
+uchwala nwza z 12 luty 2009 r.,1,4
+akcjonariusz posiadajacy powyzej 5  glos na nwza,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+powolanie do sklad rad nadzorczy,1,4
+rezygnacja czlonek rad nadzorczy,1,4
+odpis aktualizacyjny na inwestycja w trader.com (polska) sp. z o.o.,1,4
+projekt uchwala na nwza,0,4
+termin i porzadek obrada nwza,0,4
+termin publikacja raport okresowy,0,4
+powolanie nowe czlonek zarzad,0,4
+plan poprawa efektywnosc operacyjny w spolka,0,4
+transakcja na akcja,1,4
+rezygnacja z uczestnictwo w zarzad oraz z funkcja wiceprezes zarzad,1,4
+zmiana w sklad zarzad,1,4
+rezygnacja z funkcja prezes zarzad,1,4
+raport okresowy qsr,1,4
+informacja o przekroczenie prog 20  ogolny liczba glos na wza,1,4
+informacja o zejscie ponizej prog 20  ogolny liczba glos na wza,1,4
+informacja o przekroczenie prog 20  ogolny liczba glos na wza   korekta,1,4
+informacja o przekroczenie prog 20  ogolny liczba glos na wza,0,4
+zakonczenie realizacja program nabywac akcja wlasny,0,4
+informacja o zwiekszenie posiadac udzial,0,4
+osoba odpowiedzialna za kontakt z knf,0,4
+zmiana umowy znaczacy,1,4
+realizacja program wykup akcja wlasny,1,4
+przekroczenie prog 5  ogolny liczba glos na wza,0,4
+realizacja program wykup akcja wlasny,0,4
+realizacja program wykup akcja wlasny,1,4
+realizacja program wykup akcja wlasny,1,4
+wybor podmiot uprawniony do badanie sprawozdanie finansowy,1,4
+realizacja program wykup akcja wlasny,1,4
+zmiana wysokosc kapital zakladowy spolka zalezny,1,4
+rozszerzyc skonsolidowac raport polroczny,0,4
+realizacja program wykup akcja wlasny,0,4
+rejestracja spolka zalezny,1,4
+realizacja program wykup akcja wlasny w okres od 5 do 11 wrzesnia 2008 r.,1,4
+realizacja program wykup akcja wlasny od 29 sierpien do 4 wrzesnia 2008 r.,0,4
+realizacja program wykup akcja wlasny,1,4
+zbycie akcja przez osoba z kierownictwo,0,4
+realizacja program wykup akcja wlasny,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+informacja o zwiekszenie posiadac udzial,1,4
+realizacja program wykup akcja wlasny,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+raport okresowy qsr,1,4
+realizacja program wykup akcja wlasny,1,4
+realizacja program wykup akcja wlasny w okres od 25 lipiec do 31 lipiec 2008 r.,1,4
+realizacja program wykup akcja wlasny,0,4
+realizacja program wykup akcja wlasny w okres od 14 lipiec do 17 lipiec 2008 r.,0,4
+program wykup akcja wlasny,0,4
+wprowadzenie akcja do obrot na gpw,1,4
+zamkniecie transakcja nabycie udzial w trader.com (polska),0,4
+powolanie czlonek zarzad na nowa piecioletni kadencja,0,4
+uchwala wza z 20 czerwiec 2008 r.,0,4
+akcjonariusz posiadajacy powyzej 5  glos na zwza,0,4
+zwiekszenie posiadac udzial,0,4
+zwiekszenie posiadac udzial ponad 10  ogolny liczba glos,1,4
+przekroczenie prog 5  ogolny liczba glos na wza,1,4
+uzupelnienie porzadek obrada zwza,1,4
+raport okresowy qsr,1,4
+podpisac umowy o nabycie trader.com (polska),1,4
+wyjasnienie do raport roczny,0,4
+projekt uchwala na zwza 20 czerwiec 2008 r.,1,4
+aneks numer 8 do umowy kredytowy z pekao,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+kandydat do zarzad,1,4
+zwolanie walny zgromadzenie akcjonariusz,1,4
+informacja przekazac do publiczny wiadomosci w 2007 rok,1,4
+stosowac zasada lad korporacyjny w 2007 rok,1,4
+rekomendacja zarzad w sprawa wyplat dywidenda,1,4
+skonsolidowac raport roczny,1,4
+raport roczny,1,4
+uchwala rad nadzorczy w sprawa zwiezly ocena sytuacja spolka w 2007 rok,1,4
+porzadkowac struktura w radiowy,0,4
+aneks numer 7 do umowy kredytowy z pekao,1,4
+raport okresowy qsr,1,4
+utworzyc spolka a2 multimedia sp. z o.o.,1,4
+zbycie akcja przez osoba z kierownictwo byc czlonek zarzad,0,4
+przekroczenie prog 10  ogolny liczba glos na wza,0,4
+zbycie akcja przez osoba z kierownictwo,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+aneks numer 6 do umowy kredytowy z pekao,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+zwiekszenie posiadac udzial ogolny liczba glos o duzo niz 2 ,1,4
+zmiana liczba akcja posiadac przez   holding sp. z o.o,1,4
+zbycie akcja przez osoba z kierownictwo byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo,0,4
+termin publikacja raport okresowy,0,4
+zbycie akcja przez osoba z kierownictwo,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+raport okresowy qsr,0,4
+przekroczenie prog 10  ogolny liczba glos na wza,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+osoba odpowiedzialna za kontakt z knf,0,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,0,4
+rozszerzyc skonsolidowac raport polroczny,1,4
+uchwala nwza z 30 sierpien 2007 r.,0,4
+zmiana w sklad zarzad,0,4
+akcjonariusz posiadajacy powyzej 5  glos na nwza,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo,0,4
+zmiana w zarzad,0,4
+przekroczenie prog 5  ogolny liczba glos na wza,0,4
+zbycie akcja przez czlonek zarzad spolka,0,4
+zbycie akcja przez czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo,0,4
+raport okresowy qsr,0,4
+projekt uchwala na nwza,0,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zwolanie nwza spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+wprowadzenie akcja do obrot na gpw,1,4
+wprowadzenie akcja do obrot na gpw,1,4
+akcjonariusz posiadajacy powyzej 5  glos na wza,1,4
+informacja o powolanie czlonek rad nadzorczy,1,4
+uchwala wza z 29 czerwiec 2007 r.,1,4
+zmiana umowy znaczacy,0,4
+ciag daleki porzadkowac struktura w radiowy,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+projekt uchwala na zwza w dzien 29 czerwiec 2007r.,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+ciag daleki porzadkowac struktura w radiowy,0,4
+uchwala rad nadzorczy w sprawa zwiezly ocena sytuacja spolka w rok 2006,0,4
+rekomendacja zarzad w sprawa wyplat dywidenda,0,4
+kandydat do rn,0,4
+zwolanie wza,0,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,0,4
+rejestracja spolka zalezny,0,4
+raport okresowy qsr,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+wykaz informacja przekazac do wiadomosci publiczny w 2006 r.,1,4
+oswiadczenie w sprawa przestrzegac w spolka zasada lad korporacyjny,1,4
+skonsolidowac raport roczny,1,4
+raport roczny,1,4
+aneks numer 5 do umowy kredytowy z pekao,1,4
+korekta raport biezacy 9/2007,0,4
+informacja o przekroczenie prog 5  ogolny liczba glos na wza,0,4
+raport okresowy qsr,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,1,4
+korekta raport biezacy numer 47/2006 z dzien 23 pazdziernik 2006 roku.,1,4
+zmiana w harmonogram zwolnienie grupowy,1,4
+zmiana liczba akcja posiadac przez   holding sp. z o.o,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+termin publikacja raport okresowy,0,4
+termin publikacja raport okresowy,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba nie byc czlonek zarzad spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+raport okresowy qsr,0,4
+obnizenie kapital zakladowy,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+skonsolidowac raport polroczny,1,4
+plan optymalizacja koszt spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,0,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba nie byc czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+raport okresowy qsr,1,4
+wprowadzenie akcja do obrot na gpw,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad,1,4
+zbycie akcja przez osoba z kierownictwo spolka nie byc czlonek zarzad spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+kandydat do rad nadzorczy,1,4
+uchwala w sprawa zwiezly ocena sytuacja spolka w rok 2005,1,4
+rekomendacja zarzad w sprawa podzial zysk za rok obrotowy 2005,1,4
+projekt uchwala na zwza 26 czerwiec 2006 rok,1,4
+informacja o zwolanie wza,1,4
+raport okresowy qsr,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+daleki ciag porzadkowac struktura w radiowy,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+oswiadczenie w sprawa przestrzegac w spolka zasada lad korporacyjny,0,4
+wykaz informacja przekazac przez spolka do publiczny wiadomosci w 2005 r.,0,4
+raport roczny,0,4
+skonsolidowac raport roczny,0,4
+od piatku  14 kwietni gazeta wyborczy w caly kraj byc kosztowac 1 5 zl.,1,4
+korekta raport biezacy numer 11/2005 z dzien 7 marzec 2005,1,4
+`nowy dzien` przestac siebie ukazywac,1,4
+raport okresowy qsr,1,4
+ciag daleki porzadkowac struktura w radiowy,0,4
+ciag daleki porzadkowac struktura w radiowy,0,4
+ciag daleki porzadkowac struktura w radiowy,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+akcjonariusz posiadajacy powyzej 5  glos na nwza raport,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+informacja o powolanie czlonek rad nadzorczy spolka,0,4
+uchwala nwza spolka z 19 grudzien 2005 rok,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+wynik sprzedaz nowe dzien,0,4
+ciag daleki porzadkowac struktura w radiowy,1,4
+zakonczenie realizacja program nabywac akcja wlasny,1,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+projekt uchwala na nwza 19 grudzien 2005 rok,0,4
+kandydat do rad nadzorczy,0,4
+termin publikacja raport okresowy,0,4
+realizacja program wykup akcja wlasny w okres od 18 do 24 listopad 2005 r.,0,4
+zwolanie nwza spolka,1,4
+realizacja program wykup akcja wlasny w okres od 14 do 17 listopad,0,4
+zbycie akcja przez osoba z kierownictwo spolka,0,4
+realizacja program wykup akcja wlasny w okres od 4 do 10 listopad,1,4
+nowy dzien   zalozenie wydawniczy i finansowy,0,4
+debiut nowe dziennik   14 listopad 2005 r.,0,4
+zbycie akcja przez osoba z kierownictwo spolka,1,4
+raport okresowy qsr,0,4
+warunkowy sprzedaz udzial w radio lokalny zielony gora sp. z o.o.,0,4
+realizacja program wykup akcja wlasny w okres od 21 do 27 pazdziernik 2005 r.,0,4
+sprzedaz udzial w twoje radio   ciag daleki porzadkowac struktura,1,4
+realizacja program wykup akcja wlasny,1,4
+sprzedaz udzial w radio klakson sp. z o.o,0,4
+sprzedaz udzial w elita sp. z o.o,0,4
+realizacja program wykup akcja wlasny w okres od 7 do 13 pazdziernik 2005 r.,0,4
+realizacja program wykup akcja wlasny,1,4
+nowy tytul prasowy,1,4
+realizacja program wykup akcja wlasny w okres od 23 do 29 wrzesnia 2005 r.,0,4
+skonsolidowac raport polroczny,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+realizacja program wykup akcja wlasny w okres od 16 do 22.09.2005,0,4
+zmiana w plan motywacyjny,0,4
+realizacja program wykup akcja wlasny w okres od 9 do 15 wrzesnia 2005 r.,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+wykup akcja wlasny w okres od 2 do 8 wrzesnia,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+realizacja program wykup akcja wlasny,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+realizacja program wykup akcja wlasny,0,4
+sprzedaz akcja przez czesc lonka zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+realizacja program wykup akcja wlasny,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+raport okresowy qsr,1,4
+program wykup akcja wlasny,1,4
+wprowadzenie akcja seria co do obrot na gpw,1,4
+zmiana osoba odpowiedzialna za kontakt z kpwig,1,4
+zmiana prawic z akcja seria co,1,4
+sprzedaz akcja przez czlonek zarzadu,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+zbycie akcja przez czlonek zarzad,1,4
+wprowadzenie akcja do obrot na gpw,0,4
+zmiana umowy depozytowy,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+program kwit depozytowy,1,4
+tresc uchwala podjac przez walny zgromadzenie akcjonariusz,1,4
+powolanie przewodniczacy rad nadzorczy,1,4
+akcjonariusz posiadajacy powyzej 5  glos na wza,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+projekt uchwala na wza w dzien 22 czerwiec 2005 rok,1,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+zmiana liczba akcja posiadac przez znaczny akcjonariusz,0,4
+raport okresowy qsr,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+korekta polski wersja jezykowy komentarz zarzad do raport za rok 2004,1,4
+oswiadczenie spolka o przestrzegac zasada lad korporacyjny,1,4
+raport okresowy sa rs,1,4
+raport okresowy sa r,1,4
+sprzedaz akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+skonsolidowac raport kwartalny sa qsr 4/2004,0,4
+nabycie akcja w wynik realizacja warunkowe prawa do akcja,0,4
+planowy sprzedaz akcja przez czlonek zarzad,1,4
+aneks numer 3 do umowy kredytowy z pekao,0,4
+zbycie udzial w spolka idm serwis sp. z o.o. przez spolka zalezny,0,4
+zmiana prawic z akcja seria bar,1,4
+rozszerzyc skonsolidowac raport kwartalny sa qsr,0,4
+zwiekszenie udzial w spolka multimedia plus sp. z o.o.,0,4
+tresc uchwala podjac przez nwza dn. 20 pazdziernik 2004r.,1,4
+akcjonariusz posiadajacy ponad 5  glos na nwza,1,4
+projekt uchwala nwza 20 pazdziernik 2004 rok,1,4
+skonsolidowac raport polroczny sa psr,0,4
+zwolanie nwza,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+zmiana liczba akcja posiadac przez znaczny akcjonariusz,1,4
+rezygnacja czlonek zarzad,0,4
+raport za ii kw. 2004   ias,0,4
+rozszerzyc skonsolidowac raport kwartalny sa qsr,0,4
+powolanie jaroslawa szalinskiego na czlonek zarzad spolka,0,4
+wprowadzenie akcja do obrot na gpw,1,4
+nabycie udzial w spolka tresa sp. z o.o.,0,4
+powolanie czlonek wladza spolka,1,4
+akcjonariusz posiadajacy ponad 5  glos na wza,1,4
+tresc uchwala podjac przez zwza 24 czerwiec 2004r.,1,4
+projekt uchwala zwza,1,4
+korekta raport rb 13/2004,0,4
+kandydatura do organ spolka,0,4
+propozycja podzial zysk,0,4
+ocena sytuacja spolka przez rada nadzorczy,0,4
+zwolanie walny zgromadzenie akcjonariusz,0,4
+raport finansowy za pierwszy kwartal wedlug msr,1,4
+rozszerzyc skonsolidowac raport kwartalny sa qsr,1,4
+podwyzszenie kapital w spolka zalezny,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+sprzedaz akcja spolka,0,4
+lad korporacyjny,1,4
+skonsolidowac raport roczny sa rs,1,4
+raport roczny sa r,1,4
+zbycie akcja przez czlonek zarzad,1,4
+zbycie akcja przez czlonek zarzad,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+likwidacja spolka polskie badanie reklama zewnetrzny,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+skrocic raport finansowy za cztery kwartal wedlug mssf,1,4
+rozszerzyc skonsolidowac raport kwartalny sa qsr,1,4
+zwiekszenie udzial w radio wanda sp. z o.o.,0,4
+zwiekszenie udzial w radio klakson sp. z o.o.,1,4
+zmiana restrukturyzacyjny w,1,4
+nabycie akcja spolka   korekta (rb 42/2003),0,4
+aneks do umowy kredytowy z pekao,0,4
+nabycie akcja przez czlonek zarzad,0,4
+termin publikacja raport okresowy w rok 2004,0,4
+zwiekszenie udzial w wibor sp. z o.o.,0,4
+zmiana stan posiadanie znaczny pakiet akcja,1,4
+powolanie czlonek rn,1,4
+rezygnacja czlonek rad nadzorczy,1,4
+raport kwartalny wg. msr,1,4
+rozszerzyc skonsolidowac raport kwartalny sa qsr,1,4
+zwiekszenie udzial w rpz sp. z o.o.,0,4
+nabycie udzial w twoje radio sp. z o.o.,0,4
+ogloszenie upadlosc jednostki zalezny active media sp.,1,4
+zawarcie transakcja z podmiot powiazac ams,0,4
+nabycie udzial w media system,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+zbycie akcja spolka,0,4
+rejestracja podwyzszenie kapital zakladowy twoje radio,1,4
+zawarcie transakcja z podmiot powiazac   ams,1,4
+aneks do umowy kredytowy,1,4
+raport za ii kw. 2003   ias,0,4
+rozszerzyc skonsolidowac raport kwartalny sa qsr,0,4
+zwiekszenie udzial w radio puls (lublin),1,4
+aneks do umowy dotyczyc zasada zbywac akcja seria bar,0,4
+wprowadzenie akcja spolka do obrot na gpw,1,4
+oswiadczenie w sprawa przestrzegac zasada dobry praktyk w spolka publiczny,1,4
+powolanie czlonek wladza spolka,1,4
+akcjonariusz posiadajacy ponad 5  glos na wza,1,4
+tresc uchwala podjac przez wza spolka,1,4
+zgloszenie kandydat do zarzad i rad nadzorczy,0,4
+zmiana znaczacy umowy,1,4
+projekt uchwala zwza spolka,0,4
+zwolanie zwyczajny walny zgromadzenie akcjonariusz,1,4
+rozszerzyc skonsolidowac raport kwartalny sa qsr,1,4
+raport roczny sa r,0,4
+skonsolidowac raport roczny sa rs,0,4
+sprzedaz akcja przez czlonek zarzad,0,4
+zmiana termin publikacja raport roczny,1,4
+zmniejszenie udzial w multimedia plus sp. z o.o.,1,4
+aneks do umowy dotyczyc zasada zbywac akcja seria bar,1,4
+zwiekszenie udzial w radio klakson sp. z o.o.,0,4
+umowa o subskrypcja akcja ams,1,4
+zawarcie transakcja z podmiot powiazac ams,1,4
+zawarcie transakcja z podmiot powiazac   ams,0,4
+zawiadomienie o zbycie znaczny pakiet akcja,0,4
+nabycie akcja,0,4
+nabycie akcja zwykly imienny,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+oswiadczenie dotyczyc przestrzegac zasada lad,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+zawarcie umowy z podmiot powiazac,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+zawarcie transakcja z podmiot powiazac   ams,0,4
+wynik zapis na sprzedaz akcja ams,0,4
+sprawozdanie finansowy za trzy kwartal msr,1,4
+rozszerzyc skonsolidowac raport kwartalny sa qsr,1,4
+struktura akcjonariat,1,4
+tresc uchwala wza,1,4
+skonsolidowac raport polroczny sa ps,1,4
+zmiana umowy depozytowy,1,4
+zawarcie transakcja z podmiot powiazac ams,1,4
+projekt uchwala na wza w dzien 23.10.2002 r.,1,4
+ogloszenie wezwanie do sprzedaz akcja ams,1,4
+nabycie udzial o znaczny wartosc,0,4
+sprzedaz akcja przez czlonek zarzad,1,4
+wynik zapis na sprzedaz akcja ams,1,4
+zawarcie transakcja z podmiot powiazac   ams,0,4
+zawarcie transakcja z podmiot powiazac ams,0,4
+termin i porzadek obrada wza,0,4
+komunikat w sprawa prezentacja wynik finansowy,1,4
+raport polroczny sa p,1,4
+ogloszenie wezwanie do sprzedaz akcja ams,1,4
+zmiana termin przekazac raport polroczny,0,4
+aneks do umowy zobowiazywac do sprzedaz akcja ams,1,4
+aneks do umowy zobowiazujacej do sprzedaz akcja ams,1,4
+umowa zobowiazywac do sprzedaz akcja ams,1,4
+umowa zobowiazywac do sprzedaz akcja ams,0,4
+dotyczyc umowy zobowiazywac do sprzedaz akcja ams,1,4
+dotyczyc umowy zobowiazywac do sprzedaz akcja ams,1,4
+rozszerzyc skonsolidowac raport kwartalny,1,4
+zamiar polaczenie z city magazine sp. z o.o.,1,4
+spelnienie siebie dwa warunki zawieszac wykonanie umowy,1,4
+korekta komunikat rb 26/2002,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+wprowadzenie akcja do obrot na gpw,1,4
+struktura akcjonariat,1,4
+informacja o powolanie czlonek rad nadzorczy,1,4
+uchwala wza,1,4
+zamiar nabycie udzial w ams,0,4
+zwiekszenie udzial w radio pomoc,0,4
+projekt uchwala na wza,0,4
+chi zmieniac wlasciciel,1,4
+zmiana czlonek rad nadzorczy spolka,1,4
+rezygnacja z ubiegac siebie o wybor w nastepna kadencja,0,4
+termin i porzadek obrada wza,0,4
+raport kwartalny wedlug msr,1,4
+skonsolidowac raport kwartalny,1,4
+raport roczny sa r,1,4
+skonsolidowac raport roczny sa rs,1,4
+nabycie czasopismo proszynskiego,1,4
+zwiekszenie udzial w polski badanie internet,0,4
+podpisac umowy kredytowy,0,4
+zalozenie nowy spolka,1,4
+umowa inwestycyjny   kupno czasopismo proszynskiego,0,4
+sprawozdanie finansowy wedlug msr  poprawic,1,4
+sprawozdanie finansowy wedlug msr,1,4
+skonsolidowac raport kwartalny sa qs,1,4
+przekazywac raport kwartalny,1,4
+zwiekszenie udzial w radio echo,1,4
+nabycie akcja spolka   korekta,0,4
+nabycie akcja spolka,0,4
+nabycie udzial,1,4
+nabycie udzial w radio echo,1,4
+daleki oszczednosci w spolka,1,4
+sprzedaz akcja spolka,0,4
+wynik pierwszy trzy kwartal 2001 r. (msr),1,4
+raport kwartalny sa q,1,4
+skonsolidowac raport kwartalny sa qs,1,4
+uchwala nwza,0,4
+struktura akcjonariat,0,4
+wstepne wynik jednostkowy za pierwsze trzy kwartal rok 2001,1,4
+projekt uchwala na nwza,0,4
+termin i porzadek zwolanie nwza,0,4
+sprzedaz akcja spolka,0,4
+nabycie udzial,1,4
+wynik dwa kwartal wg. msr,0,4
+raport kwartalny sa q,0,4
+skonsolidowac raport kwartalny sa qs,0,4
+nabycie udzial w radio trefl 103/99 2 femtometr,0,4
+wstepne wynik jednostkowy za pierwsze dwa kwartal rok 2001,1,4
+nabycie udzial w radio klasyka 103 7 femtometr,1,4
+wniosek o wprowadzenie do obrot gieldowy 2.870.845 akcja,1,4
+wyjasnienie do informacja prasowy dotyczyc uchwala wza,1,4
+informacja o powolanie czlonek rad nadzorczy,1,4
+struktura akcjonariat,1,4
+uchwala wza,1,4
+wzajemny umowa regulowac zasada obrot papier wartosciowy,0,4
+nabycie udzial w radio wanda sp. z o. o.,1,4
+objecie udzial w centrum handel internetowy,1,4
+zwolanie wza,1,4
+wynik kwartalne,1,4
+raport kwartalny sa q,1,4
+skonsolidowac raport kwartalny sa qs,1,4
+nabycie udzial w city magazine,1,4
+transakcja z podmiot powiazac,0,4
+sprzedaz akcja tkp,0,4
+wynki finansowy,0,4
+raport roczny,0,4
+skonsolidowac raport roczny,0,4
+termin przekazac raport roczny,0,4
+zaniechanie nabycie akcja ams,0,4
+zmiana cena i tresci wezwanie na akcja ams,0,4
+sprzedaz akcja spolka,0,4
+zmiana cena w wezwanie na akcja ams,0,4
+oglaszac wezwanie na akcja ams,1,4
+transakcja z podmiot powiazac,1,4
+skonsolidowac raport kwartalny,0,4
+raport kwartalny,0,4
+wstepne wynik jednostkowy za cztery kwartal rok 2000,1,4
+sprzedaz akcja przez czlonek zarzad,1,4
+rusza portal,0,4
+termin start portal,0,4
+umowy regulowac zasada zbywac akcja,1,4
+duzy pakiet akcja,1,4
+termin raport okresowy,0,4
+raport kwartalny skonsolidowac,1,4
+raport kwartalny,1,4
+raport polroczny,0,4
+raport polroczny skonsolidowac,0,4
+wynik finansowy,0,4
+akcjonariusz 5 proc.,1,4
+uchwala wza,1,4
+uchwala wza,1,4
+holding sp. z o.o. nabyc akcja kkk femtometr,0,4
+sprzedaz akcja przez wiceprezes,1,4
+projekt uchwala wza,1,4
+porzšdek wza   korekta,0,4
+termin i porzšdek obrada nwza,1,4
+nazwa portal,1,4
+zakup wyszukiwarka altavista,0,4
+zmiana wysoko?ci i struktura kapital akcyjny kkkfm,0,4
+wyga?niecie list intencyjny,1,4
+wynik za pierwsze dwa kwartal 2000 r. ias,0,4
+raport kwartalny skonsolidowac,0,4
+raport kwartalny,0,4
+powolanie czlonek zarzšdu,1,4
+wynik fiansowe,1,4
+bankers trust company przekroczyc 10 proc. glos na wza,0,4
+umowa na dostawa maszyna drukarski,0,4
+umowa z porr polski,1,4
+podpisac umowy z porr polski,1,4
+sprzedaz akcja pracowniczy,0,4
+wynik finansowy,1,4
+akcja pracowniczy,1,4
+uchwala podjac na walny zgromadzenie,0,4
+uchwala wza i wladza spolka,1,4
+projekt uchwala na wza,1,4
+wniesc aport,1,4
+rozbudowa uslugi internetowy,0,4
+odwolanie czlonek zarzšdu,0,4
+dopuscic akcja do obrot gieldowy,0,4
+aneks do porozumienie wstepne,0,4
+transakcja z podmiot powišzanymi,0,4
+wniosek o dopuscic akcja do obrot,0,4
+termin i porzšdek obrada zwza,1,4
+wniosek o dopuscic do obrot,1,4
+raport kwartalny skonsolidowac wedlug ias,1,4
+raport kwartalny skonsolidowac,1,4
+aport do radio trefl,0,4
+objecie udzial w o'le sp. z o.o.,0,4
+raport kwartalny,0,4
+zatrudnienie doradca,1,4

@@ -23,10 +23,10 @@
     <bean class="stockfortuneteller.app.Main">
         <property name="tasks">
             <list>
-                <!--<ref bean="stockStemmerCSVBuilder" />--> 
-                <!--<ref bean="stockWekaARFFBuilder"/>-->
+                <ref bean="stockStemmerCSVBuilder" />
+                <ref bean="stockWekaARFFBuilder"/>
                 <!--<ref bean="stockWekaBuilder"/>-->
-                <ref bean="stockWekaHierarchicalClusterBuilder"/>
+                 <ref bean="stockWekaHierarchicalClusterBuilder"/>
                 <!--<ref bean="stockWekaSimpleKBuilder"/>-->
                 <!--<ref bean="dataSplitter" />-->   
                 <!--<ref bean="modelBuilder" />-->     
@@ -54,9 +54,9 @@
         <property name="seed" value="10"/>
     </bean>
     
-    <bean id="stockWekaHierarchicalClusterBuilder" class="stockfortuneteller.data.StockWekaHierarchicalClusterBuilder">
-        <property name="arffFileName" value="src/main/resources/info.arff"/>
-        <property name="csvResultFileName" value="src/main/resources/result"/>
+     <bean id="stockWekaHierarchicalClusterBuilder" class="stockfortuneteller.data.StockWekaHierarchicalClusterBuilder">
+        <property name="arffFileName" value="data/info.arff"/>
+        <property name="csvResultFileName" value="${dataDir}/result"/>
         <property name="numberOfClusters" value="60"/>
     </bean>
     
@@ -83,12 +83,22 @@
                 <bean class="stockfortuneteller.data.Company">
                     <property name="name" value="MOL Magvar Olaj"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,441,,1.html"/>
-                </bean>       
+                </bean>
+                <bean class="stockfortuneteller.data.Company">
+                    <property name="name" value="AGORA SA"/>
+                    <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,23,,1.html"/>
+                </bean>
+                <!-- <bean class="stockfortuneteller.data.Company">
+                    <property name="name" value="TVN SA"/>
+                    <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,423,,1.html"/>
+                </bean> -->           
             </list>
         </property>
         <property name="forbiddenWords">
             <list>
-                <value>mOL</value>
+                <value>tvn</value>
+                <value>agora</value>
+                <value>mol</value>
                 <value>magvar</value>
                 <value>olaj</value>
                 <value>petrolinvest</value>
