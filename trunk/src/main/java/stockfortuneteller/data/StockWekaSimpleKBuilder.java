@@ -66,7 +66,9 @@ public class StockWekaSimpleKBuilder implements ExecutableBean {
         Integer currentFileId;
 
         FileWriter writer = new FileWriter(getCsvResultFileName() + String.valueOf(previousFileId) + ".csv");
+        writer.append("id,cluster,text,change\n");
 
+        
         int id = 0;
         int i = 0;
         int[] assignments = kmeans.getAssignments();
@@ -80,6 +82,7 @@ public class StockWekaSimpleKBuilder implements ExecutableBean {
                 writer.flush();
                 writer.close();
                 writer = new FileWriter(getCsvResultFileName() + String.valueOf(currentFileId) + ".csv");
+                writer.append("id,cluster,text,change\n");
             }
 
             writer.append(String.valueOf(id));

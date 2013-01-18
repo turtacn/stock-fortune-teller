@@ -22,12 +22,16 @@ public class PredictorTester implements ExecutableBean {
     private Predictor<ObservationInteger> predictor;
  
     private String testSequencesDirName;
+    private float cash;
+    private float gainRatio;
+    private float loseRatio;
     
     @Override
     public void execute() throws Exception {
         List<TestSequence<ObservationInteger>> testSequences = loadTestSequences(getTestSequencesDirName());
         Evaluation evaluation = getEvaluator().evaluate(getPredictor(), testSequences);
         System.out.print(evaluation.toString());
+        System.out.print(evaluation.simulate(getCash(), getGainRatio(), getLoseRatio()));
     }
 
     private List<TestSequence<ObservationInteger>> loadTestSequences(String testSequencesDirName) throws IOException {
@@ -82,6 +86,48 @@ public class PredictorTester implements ExecutableBean {
      */
     public void setTestSequencesDirName(String testSequencesDirName) {
         this.testSequencesDirName = testSequencesDirName;
+    }
+
+    /**
+     * @return the cash
+     */
+    public float getCash() {
+        return cash;
+    }
+
+    /**
+     * @param cash the cash to set
+     */
+    public void setCash(float cash) {
+        this.cash = cash;
+    }
+
+    /**
+     * @return the gainRatio
+     */
+    public float getGainRatio() {
+        return gainRatio;
+    }
+
+    /**
+     * @param gainRatio the gainRatio to set
+     */
+    public void setGainRatio(float gainRatio) {
+        this.gainRatio = gainRatio;
+    }
+
+    /**
+     * @return the loseRatio
+     */
+    public float getLoseRatio() {
+        return loseRatio;
+    }
+
+    /**
+     * @param loseRatio the loseRatio to set
+     */
+    public void setLoseRatio(float loseRatio) {
+        this.loseRatio = loseRatio;
     }
 
 }

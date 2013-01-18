@@ -21,66 +21,67 @@ import stockfortuneteller.model.Observations;
  * @author Adrian
  */
 public class DataSetSplitter implements ExecutableBean {
+
     private String dataDirectory;
     private String trainDirectory;
     private String testDirectory;
     private int sequencesSize;
     private float testRatio;
-    
+
     @Override
     public void execute() throws Exception {
         File trainDir = new File(getTrainDirectory());
         File testDir = new File(getTestDirectory());
-        
+
         // recreate directories
         FileUtils.deleteDirectory(trainDir);
         FileUtils.deleteDirectory(testDir);
         trainDir.mkdir();
         testDir.mkdir();
-        
+
         // read all data
         ArrayList<ArrayList<ObservationInteger>> data = Observations.loadSequencesDir(getDataDirectory());
         ArrayList<List<ObservationInteger>> result = new ArrayList<>();
-        
+
         // split sequences
-        for(ArrayList<ObservationInteger> sequence: data) {
-            for(int startIndex = 0, endIndex = getSequencesSize() * 2; // NOTE *2 because we also take message+increase 
+        for (ArrayList<ObservationInteger> sequence : data) {
+            
+            for (int startIndex = 0, endIndex = getSequencesSize() * 2; // NOTE *2 because we also take message+increase 
                     endIndex < sequence.size(); 
-                    startIndex = endIndex, endIndex += getSequencesSize() * 2) 
-            {
+                    ++startIndex, ++endIndex) {
                 result.add(sequence.subList(startIndex, endIndex));
             }
         }
-        
+
         // randomly permutate sequences
         Collections.shuffle(result);
-        
+
         // split
-        int splitIndex = (int)(result.size() * getTestRatio());
+        int splitIndex = (int) (result.size() * getTestRatio());
         List<List<ObservationInteger>> testSet = result.subList(0, splitIndex);
         List<List<ObservationInteger>> trainSet = result.subList(splitIndex, result.size());
-        
+
         // save
         save(trainSet, trainDir);
         save(testSet, testDir);
     }
 
     private void save(List<List<ObservationInteger>> set, File dir) throws IOException {
-        assert(set.size() % 2 == 0);
-        
+        assert (set.size() % 2 == 0);
+
         int fileCounter = 0;
-        for(List<ObservationInteger> sequence: set) {
+        for (List<ObservationInteger> sequence : set) {
             ++fileCounter;
-            
+
             File file = new File(dir, String.valueOf(fileCounter) + ".csv");
             try (FileWriter writer = new FileWriter(file)) {
                 writer.append("unused1,messageId,unused2,increaseId\n");
-                
+
                 Iterator<ObservationInteger> iterator = sequence.iterator();
-                while(iterator.hasNext()) {
+                while (iterator.hasNext()) {
                     ObservationInteger messageId = iterator.next();
                     ObservationInteger increaseId = iterator.next();
-                    
+
                     writer.append("0," + messageId + ",0," + increaseId + "\n");
                 }
             }

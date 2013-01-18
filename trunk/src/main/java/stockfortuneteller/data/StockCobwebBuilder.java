@@ -21,7 +21,7 @@ import weka.filters.unsupervised.attribute.StringToWordVector;
  *
  * @author Itosu
  */
-public class StockWekaBuilder implements ExecutableBean {
+public class StockCobwebBuilder implements ExecutableBean {
 
     private String arffFileName;
     private String csvResultFileName;
