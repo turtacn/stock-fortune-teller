@@ -11,11 +11,15 @@
         <property name="properties">
             <props>
                 <!-- paths -->
-                <prop key="dataDir">data/sequences</prop>
+                <prop key="rawCsvFile">data/info.csv</prop>
+                <prop key="rawArffFile">data/info.arff</prop>
+                
+                <prop key="dataDir">data/sequences-kmeans</prop>
                 <prop key="testDir">data/test</prop>
                 <prop key="trainDir">data/train</prop>
-                <prop key="modelFile">data/model.hmm</prop>
-                <prop key="diagramPath">data/diagram.dot</prop>
+                
+                <prop key="modelFile">data/model2.hmm</prop>
+                <prop key="diagramPath">data/diagram2.dot</prop>
             </props>
         </property>
     </bean>
@@ -23,14 +27,14 @@
     <bean class="stockfortuneteller.app.Main">
         <property name="tasks">
             <list>
-                <ref bean="stockStemmerCSVBuilder" />
-                <ref bean="stockWekaARFFBuilder"/>
-                <!--<ref bean="stockWekaBuilder"/>-->
-                 <ref bean="stockWekaHierarchicalClusterBuilder"/>
+                <!--<ref bean="stockStemmerCSVBuilder" />-->
+                <!--<ref bean="stockWekaARFFBuilder"/>-->
+                <!--<ref bean="stockCobwebBuilder"/>-->
+                <!--<ref bean="stockWekaHierarchicalClusterBuilder"/>-->
                 <!--<ref bean="stockWekaSimpleKBuilder"/>-->
-                <!--<ref bean="dataSplitter" />-->   
-                <!--<ref bean="modelBuilder" />-->     
-                <!--<ref bean="tester" />-->              
+                <ref bean="dataSplitter" />   
+                <ref bean="modelBuilder" />     
+                <ref bean="tester" />              
             </list>
         </property>
     </bean>
@@ -38,8 +42,8 @@
     <!-- =======================================================================
     == DATA GATHERING AND PREPROCESSING
     ======================================================================== -->
-    <bean id="stockWekaBuilder" class="stockfortuneteller.data.StockWekaBuilder">
-        <property name="arffFileName" value="data/info.arff"/>
+    <bean id="stockCobwebBuilder" class="stockfortuneteller.data.StockCobwebBuilder">
+        <property name="arffFileName" value="${rawArffFile}"/>
         <property name="csvResultFileName" value="${dataDir}/result"/>
         <property name="acuity" value="10.0"/>
         <property name="cutoff" value="0.00186"/>
@@ -47,22 +51,22 @@
     </bean>
 
     <bean id="stockWekaSimpleKBuilder" class="stockfortuneteller.data.StockWekaSimpleKBuilder">
-        <property name="arffFileName" value="data/info.arff"/>
+        <property name="arffFileName" value="${rawArffFile}"/>
         <property name="csvResultFileName" value="${dataDir}/result"/>
         <property name="maxIterations" value="8000"/>
-        <property name="numberOfClusters" value="400"/>
+        <property name="numberOfClusters" value="40"/>
         <property name="seed" value="10"/>
     </bean>
     
      <bean id="stockWekaHierarchicalClusterBuilder" class="stockfortuneteller.data.StockWekaHierarchicalClusterBuilder">
-        <property name="arffFileName" value="data/info.arff"/>
+        <property name="arffFileName" value="${rawArffFile}"/>
         <property name="csvResultFileName" value="${dataDir}/result"/>
-        <property name="numberOfClusters" value="60"/>
+        <property name="numberOfClusters" value="40"/>
     </bean>
     
     <bean id="stockWekaARFFBuilder" class="stockfortuneteller.data.StockWekaARFFBuilder">
-        <property name="csvFileName" value="data/info.csv"/>
-        <property name="arffFileName" value="data/info.arff"/>
+        <property name="csvFileName" value="${rawCsvFile}"/>
+        <property name="arffFileName" value="${rawArffFile}"/>
     </bean>
     
     <bean id="stockStemmerCSVBuilder" class="stockfortuneteller.data.StockStemmerCSVBuilder">
@@ -88,10 +92,10 @@
                     <property name="name" value="AGORA SA"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,23,,1.html"/>
                 </bean>
-                <!-- <bean class="stockfortuneteller.data.Company">
+<!--                 <bean class="stockfortuneteller.data.Company">
                     <property name="name" value="TVN SA"/>
                     <property name="infoURL" value="http://www.money.pl/gielda/komunikaty/strona,423,,1.html"/>
-                </bean> -->           
+                </bean>            -->
             </list>
         </property>
         <property name="forbiddenWords">
@@ -110,7 +114,7 @@
                 <value>s.a.</value>
             </list>
         </property>
-        <property name="fileName" value="data/info.csv"/>
+        <property name="fileName" value="${rawCsvFile}"/>
     </bean>
     
     <!-- =======================================================================
@@ -132,11 +136,11 @@
         <property name="sequencesInDirName" value="${trainDir}" />
         <property name="diagramOutFileName" value="${diagramPath}" />
         <property name="modelOutFileName" value="${modelFile}" />
-        <property name="modelStateNumber" value="6" />
+        <property name="modelStateNumber" value="10" />
         <property name="postprocessors">
             <list>
                 <bean class="stockfortuneteller.model.postprocessor.BwlPostprocessor" />
-                <bean class="stockfortuneteller.model.postprocessor.ResetInitialProbabilitiesPostprocessor" />     
+                <!--<bean class="stockfortuneteller.model.postprocessor.ResetInitialProbabilitiesPostprocessor" />-->     
             </list>
         </property>
     </bean>
@@ -148,12 +152,18 @@
         <property name="testSequencesDirName" value="${testDir}"/>
         <property name="evaluator" ref="evaluator"/>
         <property name="predictor" ref="predictor"/>
+        
+        
+        <property name="cash" value="1000"/>
+        <property name="gainRatio" value="1.0"/>
+        <property name="loseRatio" value="1.0"/>
     </bean>
     
     <bean id="evaluator" class="stockfortuneteller.evaluate.SimplePredictorEvaluator" lazy-init="true">
     </bean>
     
     <bean id="predictor" class="stockfortuneteller.predict.SimplePredictor" lazy-init="true">
-        <constructor-arg value="${modelFile}"/>
+        <property name="modelFile" value="${modelFile}" />
+        <property name="simulationThreshold" value="0.00001" />
     </bean>
 </beans>
