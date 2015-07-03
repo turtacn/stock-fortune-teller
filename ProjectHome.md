@@ -1,0 +1,1 @@
+stock-fortune-teller
